@@ -2,19 +2,19 @@
 
 <h3 align="center">Traduzione italiana di Tomodachi Collection</h3>
 <p align="center"> Questa è una traduzione basata sul leggendario Tomodachi Collection per Nintendo DS, titolo uscito esclusivamente in Giappone </p>
+<p align="center"> ⚠ è La prima volta che mi cimento in questo mondo, per tanto ci potrebbero essere molti errori. sono comunque molto felice in caso vogliate provare questa traduzione😊 </p>
 
 <br>
 <br>
 
 <p> Siamo partiti dalla versione di <a href="https://gbatemp.net/threads/unfinished-tomodachi-collection-english-translation-patch.357438/">jjjewel</a>, autore della patch inglese del gioco. </p>
-<p> La traduzione ora è in fase embrionale, noi del Peppe30 Studios stiamo completando piano piano il lavoro. </p>
 <p> Se siete interessati a collaborare e rimanere aggiornati sul progetto entrate nel <a href="https://discord.gg/p59ABtKseu">Server Discord</a>. </p>
 
 ![Senza_titolo-2_page-0001-removebg-preview (1)](https://github.com/user-attachments/assets/33f72235-d06c-4904-a493-d8af8a102e98)
 
- ⚠️ Attualmente la Beta 2 NON funziona su TWiLight Menu++, sono necessari una qualsiasi Flashcard o emulatore come <a href="http://desmume.org/">DeSmuMe</a> o <a href="https://melonds.kuribo64.net/">MelonDS</a> 
+ <s> ⚠️ Attualmente la Beta 2 NON funziona su TWiLight Menu++, sono necessari una qualsiasi Flashcard o emulatore come <a href="http://desmume.org/">DeSmuMe</a> o <a href="https://melonds.kuribo64.net/">MelonDS</a> </s>
 
-<h4> Dalla versione v27.12.4 di TWiLight Menu++, Tomodachi Collection - Ita (beta 1) è completamente supportato e non richiede più l'ausilio di flashcarts o emulatori </h4>
+ <h4> Dalla versione v27.17.1 di TWiLight Menu++, Tomodachi Collection - Ita (beta 2) è completamente supportato e non richiede più l'ausilio di flashcarts o emulatori </h4> 
 
 <br>
 
@@ -57,6 +57,5 @@
 
 - [Pako](https://github.com/PakoJSTL) (Contributor)
 
-<br>
+- [RocketRobz](https://github.com/RocketRobz) (Twilight Menu++ Maintainer & Developer)
 
-<h4> Traduzione attualmente completata al 43% </h4>
