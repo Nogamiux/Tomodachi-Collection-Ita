@@ -39,6 +39,21 @@
 
 <br>
 
+<h2 align="center"> Che Tool Abbiamo Usato? </h2>
+
+Editor Esadecimale [HxD](https://mh-nexus.de/en/hxd/) By Maël Hörz
+
+Rom Editor [Tinke](https://github.com/pleonex/tinke) By pleonex
+
+Image Editor [NitroPaint](https://github.com/Garhoogin/NitroPaint/releases) By Garhoogin
+And [Crystal Tile 2](https://www.romhacking.net/utilities/818/) By Angel Team
+
+Bmg Editor [MSBT Editor](https://gitlab.com/AeonSake/msbt-editor) By Aeon
+
+Xdelta Patcher [Xdelta UI](https://www.romhacking.net/utilities/598/) By KaioShin
+
+AP-Patch for TWL++ Support [RocketRobz](https://github.com/RocketRobz)
+
 <h2 align="center"> CREDITI </h2>
 
 - [Peppe30_BRICK](https://github.com/Peppe30brick) (Lead Developer)
