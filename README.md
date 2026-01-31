@@ -2,7 +2,7 @@
 
 <h3 align="center">Traduzione italiana di Tomodachi Collection</h3>
 <p align="center"> Questa è una traduzione basata sul leggendario Tomodachi Collection per Nintendo DS, titolo uscito esclusivamente in Giappone </p>
-<p align="center"> ⚠ Il progetto non è più mantenuto su questa repo, ma bensi su questa repo [qui](https://gitlab.com/Nogamiux/tomodachi-collection-ita) </p>
+<p align="center"> ⚠ Il progetto non è più mantenuto su questa repo, ma bensi su questa repo qui https://gitlab.com/Nogamiux/tomodachi-collection-ita </p>
 
 <br>
 <br>
