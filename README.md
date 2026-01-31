@@ -2,7 +2,7 @@
 
 <h3 align="center">Traduzione italiana di Tomodachi Collection</h3>
 <p align="center"> Questa è una traduzione basata sul leggendario Tomodachi Collection per Nintendo DS, titolo uscito esclusivamente in Giappone </p>
-<p align="center"> ⚠ è La prima volta che mi cimento in questo mondo, per tanto ci potrebbero essere molti errori. sono comunque molto felice in caso vogliate provare questa traduzione😊 </p>
+<p align="center"> ⚠ Il progetto non è più mantenuto su questa repo, ma bensi su questa repo [qui](https://gitlab.com/Nogamiux/tomodachi-collection-ita) </p>
 
 <br>
 <br>
@@ -56,7 +56,7 @@ AP-Patch for TWL++ Support [RocketRobz](https://github.com/RocketRobz)
 
 <h2 align="center"> CREDITI </h2>
 
-- [Peppe30_BRICK](https://github.com/Peppe30brick) (Lead Developer)
+- ~~[Peppe30_BRICK](https://github.com/Peppe30brick) (Lead Developer)~~ (Peppe30brick si è ritirato dallo sviluppo)
 
 - [Sasso.Figo](https://github.com/SassoFigo) (Contributor)
 
