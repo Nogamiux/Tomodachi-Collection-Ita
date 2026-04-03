@@ -8,7 +8,6 @@
 <br>
 
 <p> Siamo partiti dalla versione di <a href="https://gbatemp.net/threads/unfinished-tomodachi-collection-english-translation-patch.357438/">jjjewel</a>, autore della patch inglese del gioco. </p>
-<p> Se siete interessati a collaborare e rimanere aggiornati sul progetto entrate nel <a href="https://discord.gg/jStuRHZFV9">Server Discord</a>. </p>
 
 ![Senza_titolo-2_page-0001-removebg-preview (1)](https://github.com/user-attachments/assets/33f72235-d06c-4904-a493-d8af8a102e98)
 
