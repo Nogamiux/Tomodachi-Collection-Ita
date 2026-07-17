@@ -3,7 +3,7 @@
 <h3 align="center">Traduzione italiana di Tomodachi Collection</h3>
 <p align="center"> Questa è una traduzione basata sul leggendario Tomodachi Collection per Nintendo DS, titolo uscito esclusivamente in Giappone </p>
 <p align="center"> ⚠ è La prima volta che mi cimento in questo mondo, per tanto ci potrebbero essere molti errori. sono comunque molto felice in caso vogliate provare questa traduzione. </p>
-<p align="center"> Essendo una traduzione NON ufficiale, Bug, errori di traduzione, crash improvvisi ed errori di sintassi sono molto frequenti. per ogni cosa potete aprire una [Issue](https://gitlab.com/Nogamiux/tomodachi-collection-ita/-/work_items) questo semplifica di molto la risoluzione dei bug. </p>
+<p align="center"> Essendo una traduzione NON ufficiale, Bug, errori di traduzione, crash improvvisi ed errori di sintassi sono molto frequenti. per ogni cosa potete aprire una [Issue](https://github.com/Nogamiux/Tomodachi-Collection-Ita/issues) questo semplifica di molto la risoluzione dei bug. </p>
 
 <br>
 <br>
