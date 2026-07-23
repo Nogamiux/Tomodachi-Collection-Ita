@@ -10,7 +10,7 @@
 
 <p> Siamo partiti dalla versione di <a href="https://gbatemp.net/threads/unfinished-tomodachi-collection-english-translation-patch.357438/">jjjewel</a>, autore della patch inglese del gioco. </p>
 
- <s> ⚠️ Attualmente la Beta 2 NON funziona su TWiLight Menu++, sono necessari una qualsiasi Flashcard o emulatore come <a href="http://desmume.org/">DeSmuMe</a> o <a href="https://melonds.kuribo64.net/">MelonDS</a> </s>
+ <s> ⚠️ Attualmente la Beta 2 NON funziona su TWiLight Menu++, sono dunque necessari una qualsiasi Flashcard o emulatore come <a href="http://desmume.org/">DeSmuMe</a> o <a href="https://melonds.kuribo64.net/">MelonDS</a> </s>
 
  <h4> Dalla versione v27.17.1 di TWiLight Menu++, Tomodachi Collection - Ita (beta 2) è completamente supportato e non richiede più l'ausilio di flashcarts o emulatori </h4> 
 
