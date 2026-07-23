@@ -1,0 +1,2859 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 8
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+---
+id: 100
+attribute: 0x6400300001030101
+---
+Serio
+
+---
+id: 200
+attribute: 0x6400300001030101
+---
+Simp...
+
+---
+id: 300
+attribute: 0x6400300001030101
+---
+Rilassato
+
+---
+id: 400
+attribute: 0x6400300001030101
+---
+Calmo
+
+---
+id: 425
+attribute: 0x6400300001030101
+---
+？？？
+
+---
+id: 450
+attribute: 0x6400280001030001
+---
+(--)
+
+---
+id: 451
+attribute: 0x6400280001030001
+---
+(+-)
+
+---
+id: 452
+attribute: 0x6400280001030001
+---
+(-+)
+
+---
+id: 453
+attribute: 0x6400280001030001
+---
+(++)
+
+---
+id: 500
+attribute: 0x64003C0001030101
+---
+Tranquillo
+
+---
+id: 501
+attribute: 0x64003C0001030101
+---
+Cauto
+
+---
+id: 502
+attribute: 0x64003C0001030101
+---
+Schietto
+
+---
+id: 503
+attribute: 0x64003C0001030101
+---
+Drastico
+
+---
+id: 504
+attribute: 0x64003C0001030101
+---
+Timido
+
+---
+id: 505
+attribute: 0x64003C0001030101
+---
+Arguto
+
+---
+id: 506
+attribute: 0x64003C0001030101
+---
+Attento
+
+---
+id: 507
+attribute: 0x64003C0001030101
+---
+Vivace
+
+---
+id: 508
+attribute: 0x64003C0001030101
+---
+Gentile
+
+---
+id: 509
+attribute: 0x64003C0001030101
+---
+Dolce
+
+---
+id: 510
+attribute: 0x64003C0001030101
+---
+Rumoroso
+
+---
+id: 511
+attribute: 0x64003C0001030101
+---
+Solare
+
+---
+id: 512
+attribute: 0x64003C0001030101
+---
+Delicato
+
+---
+id: 513
+attribute: 0x64003C0001030101
+---
+Sorridente
+
+---
+id: 514
+attribute: 0x64003C0001030101
+---
+Brillante
+
+---
+id: 515
+attribute: 0x64003C0001030101
+---
+Forte
+
+---
+id: 516
+attribute: 0x64003C0001030101
+---
+？？？？
+
+---
+id: 600
+attribute: 0x6400B80001010001
+---
+Scegli il genere.
+
+---
+id: 612
+attribute: 0x6400B80001010001
+---
+Modifica il mii?
+
+---
+id: 625
+attribute: 0x6400F00001010001
+---
+Personalizzazione aspetto
+
+---
+id: 650
+attribute: 0x6400F00001010001
+---
+Personalizzazione profilo
+
+---
+id: 700
+attribute: 0x6400E00001010001
+---
+Inserisci il cognome.
+
+---
+id: 800
+attribute: 0x6400E00001010001
+---
+Inserisci il nome.
+
+---
+id: 900
+attribute: 0x6400E00001010001
+---
+Inserisci un nickname.
+
+---
+id: 950
+attribute: 0x6400F00001010001
+---
+Impostazioni vocali
+
+---
+id: 1000
+attribute: 0x6400F00001010001
+---
+Personalità
+
+---
+id: 1050
+attribute: 0x6400F00001010001
+---
+La personalità di {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} è...
+
+---
+id: 1100
+attribute: 0x6400F00001010001
+---
+Inserisci nome del creatore
+
+---
+id: 1200
+attribute: 0x6400F00001010001
+---
+Inserisci il cibo preferito.
+
+---
+id: 1300
+attribute: 0x6400F00001010001
+---
+Inserisci un altro cibo preferito.
+
+---
+id: 1400
+attribute: 0x6400B40001010001
+---
+Scegli la prima frase
+
+---
+id: 1500
+attribute: 0x6400B40001010001
+---
+Scegli la seconda frase
+
+---
+id: 1600
+attribute: 0x6400280001010001
+---
+Modifica
+
+---
+id: 1700
+attribute: 0x6400B80001010002
+---
+Salva ed esci.
+
+---
+id: 1800
+attribute: 0x6400B80001010001
+---
+Esci senza salvare.
+
+---
+id: 1900
+attribute: 0x6400B80001010001
+---
+Non ancora completato.
+
+---
+id: 2000
+attribute: 0x6400B80001010007
+---
+Vuoi registrare
+questo Mii?
+
+---
+id: 2100
+attribute: 0x6400B80001010007
+---
+Sei sicuro di uscire
+senza salvare?
+
+---
+id: 2101
+attribute: 0x6400E00001030001
+---
+{{1:2 arg="0x0000"}}{{1:3 arg="0x0100"}}デス
+
+---
+id: 2102
+attribute: 0x6400E00001030001
+---
+{{1:1 arg="0x0000"}}ネン_{{1:1 arg="0x0100"}}ガツ_{{1:1 arg="0x0200"}}ニチウマレノ{{1:250 arg="0x0000"}}
+
+---
+id: 2103
+attribute: 0x6400E00001030001
+---
+{{1:1 arg="0x0000"}}ガツ_{{1:1 arg="0x0100"}}ニチウマレノ{{1:250 arg="0x0000"}}
+
+---
+id: 2104
+attribute: 0x6400E00001030001
+---
+{{1:1 arg="0x0000"}}ネンウマレ
+
+---
+id: 2105
+attribute: 0x6400E00001030001
+---
+サクセイシャワ{{1:1 arg="0x0000"}}
+
+---
+id: 2106
+attribute: 0x6400E00001030001
+---
+ケツエキガタワ{{1:250 arg="0x0000"}}ガタ
+
+---
+id: 2107
+attribute: 0x6400E00001030001
+---
+スキナイロワ{{1:250 arg="0x0000"}}デス
+
+---
+id: 2108
+attribute: 0x6400E00001030001
+---
+ニックネームワ_{{1:1 arg="0x0000"}}
+
+---
+id: 2109
+attribute: 0x6400E00001030001
+---
+ 
+
+---
+id: 2200
+attribute: 0x6400E00001030001
+---
+ミズガメザ
+
+---
+id: 2201
+attribute: 0x6400E00001030001
+---
+ウオザ
+
+---
+id: 2202
+attribute: 0x6400E00001030001
+---
+オジツジザ
+
+---
+id: 2203
+attribute: 0x6400E00001030001
+---
+オウシザ
+
+---
+id: 2204
+attribute: 0x6400E00001030001
+---
+フタゴザ
+
+---
+id: 2205
+attribute: 0x6400E00001030001
+---
+カニザ
+
+---
+id: 2206
+attribute: 0x6400E00001030001
+---
+シシザ
+
+---
+id: 2207
+attribute: 0x6400E00001030001
+---
+オトメザ
+
+---
+id: 2208
+attribute: 0x6400E00001030001
+---
+テンビンザ
+
+---
+id: 2209
+attribute: 0x6400E00001030001
+---
+サソリザ
+
+---
+id: 2210
+attribute: 0x6400E00001030001
+---
+イテザ
+
+---
+id: 2211
+attribute: 0x6400E00001030001
+---
+ヤギザ
+
+---
+id: 2300
+attribute: 0x6400E00001030001
+---
+アカ
+
+---
+id: 2301
+attribute: 0x6400E00001030001
+---
+オレンジ
+
+---
+id: 2302
+attribute: 0x6400E00001030001
+---
+キイロ
+
+---
+id: 2303
+attribute: 0x6400E00001030001
+---
+キミドリ
+
+---
+id: 2304
+attribute: 0x6400E00001030001
+---
+ミドリ
+
+---
+id: 2305
+attribute: 0x6400E00001030001
+---
+アオ
+
+---
+id: 2306
+attribute: 0x6400E00001030001
+---
+ミズイロ
+
+---
+id: 2307
+attribute: 0x6400E00001030001
+---
+ピンク
+
+---
+id: 2308
+attribute: 0x6400E00001030001
+---
+ムラサキ
+
+---
+id: 2309
+attribute: 0x6400E00001030001
+---
+チャイロ
+
+---
+id: 2310
+attribute: 0x6400E00001030001
+---
+シロ
+
+---
+id: 2311
+attribute: 0x6400E00001030001
+---
+クロ
+
+---
+id: 2400
+attribute: 0x6400E00001030001
+---
+エー
+
+---
+id: 2401
+attribute: 0x6400E00001030001
+---
+ビー
+
+---
+id: 2402
+attribute: 0x6400E00001030001
+---
+オー
+
+---
+id: 2403
+attribute: 0x6400E00001030001
+---
+エービー
+
+---
+id: 2500
+attribute: 0x6400380001010001
+---
+Nessuno
+
+---
+id: 2501
+attribute: 0x6400380001010001
+---
+Sosia
+
+---
+id: 2502
+attribute: 0x6400380001010001
+---
+Sposo
+
+---
+id: 2503
+attribute: 0x6400380001010001
+---
+Parente
+
+---
+id: 2504
+attribute: 0x6400380001010001
+---
+Bambino
+
+---
+id: 2505
+attribute: 0x6400380001010001
+---
+Fratello
+
+---
+id: 2600
+attribute: 0x6400200001010001
+---
+Ａ
+
+---
+id: 2601
+attribute: 0x6400200001010001
+---
+Ｂ
+
+---
+id: 2602
+attribute: 0x6400200001010001
+---
+Ｏ
+
+---
+id: 2603
+attribute: 0x6400200001010001
+---
+AＢ
+
+---
+id: 2604
+attribute: 0x6400200001010001
+---
+　
+
+---
+id: 100050
+attribute: 0x6400280001010001
+---
+Menu
+
+---
+id: 100070
+attribute: 0x6400280001010001
+---
+Ordine
+
+---
+id: 100100
+attribute: 0x6400E00001030003
+---
+Prima impressione: Sicuro di sé 
+Caratteristiche: Formale, odia perdere
+irascibile, schietto.
+
+---
+id: 100110
+attribute: 0x6400E00001030003
+---
+Prima impressione: Di buon umore 
+Caratteristiche: Energico, crede
+nell'intuizione, ottimista, sensibile
+
+---
+id: 100120
+attribute: 0x6400E00001030003
+---
+Prima impressione: Interessante
+Caratteristiche: Riservata,
+attenta, testarda, logico, indifferente
+
+---
+id: 100130
+attribute: 0x6400E00001030003
+---
+Prima impressione: Gentile
+Caratteristiche: Prende le cose con calma,
+ingenuo, delicato, mite, attento, gentile
+
+---
+id: 100200
+attribute: 0x6400C80001030003
+---
+{{255:0 arg="0x0100"}}Molto riservato e incapace
+a dire le cose francamente alle persone, 
+ma ha una forte volontà.
+
+---
+id: 100201
+attribute: 0x6400C80001030003
+---
+{{255:0 arg="0x0100"}}Non mostra molto le emozioni
+e pensa sempre a tutto con attenzione.
+
+---
+id: 100202
+attribute: 0x6400C80001030003
+---
+{{255:0 arg="0x0100"}}Gli piace fare le cose da solo.
+Sembra indifferente ma in realtà
+è molto forte.
+
+---
+id: 100203
+attribute: 0x6400C80001030003
+---
+{{255:0 arg="0x0100"}}Preferisce fare le cose a
+modo suo. Non ascolta gli
+altri. Un tipo competente.
+
+---
+id: 100204
+attribute: 0x6400C80001030003
+---
+Molto paziente. Si preoccupa più degli
+altri che di se stesso. Potrebbe esplodere
+se le cose superano il limite.
+
+---
+id: 100205
+attribute: 0x6400C80001030003
+---
+Sempre serio con tutto. Silenzioso,
+ma diretto. Ha molta paura
+di infrangere le regole.
+
+---
+id: 100206
+attribute: 0x6400C80001030003
+---
+Gli piacciono le sfide. è più
+entusiasta se l'obiettivo
+è più difficile. Un po' goffo.
+
+---
+id: 100207
+attribute: 0x6400C80001030003
+---
+{{255:0 arg="0x0100"}}Leader severo. Affronta sempre
+le cose con tutta la sua forza. Soffre
+di un divario tra ideale e realtà.
+
+---
+id: 100208
+attribute: 0x6400C80001030003
+---
+Di solito si preoccupa degli altri.
+Vuole andare d'accordo con tutti.
+Si fida facilmente delle persone.
+
+---
+id: 100209
+attribute: 0x6400C80001030003
+---
+Un tipo rilassato e spensierato.
+Molto tranquillo, ma con molte
+cose di cui preoccuparsi.
+
+---
+id: 100210
+attribute: 0x6400C80001030003
+---
+Sempre felice e sorridente,
+anche nelle situazioni più
+drastiche.
+
+---
+id: 100211
+attribute: 0x6400C80001030003
+---
+{{255:0 arg="0x0100"}}Un tipo dal sangue caldo.
+Gli piace coinvolgersi con altre persone.
+Un po' insistente.
+
+---
+id: 100212
+attribute: 0x6400C80001030003
+---
+Il tipo rassicurante. Mostra sempre
+le emozioni in modo evidente
+sul suo viso.
+
+---
+id: 100213
+attribute: 0x6400C80001030003
+---
+Sorride sempre alle persone e
+fa sempre ridere la gente,
+ma in realtà è affidabile.
+
+---
+id: 100214
+attribute: 0x6400C80001030003
+---
+{{255:0 arg="0x0100"}}L'idolo di tutti. Sempre così
+energico e pieno di motivazione.
+Anche se fa fatica a mantenere la sua immagine.
+
+---
+id: 100215
+attribute: 0x6400C80001030003
+---
+{{255:0 arg="0x0100"}}Molto energico e determinato.
+Gli piace fare le cose d'impulso,
+e nessuno può fermarlo.
+
+---
+id: 110100
+attribute: 0x6400340001010101
+---
+Modifica
+
+---
+id: 110150
+attribute: 0x6400340001010101
+---
+Entra
+
+---
+id: 110200
+attribute: 0x6400B80001010001
+---
+Abbiglia questo Mii
+
+---
+id: 110250
+attribute: 0x6400280001010101
+---
+Visita
+
+---
+id: 110300
+attribute: 0x6400280001010001
+---
+Cancella
+
+---
+id: 110400
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
+Cancellare questo Mii
+eliminerà tutte le sue statistiche.
+Sei Sicuro?
+
+---
+id: 110410
+attribute: 0x6400B40001010007
+---
+Il costo per L'eliminazione è
+２１００ yen. Va Bene?
+
+---
+id: 110420
+attribute: 0x6400B40001010007
+---
+Non hai abbastanza soldi!
+
+---
+id: 110450
+attribute: 0x6400B40001010007
+---
+Non puoi eliminare il 
+tuo Mii!
+
+---
+id: 110475
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} è
+Andato via, chissà dov'è...
+
+---
+id: 110500
+attribute: 0x6400780001010001
+---
+Nome
+
+---
+id: 110501
+attribute: 0x6400780001010001
+---
+Nickname
+
+---
+id: 110502
+attribute: 0x6400780001010001
+---
+Genere
+
+---
+id: 110503
+attribute: 0x6400780001010001
+---
+Anno di nascita
+
+---
+id: 110504
+attribute: 0x6400780001010001
+---
+Compleanno
+
+---
+id: 110505
+attribute: 0x6400780001010001
+---
+Gruppo sanguigno
+
+---
+id: 110506
+attribute: 0x6400780001010001
+---
+Tratti
+
+---
+id: 120100
+attribute: 0x6400320001030001
+---
+Dove?
+
+---
+id: 130000
+attribute: 0x64003C0001030001
+---
+Profilo
+
+---
+id: 130100
+attribute: 0x64003C0001030001
+---
+Relazioni
+
+---
+id: 130150
+attribute: 0x64006E0001010002
+---
+(Attualmente non ha
+relazioni.)
+
+---
+id: 130200
+attribute: 0x6400640001030001
+---
+Coniuge
+
+---
+id: 130300
+attribute: 0x6400640001030001
+---
+Coniuge (in litigio)
+
+---
+id: 130400
+attribute: 0x6400640001030001
+---
+FIdanzato/a
+
+---
+id: 130500
+attribute: 0x6400640001030001
+---
+Fidanzato/a (in litigio)
+
+---
+id: 130600
+attribute: 0x6400640001030001
+---
+Amico/a
+
+---
+id: 130700
+attribute: 0x6400640001030001
+---
+Amico/a (In litigio)
+
+---
+id: 130800
+attribute: 0x6400640001030001
+---
+Ex fidanzato/a
+
+---
+id: 130900
+attribute: 0x6400640001030001
+---
+Divorziato
+
+---
+id: 130950
+attribute: 0x6400640001030001
+---
+Miglior amico/a
+
+---
+id: 200100
+attribute: 0x6400320001010101
+---
+Entra
+
+---
+id: 200110
+attribute: 0x6400400001030101
+---
+Vota
+
+---
+id: 200120
+attribute: 0x6400400001030101
+---
+Domanda
+
+---
+id: 201000
+attribute: 0x6400A00001010006
+---
+Negozio di vestiti.
+I capi cambiano ogni
+giorno. Passa a vedere
+le ultime novità!
+
+---
+id: 201100
+attribute: 0x6400A00001010006
+---
+Un negozio per vendere
+ciò che non ti serve più.
+
+---
+id: 201200
+attribute: 0x6400A00001010006
+---
+Un negozio per comprare
+nuovi stili per il tuo
+appartamento.
+
+---
+id: 201300
+attribute: 0x6400A00001010006
+---
+Ufficio per trovare un
+lavoro adatto.
+(Data di nascita
+richiesta.)
+
+---
+id: 201350
+attribute: 0x6400A00001030006
+---
+
+Attualmente chiuso per 
+mancanza di personale.
+
+---
+id: 201400
+attribute: 0x6400A00001010006
+---
+Classifiche pubbliche
+sugli abitanti dell'isola!
+
+---
+id: 201500
+attribute: 0x6400A00001010006
+---
+Un posto dove chiedere ai
+Mii di votare o fare loro
+delle domande.
+
+---
+id: 201550
+attribute: 0x6400A00001030006
+---
+
+Attualmente Chiuso Per
+Mancanza Di Personale.
+
+---
+id: 201600
+attribute: 0x6400A00001010006
+---
+Notizie quotidiane
+sull'isola, trasmesse
+dalla mattina alla sera.
+
+---
+id: 201650
+attribute: 0x6400A00001010006
+---
+
+Notizie Sospese Per 
+Mancanza Di Personale
+
+---
+id: 201700
+attribute: 0x6400A00001010006
+---
+Qui puoi registrare nuovi
+residenti, salvare dati e
+molto altro.
+Vieni pure qui se hai dei
+problemi.
+
+---
+id: 201800
+attribute: 0x6400A00001010006
+---
+Negozio di alimentari.
+Vende cibo diverso ogni
+giorno. (Sempre disponibile
+nel catalogo dopo
+l'acquisto.)
+
+---
+id: 201900
+attribute: 0x6400A00001010006
+---
+Il condominio in cui
+vivono i Mii.
+Guarda nelle stanze per
+vedere cosa succede!
+
+---
+id: 202000
+attribute: 0x6400A00001010006
+---
+Gli abitanti donano soldi
+per ricevere servizi.
+(Le donazioni si possono
+raccogliere una sola volta
+al giorno.)
+
+---
+id: 202050
+attribute: 0x6400A00001010006
+---
+
+Dopo la raccolta fondi,
+possono esserci anche
+altri eventi.
+
+---
+id: 202100
+attribute: 0x6400A00001010006
+---
+Test di compatibilità:
+calcola l'affinità di una
+coppia. (Richiede la data
+di nascita.)
+
+---
+id: 202150
+attribute: 0x6400A00001010006
+---
+Attrazione chiusa.
+Servono almeno 2 Mii con
+data di nascita nota per
+fare una diagnosi.
+
+---
+id: 202200
+attribute: 0x6400A00001010006
+---
+【Negozio di abbigliamento】
+Lavori in corso
+
+－－－－Requisiti－－－－
+Almeno 2 Mii ♀, 2 Mii ♂ e
+5 problemi risolti.
+
+---
+id: 202300
+attribute: 0x6400A00001010006
+---
+【Banco dei pegni】
+Lavori in corso
+
+－－－－Requisiti－－－－
+Ottieni 5 oggetti.
+
+---
+id: 202400
+attribute: 0x6400A00001010006
+---
+【Negozio Di Arredamenti】
+Lavori in corso
+
+－－－－Requisiti－－－－
+Raggiungi un patrimonio
+di 20.000 yen.
+
+---
+id: 202500
+attribute: 0x6400A00001010006
+---
+【Ufficio assunzioni】
+Lavori in corso
+
+－－－－Requisiti－－－－
+Almeno 2 Mii ♀, 2 Mii ♂ e
+15 problemi risolti.
+
+---
+id: 202600
+attribute: 0x6400A00001010006
+---
+【Classifiche】
+Lavori in corso
+
+－－－－Requisiti－－－－
+Almeno 5 residenti e
+10 problemi risolti.
+
+---
+id: 202700
+attribute: 0x6400A00001010006
+---
+【Botta e risposta】
+Lavori in corso
+
+－－－－Requisiti－－－－
+Almeno 4 residenti e
+60 problemi risolti.
+
+---
+id: 202800
+attribute: 0x6400A00001010006
+---
+【Mii News】
+Lavori in corso
+
+－－－－Requisiti－－－－
+Almeno 3 Mii ♀, 3 Mii ♂ e
+7 residenti totali.
+
+---
+id: 202900
+attribute: 0x6400A00001010006
+---
+【Fontana】
+Lavori in corso
+
+－－－－Requisiti－－－－
+？？？？？
+
+---
+id: 203000
+attribute: 0x6400A00001010006
+---
+【Test di affinità】
+Lavori in corso
+
+－－－－Requisiti－－－－
+Almeno 2 Mii ♀, 2 Mii ♂ e
+30 problemi risolti.
+
+---
+id: 300100
+attribute: 0x6400140001030001
+---
+ 
+
+---
+id: 300200
+attribute: 0x64001E0001030001
+---
+(Stanza)
+
+---
+id: 300300
+attribute: 0x6400280001030001
+---
+ è a casa.
+
+---
+id: 300400
+attribute: 0x6400320001010001
+---
+Entra
+
+---
+id: 300401
+attribute: 0x6400320001030001
+---
+Controlla
+
+---
+id: 300500
+attribute: 0x6400320001010001
+---
+Muovi
+
+---
+id: 300600
+attribute: 0x6400320001010001
+---
+Cambia
+
+---
+id: 300700
+attribute: 0x6400320001010001
+---
+Dove vuoi trasferirti?
+
+---
+id: 300800
+attribute: 0x6400320001010001
+---
+Va Bene?
+
+---
+id: 300900
+attribute: 0x6400320001010001
+---
+Vuoi Cambiare Stanza?
+
+---
+id: 301000
+attribute: 0x6400460001010001
+---
+Si
+
+---
+id: 301100
+attribute: 0x6400460001010001
+---
+Cambia
+
+---
+id: 301200
+attribute: 0x6400460001010001
+---
+Esci
+
+---
+id: 301201
+attribute: 0x6400460001010001
+---
+Lista
+
+---
+id: 301202
+attribute: 0x6400460001010001
+---
+Collezione
+
+---
+id: 400010
+attribute: 0x6400460001010001
+---
+Giornaliero
+
+---
+id: 400015
+attribute: 0x6400460001010001
+---
+Regolare
+
+---
+id: 400020
+attribute: 0x6400460001010001
+---
+Catalogo
+
+---
+id: 400030
+attribute: 0x6400460001010101
+---
+Compra
+
+---
+id: 400100
+attribute: 0x6400B40001030001
+---
+Quantità?
+
+---
+id: 400200
+attribute: 0x64003C0001030001
+---
+Soldi
+
+---
+id: 400300
+attribute: 0x6400460001030001
+---
+Quantità
+
+---
+id: 400400
+attribute: 0x6400460001030001
+---
+Ha
+
+---
+id: 400500
+attribute: 0x6400B40001030001
+---
+Quanti Ne Vuoi Vendere?
+
+---
+id: 400600
+attribute: 0x6400B40001030005
+---
+Ne Hai Gia Troppi!
+Non Puoi Comprarne Altri.
+
+---
+id: 400700
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}{{1:1 arg="0x0000"}}:
+
+---
+id: 400800
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Benvenuto!"
+
+---
+id: 400801
+attribute: 0x6400E00001030001
+---
+イラッシャイマセ！
+
+---
+id: 400850
+attribute: 0x6400E00001030002
+---
+{{255:0 arg="0x0100"}}"Benvenuto! C'è qualcosa di cui
+non hai più bisogno??"
+
+---
+id: 400851
+attribute: 0x6400E00001030001
+---
+イラッシャイマセ！ゴフヨーノモノワゴザイマスカ？
+
+---
+id: 400900
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Grazie Per L'Acquisto!"
+
+---
+id: 400901
+attribute: 0x6400E00001030001
+---
+オカイアゲアリガトーゴザイマス！
+
+---
+id: 401000
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}."
+
+---
+id: 401001
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"{{255:0 arg="0x0300"}}{{1:21 arg="0x0000"}}{{255:0 arg="0x0100"}}."
+
+---
+id: 401002
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"{{255:0 arg="0x0300"}}{{1:21 arg="0x0000"}}{{255:0 arg="0x0200"}}
+(Speciale Di Oggi.){{255:0 arg="0x0100"}}"
+
+---
+id: 401100
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Grazie Infinite!"
+
+---
+id: 401101
+attribute: 0x6400E00001030001
+---
+アリガトーゴザイマス！
+
+---
+id: 401200
+attribute: 0x6400E00001030001
+---
+{{255:0 arg="0x0100"}}"Grazie Mille!"
+
+---
+id: 401201
+attribute: 0x6400E00001030001
+---
+アリガトーゴザイマシタ！
+
+---
+id: 500000
+attribute: 0x6400E00001010101
+---
+Impostazioni Audio
+
+---
+id: 500100
+attribute: 0x6400E00001010101
+---
+Impostazioni Orologio
+
+---
+id: 500101
+attribute: 0x6400E00001030101
+---
+Fatto
+
+---
+id: 500200
+attribute: 0x6400E00001010101
+---
+Elimina Dati
+
+---
+id: 500250
+attribute: 0x6400E00001030001
+---
+Imp. Audio
+
+---
+id: 500300
+attribute: 0x6400E00001010101
+---
+Stereo
+
+---
+id: 500400
+attribute: 0x6400E00001010101
+---
+Mono
+
+---
+id: 500500
+attribute: 0x6400E00001030001
+---
+Vol. Musica
+
+---
+id: 500600
+attribute: 0x6400E00001030001
+---
+Vol. Effetti
+
+---
+id: 500700
+attribute: 0x6400E00001030001
+---
+Vol. Voci
+
+---
+id: 500800
+attribute: 0x6400E00001030001
+---
+/
+
+---
+id: 500900
+attribute: 0x6400E00001030001
+---
+/
+
+---
+id: 501000
+attribute: 0x6400E00001030001
+---
+ 
+
+---
+id: 501100
+attribute: 0x6400E00001030001
+---
+AM
+
+---
+id: 501200
+attribute: 0x6400E00001030001
+---
+PM
+
+---
+id: 501300
+attribute: 0x6400E00001030001
+---
+:
+
+---
+id: 501400
+attribute: 0x6400E00001030001
+---
+ 
+
+---
+id: 501500
+attribute: 0x6400E00001010101
+---
+Modifica
+
+---
+id: 501600
+attribute: 0x6400B40001010007
+---
+Se modifichi l'orario,
+non potrai raccogliere
+donazioni dalla fontana
+per 24 ore. Vuoi
+salvare i tuoi progressi e
+modificare l'orario?
+
+---
+id: 501700
+attribute: 0x6400B40001010007
+---
+Sto Salvando i Dati
+Prima Di Cambiare Data...
+
+---
+id: 501800
+attribute: 0x6400B40001010007
+---
+
+Finito.
+Perfavore Spegni Il DS
+
+---
+id: 501900
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}Tutti i Progressi,
+Mii Registrati, Oggetti
+Ottenuti, Verranno Persi
+Senza Possibilità Di 
+Ripristino. Vuoi Procedere?
+
+---
+id: 502000
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}Sei VERAMENTE Sicuro
+Di Eliminare i Dati?
+
+---
+id: 502100
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}Ultimo Avvertimento,
+Sei Sicuro Sicuro Di Eliminare
+i Dati?
+
+---
+id: 502200
+attribute: 0x6400B40001010007
+---
+Eliminazione Dati
+Di Salvataggio...
+
+---
+id: 502300
+attribute: 0x6400B40001010007
+---
+Dati Eliminati.
+Puoi spegnere il DS.
+Alla Prossima.
+
+---
+id: 502400
+attribute: 0x6400E00001030001
+---
+ボリュームゼロ
+
+---
+id: 502401
+attribute: 0x6400E00001030001
+---
+ボリュームイチ
+
+---
+id: 502402
+attribute: 0x6400E00001030001
+---
+ボリュームニ
+
+---
+id: 502403
+attribute: 0x6400E00001030001
+---
+ボリュームサン
+
+---
+id: 600100
+attribute: 0x6400E00001010001
+---
+Arredamento Di {{1:1 arg="0x0000"}} 
+
+---
+id: 600200
+attribute: 0x6400E00001010001
+---
+Quale Arredamento Scegli?
+
+---
+id: 700100
+attribute: 0x6400B40001010001
+---
+Cosa vuoi scambiare?
+
+---
+id: 700200
+attribute: 0x6400B40001010001
+---
+Mii
+
+---
+id: 700300
+attribute: 0x6400B40001010001
+---
+Oggetti
+
+---
+id: 700400
+attribute: 0x6400B40001010001
+---
+a Quale Sistema Vuoi
+Collegarti?
+
+---
+id: 700500
+attribute: 0x6400B40001010001
+---
+Tomodachi Collection (DS)
+
+---
+id: 700600
+attribute: 0x6400B40001010001
+---
+Canale Mii (Wii)
+
+---
+id: 700700
+attribute: 0x6400B40001010001
+---
+a Che sistema vuoi collegarti?
+
+---
+id: 700800
+attribute: 0x6400B40001010001
+---
+Avvio Della Connessione
+
+---
+id: 700900
+attribute: 0x6400B40001010001
+---
+Ricerca Sistemi
+
+---
+id: 701000
+attribute: 0x6400B40001010007
+---
+Connessione...
+
+---
+id: 701100
+attribute: 0x6400B40001010007
+---
+Ricerca...
+
+---
+id: 701150
+attribute: 0x6400B40001010001
+---
+{{1:1 arg="0x0000"}}
+
+---
+id: 701200
+attribute: 0x6400B40001010002
+---
+Sistemi Trovati
+Seleziona Il Sistema 
+Richiesto.
+
+---
+id: 701300
+attribute: 0x6400B40001010007
+---
+Sei Connesso a
+{{1:1 arg="0x0000"}}.
+
+---
+id: 701350
+attribute: 0x6400320001010101
+---
+Invia
+
+---
+id: 701400
+attribute: 0x6400B40001010007
+---
+{{1:1 arg="0x0000"}} verrà inviato.
+Va bene??
+
+---
+id: 701450
+attribute: 0x6400B40001010007
+---
+{{1:21 arg="0x0000"}} verrà inviato.
+Va bene?
+
+---
+id: 701500
+attribute: 0x6400B40001010007
+---
+Invio...
+
+---
+id: 701550
+attribute: 0x6400B40001010007
+---
+Invio è Salvataggio
+In Corso...
+
+---
+id: 701600
+attribute: 0x6400B40001010007
+---
+Dati Inviati.
+
+---
+id: 701650
+attribute: 0x6400B40001010007
+---
+Ricezione...
+
+---
+id: 701670
+attribute: 0x6400B40001010007
+---
+Ricezione e Salvtaggio
+Dati...
+
+---
+id: 701680
+attribute: 0x6400B40001010007
+---
+Dati Ricevuti...
+
+---
+id: 701700
+attribute: 0x6400B40001010007
+---
+{{1:1 arg="0x0000"}} è
+Stato Inviato.
+
+---
+id: 701720
+attribute: 0x6400B40001010007
+---
+{{1:1 arg="0x0000"}} è
+Stato Inviato
+Controlla La Lista
+Abitanti.
+
+---
+id: 701750
+attribute: 0x6400B40001010007
+---
+{{1:21 arg="0x0000"}} è
+Stato Inviato.
+
+---
+id: 701800
+attribute: 0x6400B40001010007
+---
+Comunicazione Interrotta.
+
+---
+id: 701900
+attribute: 0x6400B40001010007
+---
+Errore Di Comunicazione.
+
+---
+id: 702000
+attribute: 0x6400B40001010007
+---
+Connessione...
+
+---
+id: 702100
+attribute: 0x6400B40001010007
+---
+Questo è Un Mii Speciale.
+Se lo Invii Non Lo Avrai
+Più. Sei Sicuro?
+
+---
+id: 702200
+attribute: 0x6400B40001010007
+---
+Mii Identico Trovato
+Verrà Sovrascritto...
+
+---
+id: 702300
+attribute: 0x6400B40001010007
+---
+Ci sono Mii identici.
+Impossibile inviare dati.
+
+---
+id: 702400
+attribute: 0x6400B40001010007
+---
+Limite Massimo Di 
+Canzoni. Impossibile
+Inviare Dati
+
+---
+id: 702500
+attribute: 0x6400B40001010007
+---
+Questo Mii speciale
+esisteva già. Impossibile
+inviare dati.
+
+---
+id: 702550
+attribute: 0x6400B40001010007
+---
+Questo Mii speciale
+esisteva già. Dati
+inviati.
+
+---
+id: 702600
+attribute: 0x6400B40001010007
+---
+Limite Di Mii Raggiunto.
+Impossibile Inviare
+Dati.
+
+---
+id: 702700
+attribute: 0x6400B40001010007
+---
+Ci sono già troppi
+Mii. Impossibile
+inviare dati.
+
+---
+id: 702800
+attribute: 0x6400B40001010007
+---
+Ci sono già troppi
+Mii.
+
+---
+id: 702900
+attribute: 0x6400B40001010007
+---
+Attendi...
+
+---
+id: 703000
+attribute: 0x6400B40001010007
+---
+Vuoi Disconetterti?
+
+---
+id: 703100
+attribute: 0x6400B40001010007
+---
+Il sesso di questo Mii
+dall'altra parte è
+diverso. Impossibile
+inviare dati..
+
+---
+id: 703150
+attribute: 0x6400B40001010007
+---
+Il sesso di questo Mii
+dall'altra parte è
+diverso. Impossibile
+inviare dati.
+
+---
+id: 703200
+attribute: 0x6400B40001010007
+---
+Ricerca di Wii disponibili...
+Premi i pulsanti A, B, 1, 2
+sul Canale Mii in ordine.
+(Tieni premuto 2.)premi
+"Connetti a DS" e attendi.
+
+---
+id: 703300
+attribute: 0x6400B40001010007
+---
+Ricezione Mii Fallita.
+
+---
+id: 703400
+attribute: 0x6400B40001010007
+---
+Invio Dati Mii Fallito.
+
+---
+id: 703500
+attribute: 0x6400B40001010007
+---
+Hai Ricevuto.
+Commemorate DS T-shirt!
+
+---
+id: 703600
+attribute: 0x6400B40001010007
+---
+Hai Ricevuto.
+Commemorate Wii T-shirt!
+
+---
+id: 703700
+attribute: 0x6400B40001010007
+---
+Hai già troppi Oggetti. 
+Non puoi riceverne altri..
+
+---
+id: 703800
+attribute: 0x6400B40001010007
+---
+Il tuo partner ha troppi
+oggetti. Non puoi inviarne altri..
+
+---
+id: 900000
+attribute: 0x6400000001030005
+---
+
+
+---
+id: 900100
+attribute: 0x6400B40001010007
+---
+Donazioni In Corso...
+
+---
+id: 900150
+attribute: 0x6400480001010001
+---
+Salta
+
+---
+id: 900200
+attribute: 0x6400B40001010007
+---
+Le Donazioni Di Oggi
+Sono State Raccolte!
+
+---
+id: 900300
+attribute: 0x6400B40001030007
+---
+{{255:0 arg="0x0200"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}は
+いつもより多く入れてくれたようです！
+
+---
+id: 900400
+attribute: 0x6400B40001030007
+---
+{{255:0 arg="0x0200"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}は
+家賃をはらうのを忘れたようです…
+
+---
+id: 900500
+attribute: 0x6400B40001010007
+---
+Hai Ottenuto 
+Oggi {{1:20 arg="0x0000"}} yen!
+
+---
+id: 1000100
+attribute: 0x6400500001010101
+---
+Dai
+
+---
+id: 1000200
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}機嫌がいいようです
+
+---
+id: 1000300
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}イライラしているようです
+
+---
+id: 1000400
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}落ち込んでいるようです
+
+---
+id: 1000500
+attribute: 0x6400640001030001
+---
+満足ＬＶ
+
+---
+id: 1000510
+attribute: 0x6400640001030001
+---
+Livello
+
+---
+id: 1000520
+attribute: 0x6400640001030001
+---
+Fame
+
+---
+id: 1000530
+attribute: 0x6400640001030001
+---
+Fidanzato/a
+
+---
+id: 1000531
+attribute: 0x6400640001030001
+---
+Marito
+
+---
+id: 1000532
+attribute: 0x6400640001030001
+---
+Moglie
+
+---
+id: 1000540
+attribute: 0x6400640001030001
+---
+Miglior Amico/a
+
+---
+id: 1000545
+attribute: 0x6400640001030001
+---
+Nessuno
+
+---
+id: 1000550
+attribute: 0x6400640001030001
+---
+Piace
+
+---
+id: 1000560
+attribute: 0x6400640001030001
+---
+Odia
+
+---
+id: 1000565
+attribute: 0x6400640001030001
+---
+？？？
+
+---
+id: 1000570
+attribute: 0x6400640001030001
+---
+Oggetti
+
+---
+id: 1100100
+attribute: 0x6400500001010101
+---
+Registra
+
+---
+id: 1100101
+attribute: 0x6400500001010101
+---
+Mii
+
+---
+id: 1100102
+attribute: 0x6400500001010101
+---
+Lista
+
+---
+id: 1100103
+attribute: 0x6400500001010101
+---
+Residenti
+
+---
+id: 1100104
+attribute: 0x6400500001010101
+---
+Caratteri
+
+---
+id: 1100105
+attribute: 0x6400500001010101
+---
+Album
+
+---
+id: 1100106
+attribute: 0x6400500001010101
+---
+Connessione
+
+---
+id: 1100107
+attribute: 0x6400500001010101
+---
+Opzioni
+
+---
+id: 1100108
+attribute: 0x6400500001010101
+---
+Salva
+
+---
+id: 1100200
+attribute: 0x6400B40001010007
+---
+Non Puoi Registrare Altri Mii.
+
+---
+id: 1100300
+attribute: 0x6400460001020001
+---
+Non venduto
+
+---
+id: 1100310
+attribute: 0x6400460001020001
+---
+{{1:1 arg="0x0000"}}￥
+
+---
+id: 1100320
+attribute: 0x64001E0001010001
+---
+{{1:1 arg="0x0000"}}
+
+---
+id: 1200100
+attribute: 0x6400500001010001
+---
+あ
+
+---
+id: 1200101
+attribute: 0x6400500001010101
+---
+Controlla
+
+---
+id: 1200102
+attribute: 0x6400500001010101
+---
+Blocca
+
+---
+id: 1200103
+attribute: 0x6400500001010101
+---
+Sblocca
+
+---
+id: 1300020
+attribute: 0x6400B40001010007
+---
+Configura l'orario.
+
+---
+id: 1300050
+attribute: 0x6400B40001010007
+---
+{{1:1 arg="0x0000"}}/{{1:1 arg="0x0100"}}/{{1:1 arg="0x0200"}}
+{{1:1 arg="0x0300"}}{{1:1 arg="0x0400"}}:{{1:1 arg="0x0500"}}
+
+è Corretto?
+
+---
+id: 1300100
+attribute: 0x6400B40001010007
+---
+Una Piccola Isola Nei
+Meandri Del Nulla...
+
+---
+id: 1300200
+attribute: 0x6400B40001010007
+---
+Sono Felice Di Presentarti
+Quest'isola.!
+Ma Non Ha Ancora Un Nome!
+Puoi Darglielo?
+
+---
+id: 1300300
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}{{1:1 arg="0x0000"}} Island{{255:0 arg="0x0800"}}?
+Che Nome Fantastico!
+
+---
+id: 1300400
+attribute: 0x6400B40001010007
+---
+D'ora in poi,{{255:0 arg="0x0200"}} è Tua
+Ma Nessuno Ancora Vive
+Su Quest'Isola{{255:0 arg="0x0800"}}.
+
+---
+id: 1300700
+attribute: 0x6400B40001010007
+---
+Perfavore {{255:0 arg="0x0200"}}Crea Te Stesso{{255:0 arg="0x0800"}}
+Come {{255:0 arg="0x0200"}}Mii{{255:0 arg="0x0800"}} Cosi Da Popolare L'isola.
+
+---
+id: 1300750
+attribute: 0x6400B40001010007
+---
+Bene! Hai Creato Il Primo Abitante,
+Ora {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} Vive Qui!
+
+---
+id: 1300770
+attribute: 0x6400B40001010007
+---
+Si Sono Aperti Gli Appartamenti.
+Andiamo a Dare Un Occhiata!
+
+---
+id: 1300800
+attribute: 0x6400B40001010007
+---
+Per Entrare Nella Stanza
+Di {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
+Premi {{255:0 arg="0x0200"}}Entra{{255:0 arg="0x0800"}} 
+
+---
+id: 1300850
+attribute: 0x6400E10001030007
+---
+
+
+---
+id: 1300851
+attribute: 0x6400E10001030007
+---
+
+
+---
+id: 1300900
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301100
+attribute: 0x6400E10001030007
+---
+
+
+---
+id: 1301101
+attribute: 0x6400E10001030007
+---
+
+
+---
+id: 1301200
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301300
+attribute: 0x6400E10001030007
+---
+
+
+---
+id: 1301301
+attribute: 0x6400E10001030007
+---
+
+
+---
+id: 1301350
+attribute: 0x6400E10001030007
+---
+
+
+---
+id: 1301351
+attribute: 0x6400E10001030007
+---
+
+
+---
+id: 1301400
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301500
+attribute: 0x6400B40001010007
+---
+Puoi Visitare Mii,
+Parlarci e Diventarci
+Amico.
+
+---
+id: 1301600
+attribute: 0x6400B40001010007
+---
+Ogni Mii ha personalità
+diverse. Alcuni sono facili
+da fare amicizia, altri no..
+
+---
+id: 1301610
+attribute: 0x6400B40001010007
+---
+Vuoi sapere quanto sono simili
+o diversi questi Mii?
+Diamo un'occhiata..
+
+---
+id: 1301620
+attribute: 0x6400B40001010007
+---
+Questa è La Divisione Della 
+Personalità Degli Abitanti.
+Qui Vedrai Quanto Sono Simili 
+Tra Loro.
+
+---
+id: 1301650
+attribute: 0x6400B40001010007
+---
+Puoi vedere quanto i tratti
+di questi Mii differiscono
+dalle griglie dei Caratteri.
+Tocca la griglia
+e dai un'occhiata.
+
+---
+id: 1301670
+attribute: 0x6400B40001010007
+---
+La natura di questi due
+sembra essere la stessa.
+Probabilmente sono
+buoni amici anche 
+nella vita reale, non è vero??
+
+---
+id: 1301700
+attribute: 0x6400B40001010007
+---
+Bene, cosa stanno facendo
+questi Mii adesso?
+Perché non dai un'occhiata?
+
+---
+id: 1301800
+attribute: 0x6400B40001010007
+---
+Sbircia dalle finestre.
+Se vedi una Nuvoletta
+nella stanza di un Mii, significa
+che il Mii {{255:0 arg="0x0200"}}Ha Una 
+Richiesta{{255:0 arg="0x0800"}}. Che tipo
+di problema??
+
+---
+id: 1301900
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302300
+attribute: 0x6400B40001010007
+---
+Perfetto, il {{255:0 arg="0x0200"}}Negozio Di Alimenti{{255:0 arg="0x0800"}}
+ha Aperto! Andiamo a Prendere
+Qualcosa Per {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}
+Scegli semplicemente
+quello che pensi
+piacerà alla persona reale.
+
+---
+id: 1302400
+attribute: 0x6400B40001010007
+---
+Hai Comprato Del Cibo.
+Dai Da Mangiare a
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
+
+---
+id: 1302450
+attribute: 0x6400E10001030001
+---
+
+
+---
+id: 1302451
+attribute: 0x6400E10001030001
+---
+
+
+---
+id: 1302470
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302500
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302600
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302620
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302640
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302700
+attribute: 0x6400B40001010007
+---
+In questo modo, puoi
+osservare la vita del tuo
+alter ego e dei tuoi conoscenti
+e contribuire a risolvere
+i loro problemi.
+Queste sono le basi per
+"Tomodachi Collection."
+
+---
+id: 1302800
+attribute: 0x6400B40001010007
+---
+Quando ci saranno più residenti,
+ci saranno più servizi.
+Puoi controllare {{255:0 arg="0x0200"}}Gli Annunci
+Di Lavori In Corso{{255:0 arg="0x0800"}} 
+Dalla Mappa.
+
+---
+id: 1302900
+attribute: 0x6400B40001010007
+---
+Come salvare i tuoi progressi?
+Puoi andare al municipio
+per salvare, oppure premere
+il pulsante START
+sulla mappa dell'isola.
+Non dimenticare di salvare
+prima di andartene, ok??
+
+---
+id: 1303000
+attribute: 0x6400B40001010007
+---
+Aggiungi Chi Vuoi Sul
+Isola {{1:1 arg="0x0000"}}
+per favore, prendetevi cura
+di loro e osserva le
+loro relazioni reciproche..
+
+---
+id: 1303010
+attribute: 0x6400E10001030001
+---
+Inserisci Un Nome Per L'isola.
+
+---
+id: 1400000
+attribute: 0x6400B40001010007
+---
+Vuoi Salvare i Progressi?
+
+---
+id: 1400050
+attribute: 0x6400B40001010007
+---
+
+Salvataggio...
+
+---
+id: 1400100
+attribute: 0x6400B40001010007
+---
+Dati Salvati.
+Vuoi Ancora Giocare?
+
+---
+id: 1400200
+attribute: 0x6400B40001010007
+---
+Quando vuoi smettere di giocare,
+non dimenticare di salvare
+nuovamente i progressi.
+
+---
+id: 1400300
+attribute: 0x6400B40001010007
+---
+
+Puoi Spegnere il DS.
+Grazie per aver utilizzato
+La nostra traduzione.
+Alla prossima!
+(Team di Traduzione)
+
+---
+id: 1400400
+attribute: 0x6400B40001010007
+---
+Comunicazione Wireless.
+
+Devi Prima Salvare
+i Progressi.
+Ok?
+
+---
+id: 1400500
+attribute: 0x6400B40001010007
+---
+Dati Salvati.
+Avvio Comunicazione
+Wireless.
+
+---
+id: 1500100
+attribute: 0x6400B40001010101
+---
+Visualizza Mappa
+Caratteri.
+
+---
+id: 1500101
+attribute: 0x6400400001030001
+---
+Nome
+
+---
+id: 1500102
+attribute: 0x6400400001030001
+---
+Residenti
+
+---
+id: 1500103
+attribute: 0x6400400001030001
+---
+Età Media
+
+---
+id: 1500104
+attribute: 0x6400400001030001
+---
+♂:♀
+
+---
+id: 1500105
+attribute: 0x6400400001030001
+---
+Qualità
+
+---
+id: 1500106
+attribute: 0x6400C00001030001
+---
+Informazioni Di {{1:1 arg="0x0000"}} 
+
+---
+id: 1500107
+attribute: 0x6400400001030001
+---
+{{1:1 arg="0x0000"}}
+
+---
+id: 1500108
+attribute: 0x6400400001030001
+---
+{{1:1 arg="0x0000"}}
+
+---
+id: 1500109
+attribute: 0x6400400001030001
+---
+{{1:1 arg="0x0000"}}：{{1:1 arg="0x0100"}}
+
+---
+id: 1500110
+attribute: 0x6400400001030001
+---
+×{{1:1 arg="0x0000"}}
+
+---
+id: 1500111
+attribute: 0x6400B40001020002
+---
+L'Isola è...
+
+---
+id: 1500112
+attribute: 0x6400B40001010101
+---
+Piena di lamentele
+
+---
+id: 1500113
+attribute: 0x6400880001010101
+---
+Attiva
+
+---
+id: 1500114
+attribute: 0x6400880001010101
+---
+Spericolata
+
+---
+id: 1500115
+attribute: 0x6400880001010101
+---
+Accogliente
+
+---
+id: 1500116
+attribute: 0x6400880001010101
+---
+Nostalgica
+
+---
+id: 1500117
+attribute: 0x6400880001010101
+---
+Vivace
+
+---
+id: 1500118
+attribute: 0x6400880001010101
+---
+Misteriosa
+
+---
+id: 1500119
+attribute: 0x6400880001010101
+---
+Rinfrescante
+
+---
+id: 1500120
+attribute: 0x6400880001010101
+---
+Riservata
+
+---
+id: 1500121
+attribute: 0x6400880001010101
+---
+Modesta
+
+---
+id: 1500122
+attribute: 0x6400880001010101
+---
+Pacifica
+
+---
+id: 1500123
+attribute: 0x6400880001010101
+---
+Calma
+
+---
+id: 1500124
+attribute: 0x6400880001010101
+---
+Calma e fredda
+
+---
+id: 1500125
+attribute: 0x6400880001010101
+---
+Prudente
+
+---
+id: 1500126
+attribute: 0x6400880001010101
+---
+Tipo di uomo d'affari
+
+---
+id: 1500127
+attribute: 0x6400880001010101
+---
+Tipo di artigiano
+
+---
+id: 1500128
+attribute: 0x6400880001010101
+---
+Perfettamente Bilanciata
+
+---
+id: 1500129
+attribute: 0x6400400001030001
+---
+# Problemi Risolti
+
+---
+id: 1500130
+attribute: 0x6400400001030001
+---
+{{1:1 arg="0x0000"}}
+
+---
+id: 1600000
+attribute: 0x6400B40001010007
+---
+Sembra che tu stia giocando
+a questo gioco su un altro DS.
+L'impostazione dell'ora verrà
+modificata e alcune cose,
+come gli oggetti del negozio,
+non cambieranno per un po' Va bene?
+
+---
+id: 1600100
+attribute: 0x6400B40001010007
+---
+Puoi Spegnere il DS.
+Grazie per aver utilizzato
+La nostra traduzione.
+Alla prossima!
+(Team di Traduzione)
+
+---
+id: 1600200
+attribute: 0x6400B40001010007
+---
+Impossibile leggere i dati.
+Spegnere il dispositivo
+e reinserire la scheda di gioco..
+
+---
+id: 1600300
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1600400
+attribute: 0x6400B40001010007
+---
+Impossibile scrivere i dati.
+Spegnere il dispositivo
+e reinserire la scheda di gioco..
+
+---
+id: 1600500
+attribute: 0x6400B40001010007
+---
+Dati Corrotti.
+Inzio inizializzazione.
+
+---
+id: 1600600
+attribute: 0x6400B40001010007
+---
+Dati inizializzati.

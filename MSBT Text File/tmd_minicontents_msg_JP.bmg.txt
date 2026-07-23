@@ -1,0 +1,12624 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 8
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+---
+id: 0
+attribute: 0x6400E10001000001
+---
+ダミー
+
+---
+id: 131000
+attribute: 0x6400E10001030001
+---
+Yahoo!
+
+---
+id: 131001
+attribute: 0x6400E10001030001
+---
+ヤッーホーーー
+
+---
+id: 131002
+attribute: 0x6400E10001030001
+---
+{{1:10 arg="0x0000"}}
+
+---
+id: 131003
+attribute: 0x6400E10001030001
+---
+{{1:10 arg="0x0000"}}ーーー
+
+---
+id: 131004
+attribute: 0x6400E10001030001
+---
+Non copiarmi!
+
+---
+id: 131005
+attribute: 0x6400E10001030001
+---
+マネスルナーーー！
+
+---
+id: 131006
+attribute: 0x6400E10001030001
+---
+Ti odio! ...Scherzo! Scusa!
+
+---
+id: 131007
+attribute: 0x6400E10001030001
+---
+ダイッキライダーーー..ウソ_ゴメンネ!
+
+---
+id: 131008
+attribute: 0x6400E10001030001
+---
+Che bella sensazione! Ah, non proprio.
+
+---
+id: 131009
+attribute: 0x6400E10001030001
+---
+キモツイィ!.アッ_イマノナシ
+
+---
+id: 131010
+attribute: 0x6400E10001030001
+---
+Montagna stupida!
+
+---
+id: 131011
+attribute: 0x6400E10001030001
+---
+ヤマノバカヤローーー！
+
+---
+id: 131012
+attribute: 0x6400E10001030001
+---
+Ehi! UFO!
+
+---
+id: 131013
+attribute: 0x6400E10001030001
+---
+オーイ！ユーフォーサーーーン！
+
+---
+id: 131014
+attribute: 0x6400E10001030001
+---
+Evviva!
+
+---
+id: 131015
+attribute: 0x6400E10001030001
+---
+ワオーーーーーーーーーン！
+
+---
+id: 131016
+attribute: 0x6400E10001030001
+---
+Cerco un amore!
+
+---
+id: 131017
+attribute: 0x6400E10001030001
+---
+コイビト_ボシューチューーーー！
+
+---
+id: 131018
+attribute: 0x6400E10001030001
+---
+Mamma!
+
+---
+id: 131019
+attribute: 0x6400E10001030001
+---
+オカーーサーーーーーン！
+
+---
+id: 131020
+attribute: 0x6400E10001030001
+---
+Lay ee odl lay!
+
+---
+id: 131021
+attribute: 0x6400E10001030001
+---
+ヨーロレイヒーーーーーーー
+
+---
+id: 131022
+attribute: 0x6400E10001030001
+---
+Oggi è meglio di ieri!
+
+---
+id: 131023
+attribute: 0x6400E10001030001
+---
+キノーノジブンヲコエローーーーーー!
+
+---
+id: 131024
+attribute: 0x6400E10001030001
+---
+Wow!
+
+---
+id: 131025
+attribute: 0x6400E10001030001
+---
+ウオーーーーーー!
+
+---
+id: 131026
+attribute: 0x6400E10001030001
+---
+Voglio urlare!
+
+---
+id: 131027
+attribute: 0x6400E10001030001
+---
+ムショーニサケビターーーーーーイ!
+
+---
+id: 131028
+attribute: 0x6400E10001030001
+---
+Chicchirichì!
+
+---
+id: 131029
+attribute: 0x6400E10001030001
+---
+コケコッコーーーーーー!
+
+---
+id: 131030
+attribute: 0x6400E10001030001
+---
+Il re Mida ha le orecchie da asino!
+
+---
+id: 131031
+attribute: 0x6400E10001030001
+---
+オーサマノミミワロバノミミーーーーーー!
+
+---
+id: 131032
+attribute: 0x6400E10001030001
+---
+Trentatré trentini!
+
+---
+id: 131033
+attribute: 0x6400E10001030001
+---
+ナマムギナマゴメナマタマゴーーーーーー!
+
+---
+id: 131034
+attribute: 0x6400E10001030001
+---
+Sì!
+
+---
+id: 131035
+attribute: 0x6400E10001030001
+---
+イエーーーーーーイ!
+
+---
+id: 131036
+attribute: 0x6400E10001030001
+---
+Ciao!
+
+---
+id: 131037
+attribute: 0x6400E10001030001
+---
+コンニチワーーーーーー!
+
+---
+id: 131038
+attribute: 0x6400E10001030001
+---
+Everest!
+
+---
+id: 131039
+attribute: 0x6400E10001030001
+---
+エベレストーーーーーー！
+
+---
+id: 131040
+attribute: 0x6400E10001030001
+---
+Mi senti?
+
+---
+id: 131041
+attribute: 0x6400E10001030001
+---
+キコエテマスカーーーーーー?
+
+---
+id: 131042
+attribute: 0x6400E10001030001
+---
+Yo!
+
+---
+id: 131043
+attribute: 0x6400E10001030001
+---
+オーーーーーーッス!
+
+---
+id: 131044
+attribute: 0x6400E10001030001
+---
+Sopra la panca la capra campa!
+
+---
+id: 131045
+attribute: 0x6400E10001030001
+---
+アメンボアカイナアイウエオーーーーーー!
+
+---
+id: 131046
+attribute: 0x6400E10001030001
+---
+Ah, aah!
+
+---
+id: 131047
+attribute: 0x6400E10001030001
+---
+アーーーアアーーーーーーー!
+
+---
+id: 131048
+attribute: 0x6400E10001030001
+---
+Che aria fresca!
+
+---
+id: 131049
+attribute: 0x6400E10001030001
+---
+キブンソーカイーーーーーー!
+
+---
+id: 131050
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}, stupido!
+
+---
+id: 131051
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ノバカーーーーーー
+
+---
+id: 131052
+attribute: 0x6400E10001030001
+---
+Adorabile {{1:1 arg="0x0000"}}!
+
+---
+id: 131053
+attribute: 0x6400E10001030001
+---
+ラブリー{{1:1 arg="0x0000"}}ーーーーーー！
+
+---
+id: 131054
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}} è il migliore!
+
+---
+id: 131055
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ッテ_ステキダーーーーーー！
+
+---
+id: 131056
+attribute: 0x6400E10001030001
+---
+Adoro {{1:20 arg="0x0000"}}!
+
+---
+id: 131057
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0000"}}ガスキダーーーーーー
+
+---
+id: 131058
+attribute: 0x6400E10001030001
+---
+Il {{1:20 arg="0x0000"}} è mio!
+
+---
+id: 131059
+attribute: 0x6400E10001030001
+---
+テニイレロ!{{1:20 arg="0x0000"}}！
+
+---
+id: 131060
+attribute: 0x6400E10001030001
+---
+Voglio mangiare {{1:20 arg="0x0000"}}!
+
+---
+id: 131061
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0000"}}ガタベターーーーーーイ!
+
+---
+id: 131062
+attribute: 0x6400E10001030001
+---
+Voglio essere {{1:10 arg="0x0000"}}!
+
+---
+id: 131063
+attribute: 0x6400E10001030001
+---
+メザセ!{{1:10 arg="0x0000"}}!
+
+---
+id: 131064
+attribute: 0x6400E10001030001
+---
+Venite sull'Isola {{1:1 arg="0x0000"}}!
+
+---
+id: 131065
+attribute: 0x6400E10001030001
+---
+オイデマセ_{{1:1 arg="0x0000"}}トーーー!
+
+---
+id: 131066
+attribute: 0x6400E10001030001
+---
+Sono sull'Isola {{1:1 arg="0x0000"}}!
+
+---
+id: 131067
+attribute: 0x6400E10001030001
+---
+ハルバルキタゼ{{1:1 arg="0x0000"}}トーーー!
+
+---
+id: 131068
+attribute: 0x6400E10001030001
+---
+L'Isola {{1:1 arg="0x0000"}} è la migliore!
+
+---
+id: 131069
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}トーサイコーーー!
+
+---
+id: 131200
+attribute: 0x6400E10001030001
+---
+Stupido!
+
+---
+id: 131201
+attribute: 0x6400E10001030001
+---
+バカーーーーーー!
+
+---
+id: 131202
+attribute: 0x6400E10001030001
+---
+Montagna stupida!
+
+---
+id: 131203
+attribute: 0x6400E10001030001
+---
+ヤマノバカヤローーーーーー!
+
+---
+id: 131204
+attribute: 0x6400E10001030001
+---
+Voglio essere il {{1:1 arg="0x0000"}}!
+
+---
+id: 131205
+attribute: 0x6400E10001030001
+---
+メザセ!{{1:1 arg="0x0000"}}!
+
+---
+id: 131206
+attribute: 0x6400E10001030001
+---
+Mi senti?
+
+---
+id: 131207
+attribute: 0x6400E10001030001
+---
+キコエテマスカーーーーーー!
+
+---
+id: 131208
+attribute: 0x6400E10001030001
+---
+Non copiarmi!
+
+---
+id: 131209
+attribute: 0x6400E10001030001
+---
+マネスルナーーーーーーーーー！
+
+---
+id: 131300
+attribute: 0x6400E10001030001
+---
+Chi dice stupido lo è!
+
+---
+id: 131301
+attribute: 0x6400E10001030001
+---
+バカッテユーホーガバカーーーーーー!
+
+---
+id: 131302
+attribute: 0x6400E10001030001
+---
+Cosa hai detto, stupido!?
+
+---
+id: 131303
+attribute: 0x6400E10001030001
+---
+ナンダトコノヤローーーーーー!
+
+---
+id: 131304
+attribute: 0x6400E10001030001
+---
+Fai del tuo meglio!
+
+---
+id: 131305
+attribute: 0x6400E10001030001
+---
+ガンバレ!
+
+---
+id: 131306
+attribute: 0x6400E10001030001
+---
+Ti sento!
+
+---
+id: 131307
+attribute: 0x6400E10001030001
+---
+キコエテマスヨーーーーーー!
+
+---
+id: 131308
+attribute: 0x6400E10001030001
+---
+Scusa!
+
+---
+id: 131309
+attribute: 0x6400E10001030001
+---
+ゴメンーーーーーー!
+
+---
+id: 141000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Tanti auguri a te♪"
+
+---
+id: 141002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Tanti auguri
+caro {{1:1 arg="0x0000"}}♪"
+
+---
+id: 200100
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sono dentro."
+
+---
+id: 200101
+attribute: 0x6400E10001030001
+---
+ハイッテマス!
+
+---
+id: 201000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non farti prendere dal panico."
+
+---
+id: 201001
+attribute: 0x6400E10001030001
+---
+アワテナイ_アワテナイ
+
+---
+id: 201002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sì, sì~"
+
+---
+id: 201003
+attribute: 0x6400E10001030001
+---
+ハイ、ハァーイ。
+
+---
+id: 201004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ohh~"
+
+---
+id: 201005
+attribute: 0x6400E10001030001
+---
+フウゥーーー
+
+---
+id: 201006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ahahah. Scusa..."
+
+---
+id: 201007
+attribute: 0x6400E10001030001
+---
+トホホ_ボーラクトワ
+
+---
+id: 201008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È urgente!"
+
+---
+id: 201009
+attribute: 0x6400E10001030001
+---
+コノホシワ_キュークツダ
+
+---
+id: 201010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Smettila di bussare!"
+
+---
+id: 201011
+attribute: 0x6400E10001030001
+---
+ソンナニタタカナイデ！
+
+---
+id: 201012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quasi affogo..."
+
+---
+id: 201013
+attribute: 0x6400E10001030001
+---
+オ_オボレル
+
+---
+id: 201014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"C'è un buco qui!"
+
+---
+id: 201015
+attribute: 0x6400E10001030001
+---
+ココガヌケアナダッタトワ!
+
+---
+id: 201016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È rotto."
+
+---
+id: 201017
+attribute: 0x6400E10001030001
+---
+コショーチューデス
+
+---
+id: 201018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio portafoglio..."
+
+---
+id: 201019
+attribute: 0x6400E10001030001
+---
+サイフガー
+
+---
+id: 201020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non ho ancora finito."
+
+---
+id: 201021
+attribute: 0x6400E10001030001
+---
+マーダダヨ
+
+---
+id: 201022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio cellulare..."
+
+---
+id: 201023
+attribute: 0x6400E10001030001
+---
+ケイタイデンワガー
+
+---
+id: 201024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non posso uscire."
+
+---
+id: 201025
+attribute: 0x6400E10001030001
+---
+イマワデレナイノ
+
+---
+id: 201026
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Silenzio!"
+
+---
+id: 201027
+attribute: 0x6400E10001030001
+---
+シズカニ!
+
+---
+id: 201028
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Rilassati, rilassati."
+
+---
+id: 201029
+attribute: 0x6400E10001030001
+---
+リラックス_リラックス
+
+---
+id: 201030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sì."
+
+---
+id: 201031
+attribute: 0x6400E10001030001
+---
+ハイ
+
+---
+id: 201032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La serratura è rotta."
+
+---
+id: 201033
+attribute: 0x6400E10001030001
+---
+カギワカケテナイヨ。
+
+---
+id: 201034
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Prego, entra."
+
+---
+id: 201035
+attribute: 0x6400E10001030001
+---
+ドーゾ
+
+---
+id: 201036
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Qual è la password?"
+
+---
+id: 201037
+attribute: 0x6400E10001030001
+---
+アイコトバワ?
+
+---
+id: 201038
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Calma~"
+
+---
+id: 201039
+attribute: 0x6400E10001030001
+---
+オチツクー
+
+---
+id: 201040
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Che bella sensazione."
+
+---
+id: 201041
+attribute: 0x6400E10001030001
+---
+スッキリ_スッキリ
+
+---
+id: 201042
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non ti faccio entrare~"
+
+---
+id: 201043
+attribute: 0x6400E10001030001
+---
+ハイッテマセンヨー
+
+---
+id: 201044
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non prendermi in giro."
+
+---
+id: 201045
+attribute: 0x6400E10001030001
+---
+イタズラナラ_オコトワリデス
+
+---
+id: 201046
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non ancora~"
+
+---
+id: 201047
+attribute: 0x6400E10001030001
+---
+マーダダヨーー
+
+---
+id: 201048
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È occupato."
+
+---
+id: 201049
+attribute: 0x6400E10001030001
+---
+イマ_ハイッタンデ
+
+---
+id: 201050
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Aspetta un momento."
+
+---
+id: 201051
+attribute: 0x6400E10001030001
+---
+モーシバラクオマチクダサイ
+
+---
+id: 201052
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questo bagno non si può usare."
+
+---
+id: 201053
+attribute: 0x6400E10001030001
+---
+コノトイレワゲンザイツカワレテオリマセン
+
+---
+id: 201054
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Aspetta un pochino."
+
+---
+id: 201055
+attribute: 0x6400E10001030001
+---
+アトスコシ_モーチョット
+
+---
+id: 201056
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"L'acqua non smette..."
+
+---
+id: 201057
+attribute: 0x6400E10001030001
+---
+ミズガトマラナインデス
+
+---
+id: 202000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Bagno! Bagno!"
+
+---
+id: 202001
+attribute: 0x6400E10001030001
+---
+トイレ_トイレ
+
+---
+id: 202002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non va bene..."
+
+---
+id: 202003
+attribute: 0x6400E10001030001
+---
+モー_ダメ
+
+---
+id: 202004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sbrigati, sbrigati!"
+
+---
+id: 202005
+attribute: 0x6400E10001030001
+---
+ハヤク!ハヤク!
+
+---
+id: 202006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho raggiunto il limite!"
+
+---
+id: 202007
+attribute: 0x6400E10001030001
+---
+モー_ゲンカイデス!
+
+---
+id: 202008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, no!"
+
+---
+id: 202009
+attribute: 0x6400E10001030001
+---
+ヤバイ_ヤバイ
+
+---
+id: 202010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non c'è più tempo~"
+
+---
+id: 202011
+attribute: 0x6400E10001030001
+---
+マニアエーーー!
+
+---
+id: 202012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Devo resistere!"
+
+---
+id: 202013
+attribute: 0x6400E10001030001
+---
+ガマン!ガマン!
+
+---
+id: 202014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ohhh~~!"
+
+---
+id: 202015
+attribute: 0x6400E10001030001
+---
+ウワーーー!
+
+---
+id: 202016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm~~"
+
+---
+id: 202017
+attribute: 0x6400E10001030001
+---
+ウーーーーン
+
+---
+id: 202018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non riesco più ad aspettare!"
+
+---
+id: 202019
+attribute: 0x6400E10001030001
+---
+シンボータマラン!
+
+---
+id: 202020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Dov'è il bagno~!?"
+
+---
+id: 202021
+attribute: 0x6400E10001030001
+---
+トイレドコーー?
+
+---
+id: 202022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hahihahoo."
+
+---
+id: 202023
+attribute: 0x6400E10001030001
+---
+ハラヒレホレ
+
+---
+id: 401000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Yah!
+
+---
+id: 401001
+attribute: 0x6400E10001030001
+---
+<\Spd=50>ヤー!
+
+---
+id: 401002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Pugno {{1:10 arg="0x0000"}}!"」
+
+---
+id: 401003
+attribute: 0x6400E10001030001
+---
+<\Spd=50>{{1:10 arg="0x0000"}}ケン!
+
+---
+id: 401004
+attribute: 0x6400E10001030001
+---
+Argh!
+
+---
+id: 401005
+attribute: 0x6400E10001030001
+---
+<\\Spd=50>トォーー!
+
+---
+id: 401006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Trasformazione~!"
+
+---
+id: 401007
+attribute: 0x6400E10001030001
+---
+ヘンシーーーーン！
+
+---
+id: 402000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Pugno {{1:1 arg="0x0000"}}!"
+
+---
+id: 402001
+attribute: 0x6400E10001030001
+---
+<\Spd=50>{{1:1 arg="0x0000"}}パーーンチ！
+
+---
+id: 402002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Raggio {{1:1 arg="0x0000"}}!"
+
+---
+id: 402003
+attribute: 0x6400E10001030001
+---
+<\Spd=50>{{1:1 arg="0x0000"}}ビーーム！
+
+---
+id: 441000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ehi, ehi, ascolta~"
+
+---
+id: 441001
+attribute: 0x6400E10001030001
+---
+ネエネエキイテヨー.
+
+---
+id: 442000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}}, {{1:1 arg="0x0000"}}..."
+
+
+---
+id: 442001
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}{{1:1 arg="0x0000"}}ガ
+
+---
+id: 442002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}}, {{1:1 arg="0x0000"}}..."
+
+
+---
+id: 442003
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}{{1:1 arg="0x0000"}}ガ
+
+---
+id: 442004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}}, {{1:1 arg="0x0000"}}..."
+
+
+---
+id: 442005
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}{{1:1 arg="0x0000"}}ガ
+
+---
+id: 442006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}}, {{1:1 arg="0x0000"}}
+e {{1:1 arg="0x0100"}}..."
+
+---
+id: 442007
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}{{1:1 arg="0x0000"}}ト{{1:1 arg="0x0100"}}ガ
+
+---
+id: 442008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}}, {{1:1 arg="0x0000"}}
+e {{1:1 arg="0x0100"}}..."
+
+---
+id: 442009
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}{{1:1 arg="0x0000"}}ト{{1:1 arg="0x0100"}}ガ
+
+---
+id: 442010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Prima {{1:1 arg="0x0000"}}..."
+
+---
+id: 442011
+attribute: 0x6400E10001030001
+---
+コノマエ{{1:1 arg="0x0000"}}
+
+---
+id: 443000
+attribute: 0x6400E10001030001
+---
+Qualche tempo fa
+
+---
+id: 443001
+attribute: 0x6400E10001030001
+---
+サッキ
+
+---
+id: 443002
+attribute: 0x6400E10001030001
+---
+Ieri
+
+---
+id: 443003
+attribute: 0x6400E10001030001
+---
+キノー
+
+---
+id: 443004
+attribute: 0x6400E10001030001
+---
+Oggi
+
+---
+id: 443005
+attribute: 0x6400E10001030001
+---
+キョー
+
+---
+id: 443006
+attribute: 0x6400E10001030001
+---
+Poco fa
+
+---
+id: 443007
+attribute: 0x6400E10001030001
+---
+イマサッキ
+
+---
+id: 443008
+attribute: 0x6400E10001030001
+---
+Prima
+
+---
+id: 443009
+attribute: 0x6400E10001030001
+---
+コノマエ
+
+---
+id: 443100
+attribute: 0x6400E10001030001
+---
+"...è inciampato e caduto
+
+---
+id: 443101
+attribute: 0x6400E10001030001
+---
+コロンデタヨ
+
+---
+id: 443102
+attribute: 0x6400E10001030001
+---
+"...è uscito a divertirsi
+
+---
+id: 443103
+attribute: 0x6400E10001030001
+---
+アソンデタヨ
+
+---
+id: 443104
+attribute: 0x6400E10001030001
+---
+"...ha giocato a calcio
+
+---
+id: 443105
+attribute: 0x6400E10001030001
+---
+サッカーシテタヨ
+
+---
+id: 443106
+attribute: 0x6400E10001030001
+---
+"...ha giocato a baseball
+
+---
+id: 443107
+attribute: 0x6400E10001030001
+---
+ヤキューシテタヨ
+
+---
+id: 443108
+attribute: 0x6400E10001030001
+---
+"...ha giocato a calcio
+
+---
+id: 443109
+attribute: 0x6400E10001030001
+---
+サッカーシテタヨ
+
+---
+id: 443110
+attribute: 0x6400E10001030001
+---
+"...è andato al mare
+
+---
+id: 443111
+attribute: 0x6400E10001030001
+---
+ウミヲミテタヨ
+
+---
+id: 443112
+attribute: 0x6400E10001030001
+---
+"...è andato a fare una passeggiata
+
+---
+id: 443113
+attribute: 0x6400E10001030001
+---
+サンポシテタヨ
+
+---
+id: 443114
+attribute: 0x6400E10001030001
+---
+"...ha sonnecchiato
+
+---
+id: 443115
+attribute: 0x6400E10001030001
+---
+イネムリシテタヨ
+
+---
+id: 443116
+attribute: 0x6400E10001030001
+---
+"...si è svegliato tardi
+
+---
+id: 443117
+attribute: 0x6400E10001030001
+---
+チコクシテタヨ
+
+---
+id: 443118
+attribute: 0x6400E10001030001
+---
+"...ha letto un fumetto
+
+---
+id: 443119
+attribute: 0x6400E10001030001
+---
+マンガヨンデタヨ
+
+---
+id: 443120
+attribute: 0x6400E10001030001
+---
+"...è andato a correre
+
+---
+id: 443121
+attribute: 0x6400E10001030001
+---
+ハシッテタヨ
+
+---
+id: 443122
+attribute: 0x6400E10001030001
+---
+"...ha cucinato
+
+---
+id: 443123
+attribute: 0x6400E10001030001
+---
+リョーリシテタヨ
+
+---
+id: 443124
+attribute: 0x6400E10001030001
+---
+"...ha cantato una canzone
+
+---
+id: 443125
+attribute: 0x6400E10001030001
+---
+ウタヲウタッテタヨ
+
+---
+id: 443126
+attribute: 0x6400E10001030001
+---
+"...ha fatto una raccolta fondi
+
+---
+id: 443127
+attribute: 0x6400E10001030001
+---
+ボキンシテタヨ
+
+---
+id: 443128
+attribute: 0x6400E10001030001
+---
+"...ha giocato con un gatto
+
+---
+id: 443129
+attribute: 0x6400E10001030001
+---
+ネコヲナデテタヨ
+
+---
+id: 443130
+attribute: 0x6400E10001030001
+---
+"...ha mangiato
+
+---
+id: 443131
+attribute: 0x6400E10001030001
+---
+ゴハンヲタベテタヨ
+
+---
+id: 443132
+attribute: 0x6400E10001030001
+---
+"...è andato a fare shopping
+
+---
+id: 443133
+attribute: 0x6400E10001030001
+---
+カイモノシテタヨ
+
+---
+id: 443134
+attribute: 0x6400E10001030001
+---
+"...ha fatto giochi di magia
+
+---
+id: 443135
+attribute: 0x6400E10001030001
+---
+テジナノレンシューシテタヨ
+
+---
+id: 443136
+attribute: 0x6400E10001030001
+---
+"...ha studiato sodo
+
+---
+id: 443137
+attribute: 0x6400E10001030001
+---
+ベンキョーシテタヨ
+
+---
+id: 443138
+attribute: 0x6400E10001030001
+---
+"...ha raccontato barzellette
+
+---
+id: 443139
+attribute: 0x6400E10001030001
+---
+ジサクノギャグヲヒローシテタヨ
+
+---
+id: 443200
+attribute: 0x6400E10001030001
+---
+"...ha litigato
+
+---
+id: 443201
+attribute: 0x6400E10001030001
+---
+ケンカシテタヨ
+
+---
+id: 443202
+attribute: 0x6400E10001030001
+---
+"...si sono riconciliati
+
+---
+id: 443203
+attribute: 0x6400E10001030001
+---
+ナカナオリシテタヨ
+
+---
+id: 443204
+attribute: 0x6400E10001030001
+---
+"...hanno giocato insieme
+
+---
+id: 443205
+attribute: 0x6400E10001030001
+---
+イッショニアソンデタヨ
+
+---
+id: 443206
+attribute: 0x6400E10001030001
+---
+"...sono andati a passeggio insieme
+
+---
+id: 443207
+attribute: 0x6400E10001030001
+---
+フタリデサンポシテタヨ
+
+---
+id: 443208
+attribute: 0x6400E10001030001
+---
+"...hanno giocato a palla
+
+---
+id: 443209
+attribute: 0x6400E10001030001
+---
+イッショニキャッチボールシテタヨ
+
+---
+id: 443210
+attribute: 0x6400E10001030001
+---
+"...si sono consultati a vicenda
+
+---
+id: 443211
+attribute: 0x6400E10001030001
+---
+ナニカノソーダンヲシテタヨ
+
+---
+id: 443212
+attribute: 0x6400E10001030001
+---
+"...hanno giocato a giochi di filo
+
+---
+id: 443213
+attribute: 0x6400E10001030001
+---
+イッショニアヤトリシテタヨ
+
+---
+id: 443214
+attribute: 0x6400E10001030001
+---
+"...hanno fatto finta di essere mostri
+
+---
+id: 443215
+attribute: 0x6400E10001030001
+---
+フタリデカイジューゴッコシテタヨ
+
+---
+id: 443216
+attribute: 0x6400E10001030001
+---
+"...hanno ballato insieme
+
+---
+id: 443217
+attribute: 0x6400E10001030001
+---
+イッショニワルツヲオドッテタヨ
+
+---
+id: 443218
+attribute: 0x6400E10001030001
+---
+"...hanno provato a fare i comici
+
+---
+id: 443219
+attribute: 0x6400E10001030001
+---
+フタリデマンザイシテタヨ
+
+---
+id: 443220
+attribute: 0x6400E10001030001
+---
+"...hanno lottato insieme
+
+---
+id: 443221
+attribute: 0x6400E10001030001
+---
+フタリデプロレスシテタヨ
+
+---
+id: 443222
+attribute: 0x6400E10001030001
+---
+"...hanno parlato di segreti
+
+---
+id: 443223
+attribute: 0x6400E10001030001
+---
+コソコソナイショバナシシテタヨ
+
+---
+id: 443224
+attribute: 0x6400E10001030001
+---
+"...hanno fatto i mochi
+
+---
+id: 443225
+attribute: 0x6400E10001030001
+---
+フタリデモチツキシテタヨ
+
+---
+id: 443226
+attribute: 0x6400E10001030001
+---
+"...hanno praticato ginnastica di gruppo
+
+---
+id: 443227
+attribute: 0x6400E10001030001
+---
+イッショニクミタイソウシテタヨ
+
+---
+id: 443228
+attribute: 0x6400E10001030001
+---
+"...hanno cantato un duetto
+
+---
+id: 443229
+attribute: 0x6400E10001030001
+---
+デュエットシテタヨ
+
+---
+id: 443230
+attribute: 0x6400E10001030001
+---
+"...hanno giocato a ping pong
+
+---
+id: 443231
+attribute: 0x6400E10001030001
+---
+フタリデピンポンシテタヨ
+
+---
+id: 443232
+attribute: 0x6400E10001030001
+---
+"...hanno giocato a carte insieme
+
+---
+id: 443233
+attribute: 0x6400E10001030001
+---
+イッショニトランプシテタヨ
+
+---
+id: 443234
+attribute: 0x6400E10001030001
+---
+"...hanno parlato del loro futuro
+
+---
+id: 443235
+attribute: 0x6400E10001030001
+---
+フタリデショーライニツイテカタリアッテタヨ
+
+---
+id: 443236
+attribute: 0x6400E10001030001
+---
+"...hanno giocato alle principesse
+
+---
+id: 443237
+attribute: 0x6400E10001030001
+---
+イッショニオヒメサマゴッコシテタヨ
+
+---
+id: 444000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm? Davvero?"
+
+---
+id: 444001
+attribute: 0x6400E10001030001
+---
+_____ヘー.ソー
+
+---
+id: 444002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm, wow."
+
+---
+id: 444003
+attribute: 0x6400E10001030001
+---
+_____フーン__スゴイネ
+
+---
+id: 444004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Capisco."
+
+---
+id: 444005
+attribute: 0x6400E10001030001
+---
+_____ソーダネー
+
+---
+id: 444006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm~"
+
+---
+id: 444007
+attribute: 0x6400E10001030001
+---
+_____フーン
+
+---
+id: 444008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Davvero~?"
+
+---
+id: 444009
+attribute: 0x6400E10001030001
+---
+_____ソーカー
+
+---
+id: 444010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Oh~"
+
+---
+id: 444011
+attribute: 0x6400E10001030001
+---
+_____ホーー
+
+---
+id: 444012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Capisco..."
+
+---
+id: 444013
+attribute: 0x6400E10001030001
+---
+ナルホドー
+
+---
+id: 444014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm? Che bello."
+
+---
+id: 444015
+attribute: 0x6400E10001030001
+---
+ヘー.イイネー
+
+---
+id: 444016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eh? Davvero?"
+
+---
+id: 444017
+attribute: 0x6400E10001030001
+---
+エエ.ソーナノー
+
+---
+id: 444018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Huh? Davvero?"
+
+---
+id: 444019
+attribute: 0x6400E10001030001
+---
+ヘー_ホントー
+
+---
+id: 444020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Fantastico~"
+
+---
+id: 444021
+attribute: 0x6400E10001030001
+---
+ソレワ_スゴイネー
+
+---
+id: 444022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Wow, grande."
+
+---
+id: 444023
+attribute: 0x6400E10001030001
+---
+スゴイスゴイ
+
+---
+id: 445000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"...mi ha dato {{1:20 arg="0x0100"}}."
+
+---
+id: 445001
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0100"}}ヲクレタヨ
+
+---
+id: 445002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"...ha detto　「{{1:10 arg="0x0100"}}」"
+
+---
+id: 445003
+attribute: 0x6400E10001030001
+---
+{{1:10 arg="0x0100"}}ッテイッテタヨ
+
+---
+id: 445004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}{{1:250 arg="0x0100"}}."
+
+---
+id: 445005
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0100"}}
+
+---
+id: 445006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}{{1:250 arg="0x0100"}}."
+
+---
+id: 445007
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0100"}}
+
+---
+id: 445008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"...ha mangiato {{1:20 arg="0x0200"}}."
+
+---
+id: 445009
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0200"}}ヲタベテタヨ
+
+---
+id: 445010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"...ha mangiato {{1:20 arg="0x0100"}}."
+
+---
+id: 445011
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0100"}}ヲタベタヨ
+
+---
+id: 461000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo di più."
+
+---
+id: 461001
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più."
+
+---
+id: 461002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più."
+
+---
+id: 461003
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più."
+
+---
+id: 461004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più."
+
+---
+id: 461005
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più e di più."
+
+---
+id: 461006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461007
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461009
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461011
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461100
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo di più io."
+
+---
+id: 461101
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più io."
+
+---
+id: 461102
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più
+e di più io."
+
+---
+id: 461103
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più io."
+
+---
+id: 461104
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più e di più io."
+
+---
+id: 461105
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più e di più e di più io."
+
+---
+id: 461106
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più
+e di più e di più."
+
+---
+id: 461107
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461108
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461109
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461110
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461111
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461112
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, ti amo sempre di più e di più
+e ancora di più e di più e..."
+
+---
+id: 461200
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}."
+
+---
+id: 461201
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}...
+
+---
+id: 461202
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm, {{1:1 arg="0x0000"}}?"
+
+---
+id: 461203
+attribute: 0x6400E10001030001
+---
+ナアニ{{1:1 arg="0x0000"}}
+
+---
+id: 461204
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti amo."
+
+---
+id: 461205
+attribute: 0x6400E10001030001
+---
+スキダヨ
+
+---
+id: 461206
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 461207
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 481000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ahh~~"
+
+---
+id: 481001
+attribute: 0x6400E10001030001
+---
+アーーーレーーーー...
+
+---
+id: 611000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}, sei un {{1:1 arg="0x0100"}}!"
+
+---
+id: 611001
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ノ{{1:1 arg="0x0100"}}!
+
+---
+id: 611002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi dice {{1:1 arg="0x0100"}}
+è un {{1:1 arg="0x0100"}}!"
+
+---
+id: 611003
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0100"}}ッテイウホーガ{{1:1 arg="0x0100"}}ナンダモン!
+
+---
+id: 611004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Huh?"
+
+---
+id: 611005
+attribute: 0x6400E10001030001
+---
+アレ?
+
+---
+id: 611006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"L'hai già detto!"
+
+---
+id: 611007
+attribute: 0x6400E10001030001
+---
+ソレサッキモイッタヨ!
+
+---
+id: 612000
+attribute: 0x6400E10001030001
+---
+stupido
+
+---
+id: 612001
+attribute: 0x6400E10001030001
+---
+バカ
+
+---
+id: 612002
+attribute: 0x6400E10001030001
+---
+gambe corte
+
+---
+id: 612003
+attribute: 0x6400E10001030001
+---
+タンソク
+
+---
+id: 612004
+attribute: 0x6400E10001030001
+---
+testone
+
+---
+id: 612005
+attribute: 0x6400E10001030001
+---
+アタマデッカチ
+
+---
+id: 612006
+attribute: 0x6400E10001030001
+---
+inutile
+
+---
+id: 612007
+attribute: 0x6400E10001030001
+---
+ミエッパリ
+
+---
+id: 612008
+attribute: 0x6400E10001030001
+---
+civettuolo
+
+---
+id: 612009
+attribute: 0x6400E10001030001
+---
+ブリッコ
+
+---
+id: 612010
+attribute: 0x6400E10001030001
+---
+cattivone
+
+---
+id: 612011
+attribute: 0x6400E10001030001
+---
+イジワル
+
+---
+id: 612012
+attribute: 0x6400E10001030001
+---
+piagnucolone
+
+---
+id: 612013
+attribute: 0x6400E10001030001
+---
+カアチャンデベソ
+
+---
+id: 612014
+attribute: 0x6400E10001030001
+---
+testa di patata
+
+---
+id: 612015
+attribute: 0x6400E10001030001
+---
+イモ
+
+---
+id: 612016
+attribute: 0x6400E10001030001
+---
+bugiardo
+
+---
+id: 612017
+attribute: 0x6400E10001030001
+---
+ウソツキ
+
+---
+id: 612018
+attribute: 0x6400E10001030001
+---
+sangue freddo
+
+---
+id: 612019
+attribute: 0x6400E10001030001
+---
+レイケツカン
+
+---
+id: 612020
+attribute: 0x6400E10001030001
+---
+malvagio
+
+---
+id: 612021
+attribute: 0x6400E10001030001
+---
+イケズ
+
+---
+id: 612022
+attribute: 0x6400E10001030001
+---
+belloccio
+
+---
+id: 612023
+attribute: 0x6400E10001030001
+---
+イケメン
+
+---
+id: 620500
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È ora... Devo andare..."
+
+---
+id: 620501
+attribute: 0x6400E10001030001
+---
+ジカンダ.ソロソロイクヨ
+
+---
+id: 620502
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Buon viaggio."
+
+---
+id: 620503
+attribute: 0x6400E10001030001
+---
+イッテラッシャイ
+
+---
+id: 620600
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"L'hai già detto."
+
+---
+id: 620601
+attribute: 0x6400E10001030001
+---
+ソレ_サッキモキキマシタ
+
+---
+id: 621000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Devo andare..."
+
+---
+id: 621001
+attribute: 0x6400E10001030001
+---
+ソロソロイクヨ
+
+---
+id: 621002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Allora, me ne vado..."
+
+---
+id: 621003
+attribute: 0x6400E10001030001
+---
+ソレジャーイッテクルヨ
+
+---
+id: 621004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Me ne vado..."
+
+---
+id: 621005
+attribute: 0x6400E10001030001
+---
+イッテキマス
+
+---
+id: 621006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok, devo andare..."
+
+---
+id: 621007
+attribute: 0x6400E10001030001
+---
+ジャーソロソロイクヨ
+
+---
+id: 621008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Prenditi cura di te..."
+
+---
+id: 621009
+attribute: 0x6400E10001030001
+---
+ソレジャアゲンキデ
+
+---
+id: 621010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ciao ciao..."
+
+---
+id: 621011
+attribute: 0x6400E10001030001
+---
+バイバイ
+
+---
+id: 621012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti chiamo..."
+
+---
+id: 621013
+attribute: 0x6400E10001030001
+---
+マタデンワスルヨ
+
+---
+id: 621014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Prenditi cura di te..."
+
+---
+id: 621015
+attribute: 0x6400E10001030001
+---
+カラダニキヲツケテ
+
+---
+id: 621016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non dimenticare di dar
+da mangiare al cane..."
+
+---
+id: 621017
+attribute: 0x6400E10001030001
+---
+イヌノエサヲワスレナイヨーニ
+
+---
+id: 621018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti scrivo delle lettere..."
+
+---
+id: 621019
+attribute: 0x6400E10001030001
+---
+テガミオカクヨ
+
+---
+id: 621020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non dimenticare
+le chiavi di casa..."
+
+---
+id: 621021
+attribute: 0x6400E10001030001
+---
+イエノカギワオイテクヨ
+
+---
+id: 621022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Vieni con me... No, lascia perdere."
+
+---
+id: 621023
+attribute: 0x6400E10001030001
+---
+イッショニイキ..イヤ_ナンデモナイ
+
+---
+id: 621024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La cosa nel 6° cassetto è tua."
+
+---
+id: 621025
+attribute: 0x6400E10001030001
+---
+ロクバンメノヒキダシノアレ_アゲルヨ
+
+---
+id: 621026
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Prenditi cura di tutti..."
+
+---
+id: 621027
+attribute: 0x6400E10001030001
+---
+ミンナニヨロシク
+
+---
+id: 621028
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti sei preso cura di me."
+
+---
+id: 621029
+attribute: 0x6400E10001030001
+---
+セワニナッタナ
+
+---
+id: 621030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non mi piace questa tristezza."
+
+---
+id: 621031
+attribute: 0x6400E10001030001
+---
+シメッポイノワニガテデネ
+
+---
+id: 621032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho deciso di non voltarmi
+indietro, ma..."
+
+---
+id: 621033
+attribute: 0x6400E10001030001
+---
+フリカエラナイッテキメテタノニ
+
+---
+id: 621034
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non dirmi addio..."
+
+---
+id: 621035
+attribute: 0x6400E10001030001
+---
+サヨナラワイワナイヨ
+
+---
+id: 621036
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sorridi mentre me ne vado."
+
+---
+id: 621037
+attribute: 0x6400E10001030001
+---
+ワラッテミオクッテクレ
+
+---
+id: 621038
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non fermarmi."
+
+---
+id: 621039
+attribute: 0x6400E10001030001
+---
+トメナイデクレヨ
+
+---
+id: 621040
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Dobbiamo prenderci cura di noi."
+
+---
+id: 621041
+attribute: 0x6400E10001030001
+---
+オタガイ_カラダニワキヲツケヨー
+
+---
+id: 621042
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Alla prossima!"
+
+---
+id: 621043
+attribute: 0x6400E10001030001
+---
+マタアウヒマデ!
+
+---
+id: 621044
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Devo davvero andare..."
+
+---
+id: 621045
+attribute: 0x6400E10001030001
+---
+モー_イカナイト
+
+---
+id: 622000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"In bocca al lupo."
+
+---
+id: 622001
+attribute: 0x6400E10001030001
+---
+イッテラッシャイ
+
+---
+id: 622002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Stammi bene."
+
+---
+id: 622003
+attribute: 0x6400E10001030001
+---
+オゲンキデ
+
+---
+id: 622004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Per favore, stammi bene."
+
+---
+id: 622005
+attribute: 0x6400E10001030001
+---
+キオツケテ
+
+---
+id: 622006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ciao ciao."
+
+---
+id: 622007
+attribute: 0x6400E10001030001
+---
+バイバイ
+
+---
+id: 622008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ricevuto."
+
+---
+id: 622009
+attribute: 0x6400E10001030001
+---
+オタッシャデ
+
+---
+id: 622010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Andrà tutto bene."
+
+---
+id: 622011
+attribute: 0x6400E10001030001
+---
+キットウマクイクヨ
+
+---
+id: 622012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"A presto~"
+
+---
+id: 622013
+attribute: 0x6400E10001030001
+---
+マタネーー
+
+---
+id: 622014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Arrivederci~"
+
+---
+id: 622015
+attribute: 0x6400E10001030001
+---
+サヨナラー
+
+---
+id: 622016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Prenditi cura di te."
+
+---
+id: 622017
+attribute: 0x6400E10001030001
+---
+カラダニキヲツケテ
+
+---
+id: 631000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non quello..."
+
+---
+id: 631001
+attribute: 0x6400E10001030001
+---
+アレデモナイ
+
+---
+id: 631002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non questo..."
+
+---
+id: 631003
+attribute: 0x6400E10001030001
+---
+コレデモナイ
+
+---
+id: 651000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Come ti chiami?"
+
+---
+id: 651001
+attribute: 0x6400E10001030001
+---
+ファッツユアネーム?
+
+---
+id: 651002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quando è il tuo compleanno?"
+
+---
+id: 651003
+attribute: 0x6400E10001030001
+---
+ウェンイズユアバースデイ?
+
+---
+id: 651004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Qual è la tua parola preferita?"
+
+---
+id: 651005
+attribute: 0x6400E10001030001
+---
+ファットイズユアフェイバリットワード?
+
+---
+id: 651006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Qual è il tuo gruppo sanguigno?"
+
+---
+id: 651007
+attribute: 0x6400E10001030001
+---
+ファットイズユアブラッドタイプ?
+
+---
+id: 651008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quanti vestiti hai?"
+
+---
+id: 651009
+attribute: 0x6400E10001030001
+---
+ハウメニークローズ_ドゥーユーハブ?
+
+---
+id: 651010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi è il tuo migliore amico?"
+
+---
+id: 651011
+attribute: 0x6400E10001030001
+---
+フーイズユアーベストフレンド?
+
+---
+id: 651012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Qual è il tuo colore preferito?"
+
+---
+id: 651013
+attribute: 0x6400E10001030001
+---
+ファットイズユアフェイバリットカラー?
+
+---
+id: 651014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai fame?"
+
+---
+id: 651015
+attribute: 0x6400E10001030001
+---
+アーユーハングリー?
+
+---
+id: 651016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Che tipo di canzoni canti?"
+
+---
+id: 651017
+attribute: 0x6400E10001030001
+---
+ファットカインドオブソングドゥーユーシング?
+
+---
+id: 651018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai un Wii?"
+
+---
+id: 651019
+attribute: 0x6400E10001030001
+---
+ドゥーユーハブ_アウィー?
+
+---
+id: 651020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai un DS?"
+
+---
+id: 651021
+attribute: 0x6400E10001030001
+---
+ドゥーユーハブ_アディーエス?
+
+---
+id: 651022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai un romanzo?"
+
+---
+id: 651023
+attribute: 0x6400E10001030001
+---
+ドゥーユーハブ_アノベル?
+
+---
+id: 651024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai delle preoccupazioni?"
+
+---
+id: 651025
+attribute: 0x6400E10001030001
+---
+ドゥーユーハブ_ウォリーズ?
+
+---
+id: 652000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi chiamo
+{{1:1 arg="0x0000"}} {{1:1 arg="0x0100"}}."
+
+---
+id: 652001
+attribute: 0x6400E10001030001
+---
+マイネームイズ_{{1:1 arg="0x0000"}}_{{1:1 arg="0x0100"}}
+
+---
+id: 652002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non lo so."
+
+---
+id: 652003
+attribute: 0x6400E10001030001
+---
+アイドントノウ
+
+---
+id: 652004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È il {{1:250 arg="0x0000"}}/{{1:250 arg="0x0100"}}."
+
+---
+id: 652005
+attribute: 0x6400E10001030001
+---
+イットイズ_{{1:250 arg="0x0000"}}{{1:250 arg="0x0100"}}
+
+---
+id: 652006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non lo so."
+
+---
+id: 652007
+attribute: 0x6400E10001030001
+---
+アイドントノウ
+
+---
+id: 652008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La mia parola preferita
+è 「{{1:1 arg="0x0D30"}}"
+
+---
+id: 652009
+attribute: 0x6400E10001030001
+---
+マイフェイバリットワードイズ_{{1:1 arg="0x0000"}}
+
+---
+id: 652010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non ho una parola preferita."
+
+---
+id: 652011
+attribute: 0x6400E10001030001
+---
+アイドントハブフェイバリットワード
+
+---
+id: 652012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio gruppo sanguigno è {{1:250 arg="0x0000"}}."
+
+---
+id: 652013
+attribute: 0x6400E10001030001
+---
+マイブラッドタイプイズ_{{1:250 arg="0x0000"}}
+
+---
+id: 652014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non lo so."
+
+---
+id: 652015
+attribute: 0x6400E10001030001
+---
+アイドントノウ
+
+---
+id: 652016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho {{1:250 arg="0x0000"}} vestiti."
+
+---
+id: 652017
+attribute: 0x6400E10001030001
+---
+アイハブ{{1:250 arg="0x0000"}}クローズ
+
+---
+id: 652018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho solo questo."
+
+---
+id: 652019
+attribute: 0x6400E10001030001
+---
+アイハブオンリーディスワン
+
+---
+id: 652020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio migliore amico è {{1:1 arg="0x0000"}}."
+
+---
+id: 652021
+attribute: 0x6400E10001030001
+---
+マイベストフレンドイズ_{{1:1 arg="0x0000"}}
+
+---
+id: 652022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non ho un migliore amico."
+
+---
+id: 652023
+attribute: 0x6400E10001030001
+---
+アイハブノーベストフレンド
+
+---
+id: 652024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio colore preferito è {{1:250 arg="0x0000"}}."
+
+---
+id: 652025
+attribute: 0x6400E10001030001
+---
+マイフェイバリットカラーイズ_{{1:250 arg="0x0000"}}
+
+---
+id: 652026
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non ho un colore preferito."
+
+---
+id: 652027
+attribute: 0x6400E10001030001
+---
+アイハブノーフェイバリットカラー
+
+---
+id: 652028
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sì, ho fame."
+
+---
+id: 652029
+attribute: 0x6400E10001030001
+---
+イエスアイムハングリー
+
+---
+id: 652030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, non ho fame."
+
+---
+id: 652031
+attribute: 0x6400E10001030001
+---
+ノーアイムノット
+
+---
+id: 652032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Canto {{1:250 arg="0x0000"}}."
+
+---
+id: 652033
+attribute: 0x6400E10001030001
+---
+アイシング_{{1:250 arg="0x0000"}}
+
+---
+id: 652034
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non canto."
+
+---
+id: 652035
+attribute: 0x6400E10001030001
+---
+アイドントシング
+
+---
+id: 652036
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sì, ho un Wii."
+
+---
+id: 652037
+attribute: 0x6400E10001030001
+---
+イエスアイハブアウィー
+
+---
+id: 652038
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, non ce l'ho."
+
+---
+id: 652039
+attribute: 0x6400E10001030001
+---
+ノーアイドント
+
+---
+id: 652040
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sì, ho un DS."
+
+---
+id: 652041
+attribute: 0x6400E10001030001
+---
+イエスアイハブアディーエス
+
+---
+id: 652042
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, non ce l'ho."
+
+---
+id: 652043
+attribute: 0x6400E10001030001
+---
+ノーアイドント
+
+---
+id: 652044
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sì, ho un romanzo."
+
+---
+id: 652045
+attribute: 0x6400E10001030001
+---
+イエスアイハブアノベル
+
+---
+id: 652046
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, non ce l'ho."
+
+---
+id: 652047
+attribute: 0x6400E10001030001
+---
+ノーアイドント
+
+---
+id: 652048
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sì, ho delle preoccupazioni."
+
+---
+id: 652049
+attribute: 0x6400E10001030001
+---
+イエスアイハブウォリーズ
+
+---
+id: 652050
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, non ne ho."
+
+---
+id: 652051
+attribute: 0x6400E10001030001
+---
+ノーアイドント
+
+---
+id: 653100
+attribute: 0x6400E10001030001
+---
+ゼロ
+
+---
+id: 653101
+attribute: 0x6400E10001030001
+---
+ワン
+
+---
+id: 653102
+attribute: 0x6400E10001030001
+---
+ツー
+
+---
+id: 653103
+attribute: 0x6400E10001030001
+---
+スリー
+
+---
+id: 653104
+attribute: 0x6400E10001030001
+---
+フォー
+
+---
+id: 653105
+attribute: 0x6400E10001030001
+---
+ファイブ
+
+---
+id: 653106
+attribute: 0x6400E10001030001
+---
+シックス
+
+---
+id: 653107
+attribute: 0x6400E10001030001
+---
+セブン
+
+---
+id: 653108
+attribute: 0x6400E10001030001
+---
+エイト
+
+---
+id: 653109
+attribute: 0x6400E10001030001
+---
+ナイン
+
+---
+id: 653110
+attribute: 0x6400E10001030001
+---
+テン
+
+---
+id: 653111
+attribute: 0x6400E10001030001
+---
+メニー
+
+---
+id: 653150
+attribute: 0x6400E10001030001
+---
+0
+
+---
+id: 653151
+attribute: 0x6400E10001030001
+---
+1
+
+---
+id: 653152
+attribute: 0x6400E10001030001
+---
+2
+
+---
+id: 653153
+attribute: 0x6400E10001030001
+---
+3
+
+---
+id: 653154
+attribute: 0x6400E10001030001
+---
+4
+
+---
+id: 653155
+attribute: 0x6400E10001030001
+---
+5
+
+---
+id: 653156
+attribute: 0x6400E10001030001
+---
+6
+
+---
+id: 653157
+attribute: 0x6400E10001030001
+---
+7
+
+---
+id: 653158
+attribute: 0x6400E10001030001
+---
+8
+
+---
+id: 653159
+attribute: 0x6400E10001030001
+---
+9
+
+---
+id: 653160
+attribute: 0x6400E10001030001
+---
+10
+
+---
+id: 653161
+attribute: 0x6400E10001030001
+---
+molti
+
+---
+id: 653200
+attribute: 0x6400E10001030001
+---
+ジャニュアリー
+
+---
+id: 653201
+attribute: 0x6400E10001030001
+---
+フェブリュアリー
+
+---
+id: 653202
+attribute: 0x6400E10001030001
+---
+マーチ
+
+---
+id: 653203
+attribute: 0x6400E10001030001
+---
+エイプリル
+
+---
+id: 653204
+attribute: 0x6400E10001030001
+---
+メイ
+
+---
+id: 653205
+attribute: 0x6400E10001030001
+---
+ジューン
+
+---
+id: 653206
+attribute: 0x6400E10001030001
+---
+ジュライ
+
+---
+id: 653207
+attribute: 0x6400E10001030001
+---
+オーガスト
+
+---
+id: 653208
+attribute: 0x6400E10001030001
+---
+セプテンバー
+
+---
+id: 653209
+attribute: 0x6400E10001030001
+---
+オクトーバー
+
+---
+id: 653210
+attribute: 0x6400E10001030001
+---
+ノーベンバー
+
+---
+id: 653211
+attribute: 0x6400E10001030001
+---
+ディッセンバー
+
+---
+id: 653300
+attribute: 0x6400E10001030001
+---
+0
+
+---
+id: 653301
+attribute: 0x6400E10001030001
+---
+1
+
+---
+id: 653302
+attribute: 0x6400E10001030001
+---
+2
+
+---
+id: 653303
+attribute: 0x6400E10001030001
+---
+3
+
+---
+id: 653304
+attribute: 0x6400E10001030001
+---
+4
+
+---
+id: 653305
+attribute: 0x6400E10001030001
+---
+5
+
+---
+id: 653306
+attribute: 0x6400E10001030001
+---
+6
+
+---
+id: 653307
+attribute: 0x6400E10001030001
+---
+7
+
+---
+id: 653308
+attribute: 0x6400E10001030001
+---
+8
+
+---
+id: 653309
+attribute: 0x6400E10001030001
+---
+9
+
+---
+id: 653310
+attribute: 0x6400E10001030001
+---
+10
+
+---
+id: 653311
+attribute: 0x6400E10001030001
+---
+11
+
+---
+id: 653312
+attribute: 0x6400E10001030001
+---
+12
+
+---
+id: 653313
+attribute: 0x6400E10001030001
+---
+13
+
+---
+id: 653314
+attribute: 0x6400E10001030001
+---
+14
+
+---
+id: 653315
+attribute: 0x6400E10001030001
+---
+15
+
+---
+id: 653316
+attribute: 0x6400E10001030001
+---
+16
+
+---
+id: 653317
+attribute: 0x6400E10001030001
+---
+17
+
+---
+id: 653318
+attribute: 0x6400E10001030001
+---
+18
+
+---
+id: 653319
+attribute: 0x6400E10001030001
+---
+19
+
+---
+id: 653320
+attribute: 0x6400E10001030001
+---
+20
+
+---
+id: 653321
+attribute: 0x6400E10001030001
+---
+21
+
+---
+id: 653322
+attribute: 0x6400E10001030001
+---
+22
+
+---
+id: 653323
+attribute: 0x6400E10001030001
+---
+23
+
+---
+id: 653324
+attribute: 0x6400E10001030001
+---
+24
+
+---
+id: 653325
+attribute: 0x6400E10001030001
+---
+25
+
+---
+id: 653326
+attribute: 0x6400E10001030001
+---
+26
+
+---
+id: 653327
+attribute: 0x6400E10001030001
+---
+27
+
+---
+id: 653328
+attribute: 0x6400E10001030001
+---
+28
+
+---
+id: 653329
+attribute: 0x6400E10001030001
+---
+29
+
+---
+id: 653330
+attribute: 0x6400E10001030001
+---
+30
+
+---
+id: 653331
+attribute: 0x6400E10001030001
+---
+31
+
+---
+id: 653332
+attribute: 0x6400E10001030001
+---
+32
+
+---
+id: 653400
+attribute: 0x6400E10001030001
+---
+ゼロ
+
+---
+id: 653401
+attribute: 0x6400E10001030001
+---
+ファースト
+
+---
+id: 653402
+attribute: 0x6400E10001030001
+---
+セカンド
+
+---
+id: 653403
+attribute: 0x6400E10001030001
+---
+サード
+
+---
+id: 653404
+attribute: 0x6400E10001030001
+---
+フォース
+
+---
+id: 653405
+attribute: 0x6400E10001030001
+---
+フィフス
+
+---
+id: 653406
+attribute: 0x6400E10001030001
+---
+シックス
+
+---
+id: 653407
+attribute: 0x6400E10001030001
+---
+セブンス
+
+---
+id: 653408
+attribute: 0x6400E10001030001
+---
+エイス
+
+---
+id: 653409
+attribute: 0x6400E10001030001
+---
+ナインス
+
+---
+id: 653410
+attribute: 0x6400E10001030001
+---
+テンス
+
+---
+id: 653411
+attribute: 0x6400E10001030001
+---
+イレブンス
+
+---
+id: 653412
+attribute: 0x6400E10001030001
+---
+トゥエルフス
+
+---
+id: 653413
+attribute: 0x6400E10001030001
+---
+サーティーンス
+
+---
+id: 653414
+attribute: 0x6400E10001030001
+---
+フォーティンス
+
+---
+id: 653415
+attribute: 0x6400E10001030001
+---
+フィフティーンス
+
+---
+id: 653416
+attribute: 0x6400E10001030001
+---
+シックスティーンス
+
+---
+id: 653417
+attribute: 0x6400E10001030001
+---
+セブンティーンス
+
+---
+id: 653418
+attribute: 0x6400E10001030001
+---
+エイティーンス
+
+---
+id: 653419
+attribute: 0x6400E10001030001
+---
+ナインティーンス
+
+---
+id: 653420
+attribute: 0x6400E10001030001
+---
+トゥンティース
+
+---
+id: 653421
+attribute: 0x6400E10001030001
+---
+トゥンティーファースト
+
+---
+id: 653422
+attribute: 0x6400E10001030001
+---
+トゥンティーセカンド
+
+---
+id: 653423
+attribute: 0x6400E10001030001
+---
+トゥンティーサード
+
+---
+id: 653424
+attribute: 0x6400E10001030001
+---
+トゥンティーフォース
+
+---
+id: 653425
+attribute: 0x6400E10001030001
+---
+トゥンティーフィフス
+
+---
+id: 653426
+attribute: 0x6400E10001030001
+---
+トゥンティーシクス
+
+---
+id: 653427
+attribute: 0x6400E10001030001
+---
+トゥンティーセブンス
+
+---
+id: 653428
+attribute: 0x6400E10001030001
+---
+トゥンティーエイス
+
+---
+id: 653429
+attribute: 0x6400E10001030001
+---
+トゥンティーナインス
+
+---
+id: 653430
+attribute: 0x6400E10001030001
+---
+サーティス
+
+---
+id: 653431
+attribute: 0x6400E10001030001
+---
+サーティーファースト
+
+---
+id: 653500
+attribute: 0x6400E10001030001
+---
+Ａ
+
+---
+id: 653501
+attribute: 0x6400E10001030001
+---
+Ｂ
+
+---
+id: 653502
+attribute: 0x6400E10001030001
+---
+Ｏ
+
+---
+id: 653503
+attribute: 0x6400E10001030001
+---
+ＡＢ
+
+---
+id: 653600
+attribute: 0x6400E10001030001
+---
+エー
+
+---
+id: 653601
+attribute: 0x6400E10001030001
+---
+ビー
+
+---
+id: 653602
+attribute: 0x6400E10001030001
+---
+オー
+
+---
+id: 653603
+attribute: 0x6400E10001030001
+---
+エービー
+
+---
+id: 653700
+attribute: 0x6400E10001030001
+---
+rosso
+
+---
+id: 653701
+attribute: 0x6400E10001030001
+---
+arancione
+
+---
+id: 653702
+attribute: 0x6400E10001030001
+---
+giallo
+
+---
+id: 653703
+attribute: 0x6400E10001030001
+---
+giallo verde
+
+---
+id: 653704
+attribute: 0x6400E10001030001
+---
+verde
+
+---
+id: 653705
+attribute: 0x6400E10001030001
+---
+blu
+
+---
+id: 653706
+attribute: 0x6400E10001030001
+---
+blu elettrico
+
+---
+id: 653707
+attribute: 0x6400E10001030001
+---
+rosa
+
+---
+id: 653708
+attribute: 0x6400E10001030001
+---
+viola
+
+---
+id: 653709
+attribute: 0x6400E10001030001
+---
+marrone
+
+---
+id: 653710
+attribute: 0x6400E10001030001
+---
+bianco
+
+---
+id: 653711
+attribute: 0x6400E10001030001
+---
+nero
+
+---
+id: 653800
+attribute: 0x6400E10001030001
+---
+レッド
+
+---
+id: 653801
+attribute: 0x6400E10001030001
+---
+オレンジ
+
+---
+id: 653802
+attribute: 0x6400E10001030001
+---
+イエロー
+
+---
+id: 653803
+attribute: 0x6400E10001030001
+---
+イエローグリーン
+
+---
+id: 653804
+attribute: 0x6400E10001030001
+---
+グリーン
+
+---
+id: 653805
+attribute: 0x6400E10001030001
+---
+ブルー
+
+---
+id: 653806
+attribute: 0x6400E10001030001
+---
+ライトブルー
+
+---
+id: 653807
+attribute: 0x6400E10001030001
+---
+ピンク
+
+---
+id: 653808
+attribute: 0x6400E10001030001
+---
+パープル
+
+---
+id: 653809
+attribute: 0x6400E10001030001
+---
+ブラウン
+
+---
+id: 653810
+attribute: 0x6400E10001030001
+---
+ホワイト
+
+---
+id: 653811
+attribute: 0x6400E10001030001
+---
+ブラック
+
+---
+id: 653900
+attribute: 0x6400E10001030001
+---
+enka
+
+---
+id: 653901
+attribute: 0x6400E10001030001
+---
+ballata
+
+---
+id: 653902
+attribute: 0x6400E10001030001
+---
+J-pop
+
+---
+id: 653903
+attribute: 0x6400E10001030001
+---
+rap
+
+---
+id: 653904
+attribute: 0x6400E10001030001
+---
+rock
+
+---
+id: 653905
+attribute: 0x6400E10001030001
+---
+idol
+
+---
+id: 654000
+attribute: 0x6400E10001030001
+---
+エンカ
+
+---
+id: 654001
+attribute: 0x6400E10001030001
+---
+ムードカヨー
+
+---
+id: 654002
+attribute: 0x6400E10001030001
+---
+ジェイポップ
+
+---
+id: 654003
+attribute: 0x6400E10001030001
+---
+ラップ
+
+---
+id: 654004
+attribute: 0x6400E10001030001
+---
+ロック
+
+---
+id: 654005
+attribute: 0x6400E10001030001
+---
+アイドル
+
+---
+id: 655000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Grazie."
+
+---
+id: 655001
+attribute: 0x6400E10001030001
+---
+サンキュー
+
+---
+id: 655002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok! Molto bene."
+
+---
+id: 655003
+attribute: 0x6400E10001030001
+---
+オーケー_ベリーグー!
+
+---
+id: 821000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm?"
+
+---
+id: 821001
+attribute: 0x6400E10001030001
+---
+ナニ
+
+---
+id: 821002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai qualcosa da dirmi?"
+
+---
+id: 821003
+attribute: 0x6400E10001030001
+---
+ナニカヨウデスカ
+
+---
+id: 822000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non è niente."
+
+---
+id: 822001
+attribute: 0x6400E10001030001
+---
+ナンデモナイヨー
+
+---
+id: 822002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Huh? Cosa?"
+
+---
+id: 822003
+attribute: 0x6400E10001030001
+---
+エッ_ナニガ?
+
+---
+id: 822004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"..."
+
+---
+id: 822005
+attribute: 0x6400E10001030001
+---
+.
+
+---
+id: 861000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La corda è legata bene?"
+
+---
+id: 861001
+attribute: 0x6400E10001030001
+---
+ヒモワツイテマスカー
+
+---
+id: 861002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Devo andare~"
+
+---
+id: 861003
+attribute: 0x6400E10001030001
+---
+ソロソロイキマスー
+
+---
+id: 861004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok! Il riscaldamento è finito!"
+
+---
+id: 861005
+attribute: 0x6400E10001030001
+---
+ヨシ!ジュンビウンドーカンリョー！
+
+---
+id: 861006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Me ne vado."
+
+---
+id: 861007
+attribute: 0x6400E10001030001
+---
+イッテキマス
+
+---
+id: 861008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Salterò davvero."
+
+---
+id: 861009
+attribute: 0x6400E10001030001
+---
+ホントニトビマスヨ
+
+---
+id: 861010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non è poi così alto."
+
+---
+id: 861011
+attribute: 0x6400E10001030001
+---
+オモッタヨリタカクナイネ
+
+---
+id: 861012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il vento è molto forte."
+
+---
+id: 861013
+attribute: 0x6400E10001030001
+---
+ヨコカゼガツヨイネ
+
+---
+id: 861014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Oh? Sta piovendo?"
+
+---
+id: 861015
+attribute: 0x6400E10001030001
+---
+オヤ?アメガ
+
+---
+id: 861016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eh? Vuoi fare a cambio?"
+
+---
+id: 861017
+attribute: 0x6400E10001030001
+---
+エッ_カワリタイッテ?
+
+---
+id: 861018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mostrami come si fa."
+
+---
+id: 861019
+attribute: 0x6400E10001030001
+---
+オテホンミセテ
+
+---
+id: 861020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non devo farlo per forza, vero?"
+
+---
+id: 861021
+attribute: 0x6400E10001030001
+---
+イマヤラナクテモイーンジャナイ?
+
+---
+id: 861022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La mia nonna non vorrebbe
+che lo facessi."
+
+---
+id: 861023
+attribute: 0x6400E10001030001
+---
+イナカノオバアチャンガダメダッテ
+
+---
+id: 861024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non fermarmi!"
+
+---
+id: 861025
+attribute: 0x6400E10001030001
+---
+トメナイデクレ!
+
+---
+id: 861026
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Dammi 3 minuti
+per prepararmi mentalmente."
+
+---
+id: 861027
+attribute: 0x6400E10001030001
+---
+ココロノジュンビニサンプンチョウダイ
+
+---
+id: 861028
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"A dire il vero,
+è la mia prima volta."
+
+---
+id: 861029
+attribute: 0x6400E10001030001
+---
+ジツワハジメテナンデス
+
+---
+id: 861030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi sono appena ricordato
+di un impegno urgente."
+
+---
+id: 861031
+attribute: 0x6400E10001030001
+---
+キューヨーヲオモイダシマシタ
+
+---
+id: 861032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Vai tu prima."
+
+---
+id: 861033
+attribute: 0x6400E10001030001
+---
+オサキニドウゾ
+
+---
+id: 861034
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Oh, ho dimenticato qualcosa."
+
+---
+id: 861035
+attribute: 0x6400E10001030001
+---
+オット_ワスレモノヲシマシタ
+
+---
+id: 861036
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Per favore non spingermi."
+
+---
+id: 861037
+attribute: 0x6400E10001030001
+---
+ゼッタイニオサナイデヨ
+
+---
+id: 862000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Era~"
+
+---
+id: 862001
+attribute: 0x6400E10001030001
+---
+ツイテマスヨー
+
+---
+id: 862002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Allora vai~"
+
+---
+id: 862003
+attribute: 0x6400E10001030001
+---
+イッテラッシャイー
+
+---
+id: 862004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok, ok."
+
+---
+id: 862005
+attribute: 0x6400E10001030001
+---
+ハイハイ
+
+---
+id: 862006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ciao ciao."
+
+---
+id: 862007
+attribute: 0x6400E10001030001
+---
+バイバイ
+
+---
+id: 862008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok, ok."
+
+---
+id: 862009
+attribute: 0x6400E10001030001
+---
+ハイハイ
+
+---
+id: 862010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Davvero?"
+
+---
+id: 862011
+attribute: 0x6400E10001030001
+---
+ソーデスカ
+
+---
+id: 862012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Per niente."
+
+---
+id: 862013
+attribute: 0x6400E10001030001
+---
+ゼンゼン
+
+---
+id: 862014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non è così."
+
+---
+id: 862015
+attribute: 0x6400E10001030001
+---
+フッテマセンヨ
+
+---
+id: 862016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non l'ho detto io."
+
+---
+id: 862017
+attribute: 0x6400E10001030001
+---
+イッテマセンヨ
+
+---
+id: 862018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"L'ho già fatto."
+
+---
+id: 862019
+attribute: 0x6400E10001030001
+---
+サッキミセマシタ
+
+---
+id: 862020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È un'occasione unica!"
+
+---
+id: 862021
+attribute: 0x6400E10001030001
+---
+イマシカチャンスナイッテ!
+
+---
+id: 862022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Va bene."
+
+---
+id: 862023
+attribute: 0x6400E10001030001
+---
+イイッテサ
+
+---
+id: 862024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"In realtà lo vuoi, vero?"
+
+---
+id: 862025
+attribute: 0x6400E10001030001
+---
+トメテホシインデスネ
+
+---
+id: 862026
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Tempo scaduto!"
+
+---
+id: 862027
+attribute: 0x6400E10001030001
+---
+ジカンギレデース
+
+---
+id: 862028
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Lo sapevo."
+
+---
+id: 862029
+attribute: 0x6400E10001030001
+---
+シッテマスヨ
+
+---
+id: 862030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Aspetta dopo."
+
+---
+id: 862031
+attribute: 0x6400E10001030001
+---
+アトデネ
+
+---
+id: 862032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"No, vai in ordine."
+
+---
+id: 862033
+attribute: 0x6400E10001030001
+---
+イエ_ジュンバンデスカラ
+
+---
+id: 862034
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Lo raccoglie per te dopo."
+
+---
+id: 862035
+attribute: 0x6400E10001030001
+---
+アトデトドケマスヨ
+
+---
+id: 862036
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok, ok."
+
+---
+id: 862037
+attribute: 0x6400E10001030001
+---
+ワカッタ_ワカッタ
+
+---
+id: 863000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Aaaaaah~~~"
+
+---
+id: 863001
+attribute: 0x6400E10001030001
+---
+ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>ア<\RVol=-10>アアア
+
+---
+id: 871000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ascoltate! C'è un alieno
+spaziale tra noi umani!"
+
+---
+id: 871001
+attribute: 0x6400E10001030001
+---
+ミナサン!キイテクダサイ!.ジンルイニマギレテ!ウチュージンガイルコトガワカリマシタ!!
+
+---
+id: 871002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*borbottio*..."
+
+---
+id: 871003
+attribute: 0x6400E10001030001
+---
+マジ
+
+---
+id: 871004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*borbottio*..."
+
+---
+id: 871005
+attribute: 0x6400E10001030001
+---
+マジデ
+
+---
+id: 871006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*borbottio*..."
+
+---
+id: 871007
+attribute: 0x6400E10001030001
+---
+マジ?
+
+---
+id: 871008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*borbottio*..."
+
+---
+id: 871009
+attribute: 0x6400E10001030001
+---
+マジデ?
+
+---
+id: 871010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*borbottio*..."
+
+---
+id: 871011
+attribute: 0x6400E10001030001
+---
+マジ!
+
+---
+id: 871012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*borbottio*..."
+
+---
+id: 871013
+attribute: 0x6400E10001030001
+---
+マジデ!
+
+---
+id: 871016
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 881000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Scintillante."
+
+---
+id: 881001
+attribute: 0x6400E10001030001
+---
+ツルツル
+
+---
+id: 891000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}}~!"
+
+---
+id: 891001
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}ーーーー!!
+
+---
+id: 911000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ahahah, aspettami~"
+
+---
+id: 911001
+attribute: 0x6400E10001030001
+---
+アハハー_マテヨーーーーゥ...
+
+---
+id: 911002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ahahah, {{1:3 arg="0x0000"}}~"
+
+---
+id: 911003
+attribute: 0x6400E10001030001
+---
+アハハー_{{1:3 arg="0x0000"}}ッチーーーー
+
+---
+id: 911004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sei così abbagliante che
+non riesco a vederti~"
+
+---
+id: 911005
+attribute: 0x6400E10001030001
+---
+キミガ_マブシスギテミエナイヨーーーーー
+
+---
+id: 911006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Aspettami~"
+
+---
+id: 911007
+attribute: 0x6400E10001030001
+---
+マテーー_コイツーーーーゥ
+
+---
+id: 911008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sei la Venere di questa spiaggia~"
+
+---
+id: 911009
+attribute: 0x6400E10001030001
+---
+ナギサノビーナスメーーーー
+
+---
+id: 911010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sei ancora più bello/a
+di questo panorama."
+
+---
+id: 911011
+attribute: 0x6400E10001030001
+---
+コノケシキヨリモ_キミガキレイダヨーーーーゥ
+
+---
+id: 911012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}} è il migliore~"
+
+---
+id: 911013
+attribute: 0x6400E10001030001
+---
+{{1:3 arg="0x0000"}}_キミワサイコウダーーーーー
+
+---
+id: 911014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Aspetta. {{1:3 arg="0x0000"}}, sei mio/a~"
+
+---
+id: 911015
+attribute: 0x6400E10001030001
+---
+マッテ_ボクダケノ{{1:3 arg="0x0000"}}ーーーー
+
+---
+id: 911016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Voglio sempre farlo con te~"
+
+---
+id: 911017
+attribute: 0x6400E10001030001
+---
+キミトイツマデモコウシテイタイヨーーーーー
+
+---
+id: 911018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Finché ho te, non ho bisogno
+di nient'altro al mondo~"
+
+---
+id: 911019
+attribute: 0x6400E10001030001
+---
+キミサエイレバ_ホカニナニモイラナイヨーーーーーー
+
+---
+id: 911020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}}, hai reso
+la mia vita meravigliosa~"
+
+---
+id: 911021
+attribute: 0x6400E10001030001
+---
+{{1:3 arg="0x0000"}}_キミガイレバ_ジンセイワバライロサーーーーーー
+
+---
+id: 911022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Perché sei così bellissimo/a~?"
+
+---
+id: 911023
+attribute: 0x6400E10001030001
+---
+ドウシテ_キミワソンナニウツクシイノーーーーー
+
+---
+id: 911024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}}, mi sento
+fortunato/a di averti incontrato~"
+
+---
+id: 911025
+attribute: 0x6400E10001030001
+---
+{{1:3 arg="0x0000"}}ニデアエテ_ボクワシアワセサーーーーーー
+
+---
+id: 912000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, inseguimi~"
+
+---
+id: 912001
+attribute: 0x6400E10001030001
+---
+ウフフゥー_ココマデオイデーーーー.....
+
+---
+id: 912002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, {{1:3 arg="0x0000"}}~"
+
+---
+id: 912003
+attribute: 0x6400E10001030001
+---
+ウフフゥー_{{1:3 arg="0x0000"}}ッチーーーー
+
+---
+id: 912004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, sono qui~"
+
+---
+id: 912005
+attribute: 0x6400E10001030001
+---
+ウフフゥー_ワタシワココヨーーーー
+
+---
+id: 912006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, prendimi se riesci~"
+
+---
+id: 912007
+attribute: 0x6400E10001030001
+---
+ウフフゥー_ツカマエテゴランナサーーーーイ
+
+---
+id: 912008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, che imbarazzo~"
+
+---
+id: 912009
+attribute: 0x6400E10001030001
+---
+ウフフゥー_テレチャウワーーーー
+
+---
+id: 912010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, sono felice~"
+
+---
+id: 912011
+attribute: 0x6400E10001030001
+---
+ウフフゥー_ウレシイーーーー
+
+---
+id: 912012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, anche {{1:3 arg="0x0000"}}~"
+
+---
+id: 912013
+attribute: 0x6400E10001030001
+---
+ウフフゥー_{{1:3 arg="0x0000"}}モヨーーーー
+
+---
+id: 912014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, prendimi, {{1:3 arg="0x0000"}}~"
+
+---
+id: 912015
+attribute: 0x6400E10001030001
+---
+ウフフゥー_ツカマエテ{{1:3 arg="0x0000"}}ーーーー
+
+---
+id: 912016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, possiamo continuare così~"
+
+---
+id: 912017
+attribute: 0x6400E10001030001
+---
+ウフフゥー_ナンジカンデモイイワヨーーーー
+
+---
+id: 912018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, {{1:3 arg="0x0000"}} è
+così goloso/a~"
+
+---
+id: 912019
+attribute: 0x6400E10001030001
+---
+ウフフゥー_{{1:3 arg="0x0000"}}ワヨクバリサンネーーーー
+
+---
+id: 912020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, {{1:3 arg="0x0000"}} è
+così poetico/a~"
+
+---
+id: 912021
+attribute: 0x6400E10001030001
+---
+ウフフゥー_{{1:3 arg="0x0000"}}ワシジンネーーーー
+
+---
+id: 912022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, è per colpa
+di {{1:3 arg="0x0000"}}~"
+
+---
+id: 912023
+attribute: 0x6400E10001030001
+---
+ウフフゥー_{{1:3 arg="0x0000"}}ノセイヨーーーー
+
+---
+id: 912024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, sono felice anch'io~"
+
+---
+id: 912025
+attribute: 0x6400E10001030001
+---
+ウフフゥー_ワタシモシアワセーーーー
+
+---
+id: 913000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eheheh, rifacciamolo
+più tardi~"
+
+---
+id: 913001
+attribute: 0x6400E10001030001
+---
+ウフフゥー_マタオンナジコトイッテルーーーー
+
+---
+id: 950000
+attribute: 0x6400C00001030003
+---
+Indovina un oggetto dalla sua sagoma.
+Riesci a rispondere a
+tutte e 5 le domande?
+
+---
+id: 950001
+attribute: 0x6400600001030101
+---
+Inizia
+
+---
+id: 950002
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 950003
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La risposta è..."
+
+---
+id: 950004
+attribute: 0x6400E10001030001
+---
+コタエワ,
+
+---
+id: 950005
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:20 arg="0x0000"}}."
+
+---
+id: 950006
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0000"}}デシタ
+
+---
+id: 950007
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quiz Delle Siluette N.1!
+Che oggetto è?"
+
+---
+id: 950008
+attribute: 0x6400E10001030001
+---
+シルエットクイズダイイチモン.コレワナンデショー？
+
+---
+id: 950009
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quiz Delle Siluette N.2!
+Che oggetto è?"
+
+---
+id: 950010
+attribute: 0x6400E10001030001
+---
+シルエットクイズダイニモン.コレワナンデショー？
+
+---
+id: 950011
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quiz Delle Siluette N.3!
+Che oggetto è?"
+
+---
+id: 950012
+attribute: 0x6400E10001030001
+---
+シルエットクイズダイサンモン.コレワナンデショー？
+
+---
+id: 950013
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quiz Delle Siluette N.4!
+Che oggetto è?"
+
+---
+id: 950014
+attribute: 0x6400E10001030001
+---
+シルエットクイズダイヨンモン.コレワナンデショー？
+
+---
+id: 950015
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quiz Delle Siluette -
+Ultima Domanda! Che oggetto è?"
+
+---
+id: 950016
+attribute: 0x6400E10001030001
+---
+シルエットクイズ_サイゴノモンダイデス.コレワナンデショー？
+
+---
+id: 960000
+attribute: 0x6400E10001030001
+---
+アッ_{{1:20 arg="0x0000"}}ダー
+
+---
+id: 970100
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150>
+
+---
+id: 970200
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-180>{{1:1 arg="0x0000"}}{{1:1 arg="0x0100"}}{{1:1 arg="0x0200"}}<\RPit=-120>{{1:1 arg="0x0300"}}<\RPit=-120>{{1:1 arg="0x0400"}}ー<\RPit=+120>{{1:1 arg="0x0500"}}ー<\RPit=+120>{{1:1 arg="0x0600"}}ーーー＿＿
+
+---
+id: 970201
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=0>{{1:1 arg="0x0000"}}{{1:1 arg="0x0100"}}{{1:1 arg="0x0200"}}{{1:1 arg="0x0300"}}<\RPit=+60>{{1:1 arg="0x0400"}}ー<\RPit=-60>{{1:1 arg="0x0500"}}ー<\RPit=-120>{{1:1 arg="0x0600"}}ー
+
+---
+id: 970202
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-180><\Vol=-10000>タタ<\Vol=100>{{1:1 arg="0x0000"}}ー{{1:1 arg="0x0100"}}ー{{1:1 arg="0x0200"}}ー<\RPit=+180>{{1:1 arg="0x0300"}}ー{{1:1 arg="0x0400"}}ー{{1:1 arg="0x0500"}}ー<\RPit=-120>{{1:1 arg="0x0600"}}ー
+
+---
+id: 970203
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-60>{{1:1 arg="0x0000"}}ー<\RPit=+60>{{1:1 arg="0x0100"}}ー<\RPit=-60>{{1:1 arg="0x0200"}}ー<\RPit=-120>{{1:1 arg="0x0300"}}ー<\RPit=+120>{{1:1 arg="0x0400"}}ー
+
+---
+id: 970204
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-180>{{1:1 arg="0x0000"}}{{1:1 arg="0x0100"}}{{1:1 arg="0x0200"}}<\RPit=-120>{{1:1 arg="0x0300"}}<\RPit=-120>{{1:1 arg="0x0400"}}ー<\RPit=+120>{{1:1 arg="0x0500"}}ー<\RPit=+120>{{1:1 arg="0x0600"}}ーーー＿＿
+
+---
+id: 970205
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=0>{{1:1 arg="0x0000"}}{{1:1 arg="0x0100"}}{{1:1 arg="0x0200"}}{{1:1 arg="0x0300"}}<\RPit=+60>{{1:1 arg="0x0400"}}ー<\RPit=-60>{{1:1 arg="0x0500"}}ー<\RPit=-120>{{1:1 arg="0x0600"}}ー
+
+---
+id: 970206
+attribute: 0x6400E10001000001
+---
+<\monotone><\Spd=150><\RPit=-180><\Vol=-10000>タタ<\Vol=100>{{1:1 arg="0x0000"}}ー{{1:1 arg="0x0100"}}ー{{1:1 arg="0x0200"}}ー<\RPit=+180>{{1:1 arg="0x0300"}}ー{{1:1 arg="0x0400"}}ー{{1:1 arg="0x0500"}}ー<\RPit=-120>{{1:1 arg="0x0600"}}ー
+
+---
+id: 970207
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-60>{{1:1 arg="0x0000"}}ー<\RPit=+60>{{1:1 arg="0x0100"}}ー<\RPit=-60>{{1:1 arg="0x0200"}}ー<\RPit=-120>{{1:1 arg="0x0300"}}ー<\RPit=+120>{{1:1 arg="0x0400"}}ー
+
+---
+id: 970300
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-180>ノミス<\RPit=-120>ギ<\RPit=-120>ター<\RPit=+120>ノー<\RPit=+120>ワーーー＿＿"
+
+---
+id: 970301
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=0>アナタノ<\RPit=+60>セー<\RPit=-60>イー<\RPit=-120>ヨー
+
+---
+id: 970302
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-180><\Vol=-10000>タタ<\Vol=100>ヨーワーイー<\RPit=+180>オーンーナー<\RPit=-120>ノー
+
+---
+id: 970303
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-60>イー<\RPit=+60>トー<\RPit=-60>シー<\RPit=-120>サー<\RPit=+120>ヨー
+
+---
+id: 970304
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-180>ノミス<\RPit=-120>ギ<\RPit=-120>ター<\RPit=+120>ノー<\RPit=+120>ワーーー＿＿
+
+---
+id: 970305
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=0>アナタノ<\RPit=+60>セー<\RPit=-60>イー<\RPit=-120>ヨー
+
+---
+id: 970306
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-180>カーワーイイー<\RPit=+180>オーマーエー<\RPit=-120>ノー
+
+---
+id: 970307
+attribute: 0x6400E10001030001
+---
+<\monotone><\Spd=150><\RPit=-60>ツー<\RPit=+60>ヨー<\RPit=-60>ガー<\RPit=-120>リー<\RPit=+120>ヨー
+
+---
+id: 971100
+attribute: 0x6400E10001030001
+---
+ワ
+
+---
+id: 971101
+attribute: 0x6400E10001030001
+---
+ニ
+
+---
+id: 971102
+attribute: 0x6400E10001030001
+---
+ヲ
+
+---
+id: 971103
+attribute: 0x6400E10001030001
+---
+ヨ
+
+---
+id: 971200
+attribute: 0x6400E10001030001
+---
+ンー
+
+---
+id: 971201
+attribute: 0x6400E10001030001
+---
+ミー
+
+---
+id: 971300
+attribute: 0x6400E10001030001
+---
+ゲーム
+
+---
+id: 971301
+attribute: 0x6400E10001030001
+---
+チェック
+
+---
+id: 971400
+attribute: 0x6400E10001030001
+---
+ケータイ
+
+---
+id: 971401
+attribute: 0x6400E10001030001
+---
+スタート
+
+---
+id: 971406
+attribute: 0x6400E10001030001
+---
+ベンキョー
+
+---
+id: 971407
+attribute: 0x6400E10001030001
+---
+チョロチョロ
+
+---
+id: 971408
+attribute: 0x6400E10001030001
+---
+ウォンチュー
+
+---
+id: 971409
+attribute: 0x6400E10001030001
+---
+ハッピイ
+
+---
+id: 971410
+attribute: 0x6400E10001030001
+---
+コマッタ
+
+---
+id: 971500
+attribute: 0x6400E10001030001
+---
+リョーオモイ
+
+---
+id: 971501
+attribute: 0x6400E10001030001
+---
+ショーモナイ
+
+---
+id: 971600
+attribute: 0x6400E10001030001
+---
+カキクケコカ
+
+---
+id: 981000
+attribute: 0x6400E10001030001
+---
+<\Ring=10>アーーーーーーーーーーーーーーーーーー
+
+---
+id: 981001
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ワーレーワーレーワーーーーウーチューージーンーダーーーーーー
+
+---
+id: 981002
+attribute: 0x6400E10001030001
+---
+<\Ring=10>イーーーーーーーーシーヤーーーーーーーーーキーーイーモーーーーーーーーーーー
+
+---
+id: 981003
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ワーーーーハーッハーッハーッハーーーーーーーーー
+
+---
+id: 981004
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ヒーーーーーーーマーーーーーーーダーーーーーーーーーーーーー
+
+---
+id: 981005
+attribute: 0x6400E10001030001
+---
+<\Ring=10>メーガーマーワールールールールールーーーーーーーーーーーーーー
+
+---
+id: 981006
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ラーラーラーラーラーーーーーーーーーーーーー
+
+---
+id: 981007
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ターーーースーーーーケーーーーテーーーーーーーー
+
+---
+id: 981008
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ロボットダーーーーーーーーウィーーーーーーーーーーーン
+
+---
+id: 981009
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ガーーオーーーーーーーーーーーーーーーーー
+
+---
+id: 981010
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ウッフーーーーーーーーン
+
+---
+id: 981011
+attribute: 0x6400E10001030001
+---
+<\Ring=10>トーーーーバーーーーサーーーーレーーーールーーーーーーーーーーーーー
+
+---
+id: 981012
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ビーーブーーラーーーーーートーーーーーーーーーーーーーーーーーー
+
+---
+id: 981013
+attribute: 0x6400E10001030001
+---
+<\Ring=10>ウーーーラーーーメーーーシーーーヤーーーーーーーーーーーーーーー
+
+---
+id: 981014
+attribute: 0x6400E10001030001
+---
+<\Ring=10>{{1:1 arg="0x0000"}}ビーーーーーーーーーーーーーム
+
+---
+id: 981015
+attribute: 0x6400E10001030001
+---
+<\Ring=10>{{1:1 arg="0x0000"}}パーーーーーーーーーーーーンーチ
+
+---
+id: 990000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Ehi, ascolta.
+
+---
+id: 990001
+attribute: 0x6400E10001030001
+---
+ネエネエキイテヨー.
+
+---
+id: 990012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Hmm?
+
+---
+id: 990013
+attribute: 0x6400E10001030001
+---
+フーン
+
+---
+id: 990014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}{{1:1 arg="0x0000"}}, mi stai ascoltando?
+
+---
+id: 990015
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}_チャントハナシキイテタ?
+
+---
+id: 990016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}...L'ho già sentita!
+
+---
+id: 990017
+attribute: 0x6400E10001030001
+---
+...モチロン!キイテタヨ！
+
+---
+id: 990018
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 990019
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 990020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Sbagliato. Sei il peggiore!
+
+---
+id: 990021
+attribute: 0x6400E10001030001
+---
+チガウヨサイテー
+
+---
+id: 990022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Sì, sì. Corretto.
+
+---
+id: 990023
+attribute: 0x6400E10001030001
+---
+ソーソー_セイカイ
+
+---
+id: 990024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}A presto.
+
+---
+id: 990025
+attribute: 0x6400E10001030001
+---
+ジャアマタネ
+
+---
+id: 990026
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 990027
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 990102
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Prima quando ho giocato con
+{{1:1 arg="0x0000"}}...
+
+---
+id: 990103
+attribute: 0x6400E10001030001
+---
+コノマエ,{{1:1 arg="0x0000"}}トアソンダトキニ
+
+---
+id: 990104
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}{{1:1 arg="0x0000"}} e {{1:20 arg="0x0100"}}
+sono saliti sulla montagna...
+
+---
+id: 990105
+attribute: 0x6400E10001030001
+---
+コノマエ,{{1:1 arg="0x0000"}}ト{{1:20 arg="0x0100"}}ヤマニノボッタンダケド
+
+---
+id: 990106
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Ho visto una stella cadente con
+{{1:1 arg="0x0000"}}...
+
+---
+id: 990107
+attribute: 0x6400E10001030001
+---
+コノマエ,{{1:1 arg="0x0000"}}トナガレボシヲミタンダケド
+
+---
+id: 990108
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Di recente ho fatto
+un sogno strano...
+
+---
+id: 990109
+attribute: 0x6400E10001030001
+---
+コノマエ,ヘンナユメヲミタンダ
+
+---
+id: 990110
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Sono andato nella stanza
+di {{1:1 arg="0x0000"}}...
+
+---
+id: 990111
+attribute: 0x6400E10001030001
+---
+コノマエ.{{1:1 arg="0x0000"}}ノウチニイッタラサ
+
+---
+id: 990112
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Di recente ho fatto
+un sogno strano...
+
+---
+id: 990113
+attribute: 0x6400E10001030001
+---
+コノマエ,ヘンナユメヲミタンダ
+
+---
+id: 990114
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}È successa una cosa al parco...
+
+---
+id: 990115
+attribute: 0x6400E10001030001
+---
+コノマエ_コーエンデコンナコトガアッタヨ
+
+---
+id: 990116
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 990117
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 990200
+attribute: 0x6400E10001030001
+---
+Era {{255:0 arg="0x0100"}}.
+
+---
+id: 990201
+attribute: 0x6400E10001030001
+---
+トイウワケダッタンダヨ
+
+---
+id: 990202
+attribute: 0x6400E10001030001
+---
+Era {{255:0 arg="0x0100"}}.
+
+---
+id: 990203
+attribute: 0x6400E10001030001
+---
+トイウワケダッタンダヨ
+
+---
+id: 990204
+attribute: 0x6400E10001030001
+---
+Era {{255:0 arg="0x0100"}}.
+
+---
+id: 990205
+attribute: 0x6400E10001030001
+---
+トイウワケダッタンダヨ
+
+---
+id: 990206
+attribute: 0x6400E10001030001
+---
+Ho pregato per {{255:0 arg="0x0100"}}.
+
+---
+id: 990207
+attribute: 0x6400E10001030001
+---
+ッテオイノリシテタンダヨ
+
+---
+id: 990208
+attribute: 0x6400E10001030001
+---
+Ho sognato {{255:0 arg="0x0100"}}.
+
+---
+id: 990209
+attribute: 0x6400E10001030001
+---
+ッテイウユメダッタンダヨ
+
+---
+id: 990210
+attribute: 0x6400E10001030001
+---
+Ho visto {{255:0 arg="0x0100"}}.
+
+---
+id: 990211
+attribute: 0x6400E10001030001
+---
+ッテイウノヲミチャッタヨ
+
+---
+id: 990212
+attribute: 0x6400E10001030001
+---
+Ho sognato {{255:0 arg="0x0100"}}.
+
+---
+id: 990213
+attribute: 0x6400E10001030001
+---
+ッテイウユメダッタンダヨ
+
+---
+id: 990214
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}} è piuttosto figo.
+
+---
+id: 990215
+attribute: 0x6400E10001030001
+---
+チョットカッコイイヨネ
+
+---
+id: 990216
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 990217
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 991000
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 991001
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 991040
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+{{1:1 arg="0x0000"}}はなんという山に登ったのでしょう？
+
+---
+id: 991041
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ワナントイウヤマニノボッタノデショー?
+
+---
+id: 991042
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+{{1:1 arg="0x0000"}}は誰のことが嫌いなのでしょう？
+
+---
+id: 991043
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ワダレノコトガキライナノデショー?
+
+---
+id: 991060
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+{{1:1 arg="0x0000"}}は何が欲しいのでしょうか？
+
+---
+id: 991061
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ワナニガホシイノデショーカ?
+
+---
+id: 991080
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+左のヒナは誰だったでしょう？
+
+---
+id: 991081
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!ヒダリノヒナワダレダッタデショウ?
+
+---
+id: 991082
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+真ん中のヒナは誰だったでしょう？
+
+---
+id: 991083
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!マンナカノヒナワダレダッタデショー?
+
+---
+id: 991084
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+右のヒナは誰だったでしょう？
+
+---
+id: 991085
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!ミギノヒナワダレダッタデショー?
+
+---
+id: 991100
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+扇風機で遊んでたのは誰でしょう？
+
+---
+id: 991101
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!センプーキデアソンデタノワダレデショー?
+
+---
+id: 991120
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+ろくろ首の正体は誰だったのでしょう？
+
+---
+id: 991121
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!ロクロクビノショータイワダレダッタノデショー?
+
+---
+id: 991140
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}じゃあ質問です。
+木に引っかかっていたのは何だったのでしょう？
+
+---
+id: 991141
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!キニヒッカカッテイタノワナンダッタノデショー?
+
+---
+id: 1001000
+attribute: 0x6400C00001030006
+---
+Muovi La Moneta e cerca
+di ipnotizzare {{1:1 arg="0x0000"}}.
+
+---
+id: 1001001
+attribute: 0x6400C00001030006
+---
+{{1:1 arg="0x0000"}} si è 
+addromentato.
+{{1:1 arg="0x0000"}} cosa
+Sognerà.
+
+---
+id: 1002000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Zzz"
+
+---
+id: 1002001
+attribute: 0x6400E10001030001
+---
+グーグー
+
+---
+id: 1002002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mmmm"
+
+---
+id: 1002003
+attribute: 0x6400E10001030001
+---
+ス'ヤス'ヤ
+
+---
+id: 1002004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*sonnecchiando*"
+
+---
+id: 1002005
+attribute: 0x6400E10001030001
+---
+ウ'トウ'ト
+
+---
+id: 1002006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*assonnato*"
+
+---
+id: 1002007
+attribute: 0x6400E10001030001
+---
+ウツラウツラ
+
+---
+id: 1002008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"*borbottando*"
+
+---
+id: 1002009
+attribute: 0x6400E10001030001
+---
+ム'ニャム'ニャ
+
+---
+id: 1011000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Ora, la domanda.
+Chi è {{1:1 arg="0x0000"}}?
+
+---
+id: 1011001
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ノワダレデショー?
+
+---
+id: 1011002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Ora, la domanda.
+Cosa ha fatto {{1:1 arg="0x0000"}}?
+
+---
+id: 1011003
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ワナニヲシテタ?
+
+---
+id: 1011004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Ora, la domanda.
+Cosa ti ha dato {{1:1 arg="0x0000"}}?
+
+---
+id: 1011005
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ワナニヲクレタ?
+
+---
+id: 1011006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Ora, la domanda.
+Cosa ha mangiato {{1:1 arg="0x0000"}}?
+
+---
+id: 1011007
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ワナニヲタベテタ?
+
+---
+id: 1011008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}Ora, la domanda.
+Cosa ha detto {{1:1 arg="0x0000"}}?
+
+---
+id: 1011009
+attribute: 0x6400E10001030001
+---
+ジャアシツモンデス!{{1:1 arg="0x0000"}}ッテイッテタノワダレ?
+
+---
+id: 1012000
+attribute: 0x6400E10001030001
+---
+è inciampato e caduto
+
+---
+id: 1012001
+attribute: 0x6400E10001030001
+---
+コロンデタ
+
+---
+id: 1012002
+attribute: 0x6400E10001030001
+---
+ha giocato
+
+---
+id: 1012003
+attribute: 0x6400E10001030001
+---
+アソンデタ
+
+---
+id: 1012004
+attribute: 0x6400E10001030001
+---
+ha giocato a calcio
+
+---
+id: 1012005
+attribute: 0x6400E10001030001
+---
+サッカーシテタ
+
+---
+id: 1012006
+attribute: 0x6400E10001030001
+---
+ha giocato a baseball
+
+---
+id: 1012007
+attribute: 0x6400E10001030001
+---
+ヤキューシテタ
+
+---
+id: 1012008
+attribute: 0x6400E10001030001
+---
+ha giocato a calcio
+
+---
+id: 1012009
+attribute: 0x6400E10001030001
+---
+サッカーシテタ
+
+---
+id: 1012010
+attribute: 0x6400E10001030001
+---
+è andato al mare
+
+---
+id: 1012011
+attribute: 0x6400E10001030001
+---
+ウミヲミテタ
+
+---
+id: 1012012
+attribute: 0x6400E10001030001
+---
+è andato a passeggio
+
+---
+id: 1012013
+attribute: 0x6400E10001030001
+---
+サンポシテタ
+
+---
+id: 1012014
+attribute: 0x6400E10001030001
+---
+ha sonnecchiato
+
+---
+id: 1012015
+attribute: 0x6400E10001030001
+---
+イネムリシテタ
+
+---
+id: 1012016
+attribute: 0x6400E10001030001
+---
+si è svegliato tardi
+
+---
+id: 1012017
+attribute: 0x6400E10001030001
+---
+チコクシテタ
+
+---
+id: 1012018
+attribute: 0x6400E10001030001
+---
+ha letto un fumetto
+
+---
+id: 1012019
+attribute: 0x6400E10001030001
+---
+マンガヨンデタ
+
+---
+id: 1012100
+attribute: 0x6400E10001030001
+---
+ha litigato
+
+---
+id: 1012101
+attribute: 0x6400E10001030001
+---
+ケンカシテタ
+
+---
+id: 1012102
+attribute: 0x6400E10001030001
+---
+si sono riconciliati
+
+---
+id: 1012103
+attribute: 0x6400E10001030001
+---
+ナカナオリシテタ
+
+---
+id: 1012104
+attribute: 0x6400E10001030001
+---
+si sono divertiti
+
+---
+id: 1012105
+attribute: 0x6400E10001030001
+---
+アソンデタ
+
+---
+id: 1012106
+attribute: 0x6400E10001030001
+---
+sono andati a passeggio
+
+---
+id: 1012107
+attribute: 0x6400E10001030001
+---
+サンポシテタ
+
+---
+id: 1012108
+attribute: 0x6400E10001030001
+---
+hanno giocato a palla
+
+---
+id: 1012109
+attribute: 0x6400E10001030001
+---
+キャッチボールシテタ
+
+---
+id: 1012110
+attribute: 0x6400E10001030001
+---
+si sono consultati a vicenda
+
+---
+id: 1012111
+attribute: 0x6400E10001030001
+---
+ナニカソーダンシテタ
+
+---
+id: 1012200
+attribute: 0x6400E10001030001
+---
+Qualche tempo fa
+
+---
+id: 1012201
+attribute: 0x6400E10001030001
+---
+サッキ
+
+---
+id: 1012202
+attribute: 0x6400E10001030001
+---
+Ieri
+
+---
+id: 1012203
+attribute: 0x6400E10001030001
+---
+キノー
+
+---
+id: 1012204
+attribute: 0x6400E10001030001
+---
+Oggi
+
+---
+id: 1012205
+attribute: 0x6400E10001030001
+---
+キョー
+
+---
+id: 1013002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}, {{1:1 arg="0x0100"}}
+{{1:1 arg="0x0200"}}."
+
+---
+id: 1013003
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}_{{1:1 arg="0x0100"}}ガ{{1:1 arg="0x0200"}}ヨ?
+
+---
+id: 1013004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}, {{1:1 arg="0x0100"}}
+mi ha dato {{1:1 arg="0x0200"}}."
+
+---
+id: 1013005
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}_{{1:1 arg="0x0100"}}ガ{{1:1 arg="0x0200"}}ヲクレタヨ?
+
+---
+id: 1013006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}, {{1:1 arg="0x0100"}} ha detto
+「{{1:1 arg="0x0200"}}」"
+
+---
+id: 1013007
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}_{{1:1 arg="0x0100"}}ガ{{1:1 arg="0x0200"}}ッテイッテタヨ?
+
+---
+id: 1013008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}, {{1:1 arg="0x0100"}} e {{1:1 arg="0x0200"}}
+{{1:1 arg="0x0300"}}."
+
+---
+id: 1013009
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}_{{1:1 arg="0x0100"}}ト{{1:1 arg="0x0200"}}ガ{{1:1 arg="0x0300"}}ヨ?
+
+---
+id: 1013010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}, {{1:1 arg="0x0100"}} e {{1:1 arg="0x0200"}}
+hanno mangiato {{1:1 arg="0x0300"}}."
+
+---
+id: 1013011
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}_{{1:1 arg="0x0100"}}ト{{1:1 arg="0x0200"}}ガ{{1:1 arg="0x0300"}}ヲタベテタヨ?
+
+---
+id: 1013012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}, ho visto {{1:1 arg="0x0100"}}
+al negozio di animali."
+
+---
+id: 1013013
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}_{{1:1 arg="0x0100"}}ヲペットショップデミカケタヨ
+
+---
+id: 1014000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ciao, {{1:1 arg="0x0000"}}.
+Conosci il mio {{1:1 arg="0x0200"}}?"
+
+---
+id: 1014001
+attribute: 0x6400E10001030001
+---
+コンニチワ_{{1:1 arg="0x0000"}}.{{1:1 arg="0x0100"}}ノ{{1:1 arg="0x0200"}}ヲシラナイ?
+
+---
+id: 1014002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Yo, {{1:1 arg="0x0000"}}.
+Scusa, c'è una cosa che non capisco..."
+
+---
+id: 1014003
+attribute: 0x6400E10001030001
+---
+ヤア_{{1:1 arg="0x0000"}}.ゴメン_チョットワカラナイナー
+
+---
+id: 1014004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Beh, ho qualcosa da chiederti."
+
+---
+id: 1014005
+attribute: 0x6400E10001030001
+---
+ソレヨリ_チョットキイテヨー.
+
+---
+id: 1014006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm..."
+
+---
+id: 1014007
+attribute: 0x6400E10001030001
+---
+フーン
+
+---
+id: 1014008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm, che bello."
+
+---
+id: 1014009
+attribute: 0x6400E10001030001
+---
+フーン.ソレワスゴイネ
+
+---
+id: 1014010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm, benissimo."
+
+---
+id: 1014011
+attribute: 0x6400E10001030001
+---
+フーン.ヨカッタネ
+
+---
+id: 1014012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sbagliato. Sei il peggiore.
+La mia soddisfazione è scesa di 1 pt."
+
+---
+id: 1014013
+attribute: 0x6400E10001030001
+---
+チガウヨサイテー.コウカンドガイチサガッタヨ
+
+---
+id: 1014014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Corretto. La mia soddisfazione
+è salita di 1 pt."
+
+---
+id: 1014015
+attribute: 0x6400E10001030001
+---
+ソーソー_セイカイ.コーカンドガイチアガッタヨ
+
+---
+id: 1014016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"A dopo."
+
+---
+id: 1014017
+attribute: 0x6400E10001030001
+---
+ジャアマタネ
+
+---
+id: 1014018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il gatto è qui."
+
+---
+id: 1014019
+attribute: 0x6400E10001030001
+---
+ソノネコナラココニイルヨ
+
+---
+id: 1014020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio gatto è sparito. Penso sia
+da qualche parte in questo condominio.
+Aiutami a trovarlo."
+
+---
+id: 1014021
+attribute: 0x6400E10001030001
+---
+ネコガイナクナッタンダ.マンションノドコカニイルカラ_サガシテクダサイ
+
+---
+id: 1014022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Grazie, {{1:1 arg="0x0000"}}.
+La mia soddisfazione è salita di 5 pt."
+
+---
+id: 1014023
+attribute: 0x6400E10001030001
+---
+アリガトー{{1:1 arg="0x0000"}}.コーカンドガゴアガッタヨ
+
+---
+id: 1014024
+attribute: 0x6400E10001030001
+---
+
+
+
+
+---
+id: 1041000
+attribute: 0x6400C00001010008
+---
+{{255:0 arg="0x0100"}}ＡＭ  6:30-11:30  Mercato Mattutino
+ＰＭ  0:00-1:00   Parata Su Strada
+　　  3:00-4:00　Lezione D'inglese 1
+　　  7:00-8:00　Lezione D'inglese 2
+　　  9:00-11:00  Parata Su Strada
+※Gli eventi potrebbero essere annullati
+se non vi saranno
+molte persone partecipanti.
+
+---
+id: 1041001
+attribute: 0x6400300001030101
+---
+OK
+
+---
+id: 1071000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Un po' più su."
+
+---
+id: 1071001
+attribute: 0x6400E10001030001
+---
+モーチョットウエ
+
+---
+id: 1071002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Un po' più giù."
+
+---
+id: 1071003
+attribute: 0x6400E10001030001
+---
+モウチョットシタ
+
+---
+id: 1071004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Un po' più a sinistra."
+
+---
+id: 1071005
+attribute: 0x6400E10001030001
+---
+モーチョットヒダリ
+
+---
+id: 1071006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Un po' più a destra."
+
+---
+id: 1071007
+attribute: 0x6400E10001030001
+---
+モーチョットミギ
+
+---
+id: 1071008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ah~ Proprio qui."
+
+---
+id: 1071009
+attribute: 0x6400E10001030001
+---
+アー,ソコソコ
+
+---
+id: 1071010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi aiuti a grattarmi la schiena?"
+
+---
+id: 1071011
+attribute: 0x6400E10001030001
+---
+セナカカイテクレナイノ
+
+---
+id: 1071012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non lasciarmi~"
+
+---
+id: 1071013
+attribute: 0x6400E10001030001
+---
+チュートハンパダナー
+
+---
+id: 1071014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Gratta più forte~"
+
+---
+id: 1071015
+attribute: 0x6400E10001030001
+---
+モットカイテヨー
+
+---
+id: 1071016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non era male. Grazie.."
+
+---
+id: 1071017
+attribute: 0x6400E10001030001
+---
+ナカナカヨカッタヨ、アリガト
+
+---
+id: 1071018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm, così così."
+
+---
+id: 1071019
+attribute: 0x6400E10001030001
+---
+ウーン_イマイチ
+
+---
+id: 1072000
+attribute: 0x6400400001030101
+---
+Inizia
+
+---
+id: 1072001
+attribute: 0x6400C00001030004
+---
+Aiuta a grattare la schiena del Mii.
+Ascolta il suggerimento e trova
+il punto che prude. Hai
+6 possibilità di provarci.
+
+---
+id: 1101000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Lettera n. 1."
+
+---
+id: 1101001
+attribute: 0x6400E10001030001
+---
+ヒトモジメ
+
+---
+id: 1101002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Lettera n. 2."
+
+---
+id: 1101003
+attribute: 0x6400E10001030001
+---
+フタモジメ
+
+---
+id: 1101004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Lettera n. 3."
+
+---
+id: 1101005
+attribute: 0x6400E10001030001
+---
+サンモジメ
+
+---
+id: 1101006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Lettera n. 4."
+
+---
+id: 1101007
+attribute: 0x6400E10001030001
+---
+ヨンモジメ
+
+---
+id: 1101100
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok, qual è la risposta?"
+
+---
+id: 1101101
+attribute: 0x6400E10001030001
+---
+サテコタエワドレデショー?
+
+---
+id: 1102000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La risposta è..."
+
+---
+id: 1102001
+attribute: 0x6400E10001030001
+---
+コタエワ
+
+---
+id: 1102002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:20 arg="0x0000"}}!"
+
+---
+id: 1102003
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0000"}}デシタ!
+
+---
+id: 1102004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Scrittura col sedere - Domanda 1!"
+
+---
+id: 1102005
+attribute: 0x6400E10001030001
+---
+シリモジクイズ_ダイイチモン!
+
+---
+id: 1102006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Scrittura col sedere - Domanda 2!"
+
+---
+id: 1102007
+attribute: 0x6400E10001030001
+---
+シリモジクイズ_ダイニモン!
+
+---
+id: 1102008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Scrittura col sedere -
+Domanda Finale!"
+
+---
+id: 1102009
+attribute: 0x6400E10001030001
+---
+シリモジクイズ_サイゴノモンダイデス!
+
+---
+id: 1103000
+attribute: 0x6400C00001030004
+---
+Scegli una risposta corretta tra
+le 4 opzioni. Riesci a rispondere
+a tutte e 3 le domande? (*Le Lettere 
+Sono In Giapponese "Hiragana".)
+
+---
+id: 1103001
+attribute: 0x6400600001030101
+---
+Ancora una volta!
+
+---
+id: 1103002
+attribute: 0x6400600001030001
+---
+Inizia
+
+---
+id: 1103003
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non ho scelta~
+Solo un'altra volta, ok?"
+
+---
+id: 1103004
+attribute: 0x6400E10001030001
+---
+ショーガナイナー_イッカイダケダヨ
+
+---
+id: 1104000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Com'è il meteo nel tuo mondo?"
+
+---
+id: 1104001
+attribute: 0x6400E10001030001
+---
+ソッチノセカイノテンキワドーデスカ？
+
+---
+id: 1104002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"A dire il vero...
+No, lascia perdere..."
+
+---
+id: 1104003
+attribute: 0x6400E10001030001
+---
+ジツワ．イエ＿ナンデモナイデス
+
+---
+id: 1104004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi preoccupo dell'equilibrio
+nutrizionale nel cibo."
+
+---
+id: 1104005
+attribute: 0x6400E10001030001
+---
+ショクジワエイヨーノバランスニキヲツケタイデス
+
+---
+id: 1104006
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Tutti hanno qualcosa
+che vorrebbero dimenticare."
+
+---
+id: 1104007
+attribute: 0x6400E10001030001
+---
+ダレニデモ＿ワスレテシマイタイコトノヒトツヤフタツワアルトオモイマス
+
+---
+id: 1104008
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Il suono delle onde è bello.
+È rilassante stare in spiaggia."
+
+---
+id: 1104009
+attribute: 0x6400E10001030001
+---
+ナミノオトッテイイデスヨネ．ハマベニイクト＿キモチガオチツキマス
+
+---
+id: 1104010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Lavo prima il braccio destro
+quando mi faccio il bagno."
+
+---
+id: 1104011
+attribute: 0x6400E10001030001
+---
+オフロニハイルトキワ＿マズミギウデカラアライマス
+
+---
+id: 1104012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Uso prima il piede destro
+quando salgo le scale."
+
+---
+id: 1104013
+attribute: 0x6400E10001030001
+---
+カイダンヲノボルトキワ＿ミギアシカラノボリマス
+
+---
+id: 1104014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quando lucido le scarpe, inizio
+con la scarpa sinistra."
+
+---
+id: 1104015
+attribute: 0x6400E10001030001
+---
+クツヲハクトキワ＿ヒダリアシカラハキマス
+
+---
+id: 1104016
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Se domani il mondo finisse,
+cosa faresti oggi?"
+
+---
+id: 1104017
+attribute: 0x6400E10001030001
+---
+モシアシタチキューガホロビルトシタラ＿キョーナニヲシマスカ？
+
+---
+id: 1104018
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Tra avere soldi ma non tempo e
+avere tempo ma non soldi, cosa scegli?"
+
+---
+id: 1104019
+attribute: 0x6400E10001030001
+---
+オカネワアルケドジカンガナイノト＿ジカンワアルケドオカネガナイノト＿ドッチガイイデスカ？
+
+---
+id: 1104020
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Dicono che l'amore
+conta più dei soldi. È vero?"
+
+---
+id: 1104021
+attribute: 0x6400E10001030001
+---
+オカネヨリアイノホーガタイセツダト＿ヨクイワレマスガ＿ホントーニソーダトオモイマスカ？
+
+---
+id: 1104022
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Tra una vita drammatica e una
+mediocre, quale preferiresti?"
+
+---
+id: 1104023
+attribute: 0x6400E10001030001
+---
+ハランバンジョーナジンセイト＿ヘイボンナジンセイ＿ドッチガイインデショーネ
+
+---
+id: 1104024
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Sposarsi o stare single:
+cosa porta più felicità?"
+
+---
+id: 1104025
+attribute: 0x6400E10001030001
+---
+ケッコンスルカ＿ドクシンヲツラヌクカ＿ドッチガシアワセナンデショーネ？
+
+---
+id: 1104026
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Tra essere impopolare e essere
+troppopopolare, cosa è meglio?"
+
+---
+id: 1104027
+attribute: 0x6400E10001030001
+---
+モテナイノトモテスギルノデワ＿ドッチガシアワセナンデショーカ？
+
+---
+id: 1104028
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Lo sapevi che le giraffe fanno
+il verso 'Muuu'?
+
+---
+id: 1104029
+attribute: 0x6400E10001030001
+---
+キリンッテ＿モートナクラシイデスヨ．シッテマシタカ？
+
+---
+id: 1104030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Lo sapevi che i panda hanno
+un'ottima vista?"
+
+---
+id: 1104031
+attribute: 0x6400E10001030001
+---
+パンダノメッテ＿イガイトスルドイラシイデスヨ
+
+---
+id: 1104032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Da un po', in alto a sinistra
+nello schermo... Mi sbaglierò..."
+
+---
+id: 1104033
+attribute: 0x6400E10001030001
+---
+サッキカラウエガメンノヒダリノホウニ.イヤ.ミマチガエデシタ
+
+
+---
+id: 1104500
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"A proposito..."
+
+---
+id: 1104501
+attribute: 0x6400E10001030001
+---
+トコロデ
+
+---
+id: 1160100
+attribute: 0x6400E10001030001
+---
+Spagna
+
+---
+id: 1160101
+attribute: 0x6400E10001030001
+---
+スペイン
+
+---
+id: 1160102
+attribute: 0x6400E10001030001
+---
+Okinawa
+
+---
+id: 1160103
+attribute: 0x6400E10001030001
+---
+オキナワ
+
+---
+id: 1160200
+attribute: 0x6400E10001030001
+---
+Città dai muri bianchi
+
+---
+id: 1160201
+attribute: 0x6400E10001030001
+---
+シロカベノマチナミ
+
+---
+id: 1160202
+attribute: 0x6400E10001030001
+---
+Girasoli dell'Andalusia
+
+---
+id: 1160203
+attribute: 0x6400E10001030001
+---
+アンダルシアノヒマワリバタケ
+
+---
+id: 1160204
+attribute: 0x6400E10001030001
+---
+Sagrada Familia
+
+---
+id: 1160205
+attribute: 0x6400E10001030001
+---
+サグラダファミリアセイドー
+
+---
+id: 1160206
+attribute: 0x6400E10001030001
+---
+Spiaggia ovest
+
+---
+id: 1160207
+attribute: 0x6400E10001030001
+---
+ニシノハマ
+
+---
+id: 1160208
+attribute: 0x6400E10001030001
+---
+Campo di ananas
+
+---
+id: 1160209
+attribute: 0x6400E10001030001
+---
+パイナップルバタケ
+
+---
+id: 1160210
+attribute: 0x6400E10001030001
+---
+Castello di Shuri
+
+---
+id: 1160211
+attribute: 0x6400E10001030001
+---
+シュリジョー
+
+---
+id: 1160212
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 1160300
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}} e {{1:1 arg="0x0100"}}
+
+---
+id: 1160301
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}}."
+
+---
+id: 1160302
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}デース
+
+---
+id: 1160303
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok, dite cheese!"
+
+---
+id: 1160304
+attribute: 0x6400E10001030001
+---
+ハイ!チーーズ!
+
+---
+id: 1160305
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}
+
+---
+id: 1160400
+attribute: 0x6400E10001030001
+---
+patatas! (Spagnolo = "Dite cheese!")
+
+
+---
+id: 1160401
+attribute: 0x6400E10001030001
+---
+パタター!
+
+---
+id: 1161000
+attribute: 0x6400C00001030003
+---
+Vacanza dei Mii.
+Aiuta a scattare le foto.
+
+---
+id: 1162000
+attribute: 0x6400E10001030001
+---
+Museo del Louvre
+
+---
+id: 1162001
+attribute: 0x6400E10001030001
+---
+ルーブルビジュツカン
+
+---
+id: 1162002
+attribute: 0x6400E10001030001
+---
+Mont Saint-Michel
+
+---
+id: 1162003
+attribute: 0x6400E10001030001
+---
+モンサンミッシェル
+
+---
+id: 1162004
+attribute: 0x6400E10001030001
+---
+Tempio della Madeleine
+
+---
+id: 1162005
+attribute: 0x6400E10001030001
+---
+マドレーヌジイン
+
+---
+id: 1162006
+attribute: 0x6400E10001030001
+---
+La Senna di notte
+
+---
+id: 1162007
+attribute: 0x6400E10001030001
+---
+セーヌガワノヤケイ
+
+---
+id: 1162008
+attribute: 0x6400E10001030001
+---
+Castello di Chambord
+
+---
+id: 1162009
+attribute: 0x6400E10001030001
+---
+シャンボールジョー
+
+---
+id: 1162010
+attribute: 0x6400E10001030001
+---
+Opéra Garnier
+
+---
+id: 1162011
+attribute: 0x6400E10001030001
+---
+オペラザ
+
+---
+id: 1162012
+attribute: 0x6400E10001030001
+---
+Torre Eiffel
+
+---
+id: 1162013
+attribute: 0x6400E10001030001
+---
+エッフェルトー
+
+---
+id: 1162014
+attribute: 0x6400E10001030001
+---
+Arco di Trionfo
+
+---
+id: 1162015
+attribute: 0x6400E10001030001
+---
+ガイセンモン
+
+---
+id: 1162100
+attribute: 0x6400E10001030001
+---
+Spiaggia
+
+---
+id: 1162101
+attribute: 0x6400E10001030001
+---
+ビーチ
+
+---
+id: 1162102
+attribute: 0x6400E10001030001
+---
+Vulcano Haleakala
+
+---
+id: 1162103
+attribute: 0x6400E10001030001
+---
+ハレアカラカザン
+
+---
+id: 1162104
+attribute: 0x6400E10001030001
+---
+Campi di ananas
+
+---
+id: 1162105
+attribute: 0x6400E10001030001
+---
+パイナップルバタケ
+
+---
+id: 1162106
+attribute: 0x6400E10001030001
+---
+Re Kamehameha
+
+---
+id: 1162107
+attribute: 0x6400E10001030001
+---
+カメハメハダイオーゾー
+
+---
+id: 1162108
+attribute: 0x6400E10001030001
+---
+Magic Island
+
+---
+id: 1162109
+attribute: 0x6400E10001030001
+---
+マジックアイランド
+
+---
+id: 1162110
+attribute: 0x6400E10001030001
+---
+Spiaggia al tramonto
+
+---
+id: 1162111
+attribute: 0x6400E10001030001
+---
+ユーガタノビーチ
+
+---
+id: 1162112
+attribute: 0x6400E10001030001
+---
+Bancarella di frutta
+
+---
+id: 1162113
+attribute: 0x6400E10001030001
+---
+フルーツスタンド
+
+---
+id: 1162200
+attribute: 0x6400E10001030001
+---
+Centro di notte
+
+---
+id: 1162201
+attribute: 0x6400E10001030001
+---
+セントラルノヤケイ
+
+---
+id: 1162202
+attribute: 0x6400E10001030001
+---
+Centro città
+
+---
+id: 1162203
+attribute: 0x6400E10001030001
+---
+セントラル
+
+---
+id: 1162204
+attribute: 0x6400E10001030001
+---
+Torre dell'orologio
+
+---
+id: 1162205
+attribute: 0x6400E10001030001
+---
+トケイトー
+
+---
+id: 1162206
+attribute: 0x6400E10001030001
+---
+Vista dal traghetto
+
+---
+id: 1162207
+attribute: 0x6400E10001030001
+---
+フェリーカラミタマチ
+
+---
+id: 1162300
+attribute: 0x6400E10001030001
+---
+Bocca della Verità
+
+---
+id: 1162301
+attribute: 0x6400E10001030001
+---
+シンジツノクチ
+
+---
+id: 1162302
+attribute: 0x6400E10001030001
+---
+Foro Romano
+
+---
+id: 1162303
+attribute: 0x6400E10001030001
+---
+フォロ＿ロマーノ
+
+---
+id: 1162304
+attribute: 0x6400E10001030001
+---
+Firenze
+
+---
+id: 1162305
+attribute: 0x6400E10001030001
+---
+フィレンツェ
+
+---
+id: 1162306
+attribute: 0x6400E10001030001
+---
+Palazzo Ducale
+
+---
+id: 1162307
+attribute: 0x6400E10001030001
+---
+ドゥカーレキューデン
+
+---
+id: 1162308
+attribute: 0x6400E10001030001
+---
+Castel Sant'Angelo
+
+---
+id: 1162309
+attribute: 0x6400E10001030001
+---
+サンタンジェロジョー
+
+---
+id: 1162310
+attribute: 0x6400E10001030001
+---
+Gondola
+
+---
+id: 1162311
+attribute: 0x6400E10001030001
+---
+ゴンドラ
+
+---
+id: 1162312
+attribute: 0x6400E10001030001
+---
+Colosseo
+
+---
+id: 1162313
+attribute: 0x6400E10001030001
+---
+コロッセオ
+
+---
+id: 1162400
+attribute: 0x6400E10001030001
+---
+Honen
+
+---
+id: 1162401
+attribute: 0x6400E10001030001
+---
+ホーネンイン
+
+---
+id: 1162402
+attribute: 0x6400E10001030001
+---
+Fushimi Inari
+
+---
+id: 1162403
+attribute: 0x6400E10001030001
+---
+フシミイナリ
+
+---
+id: 1162404
+attribute: 0x6400E10001030001
+---
+Shodenji
+
+---
+id: 1162405
+attribute: 0x6400E10001030001
+---
+ショーデンジ
+
+---
+id: 1162406
+attribute: 0x6400E10001030001
+---
+Mimurotoji
+
+---
+id: 1162407
+attribute: 0x6400E10001030001
+---
+ミムロトジ
+
+---
+id: 1162408
+attribute: 0x6400E10001030001
+---
+Eikando
+
+---
+id: 1162409
+attribute: 0x6400E10001030001
+---
+エイカンドー
+
+---
+id: 1162500
+attribute: 0x6400E10001030001
+---
+Buffalo
+
+---
+id: 1162501
+attribute: 0x6400E10001030001
+---
+スイギュー
+
+---
+id: 1162502
+attribute: 0x6400E10001030001
+---
+Castello di Shuri
+
+---
+id: 1162503
+attribute: 0x6400E10001030001
+---
+シュリジョー
+
+---
+id: 1162504
+attribute: 0x6400E10001030001
+---
+Castello di Zakimi
+
+---
+id: 1162505
+attribute: 0x6400E10001030001
+---
+ザキミジョーアト
+
+---
+id: 1162506
+attribute: 0x6400E10001030001
+---
+Oceano
+
+---
+id: 1162507
+attribute: 0x6400E10001030001
+---
+ウミ
+
+---
+id: 1162508
+attribute: 0x6400E10001030001
+---
+Shisa
+
+---
+id: 1162509
+attribute: 0x6400E10001030001
+---
+シーサー
+
+---
+id: 1162510
+attribute: 0x6400E10001030001
+---
+Campo di canna da zucchero
+
+---
+id: 1162511
+attribute: 0x6400E10001030001
+---
+サトーキビバタケ
+
+---
+id: 1162512
+attribute: 0x6400E10001030001
+---
+Casa con tetto rosso
+
+---
+id: 1162513
+attribute: 0x6400E10001030001
+---
+アカガワラノイエ
+
+---
+id: 1162600
+attribute: 0x6400E10001030001
+---
+ヨエンショウジョウ
+
+---
+id: 1162601
+attribute: 0x6400E10001030001
+---
+ヨエンショージョー
+
+---
+id: 1162602
+attribute: 0x6400E10001030001
+---
+Torre della Perla Orientale
+
+---
+id: 1162603
+attribute: 0x6400E10001030001
+---
+シャンハイタワー
+
+---
+id: 1162604
+attribute: 0x6400E10001030001
+---
+Xintiandi
+
+---
+id: 1162605
+attribute: 0x6400E10001030001
+---
+シンテンチ
+
+---
+id: 1162606
+attribute: 0x6400E10001030001
+---
+Museo di Shanghai
+
+---
+id: 1162607
+attribute: 0x6400E10001030001
+---
+シャンハイハクブツカン
+
+---
+id: 1162700
+attribute: 0x6400E10001030001
+---
+Palazzo Reale di Madrid
+
+---
+id: 1162701
+attribute: 0x6400E10001030001
+---
+マドリードオーキュー
+
+---
+id: 1162702
+attribute: 0x6400E10001030001
+---
+Villaggio bianco
+
+---
+id: 1162703
+attribute: 0x6400E10001030001
+---
+シロイムラ
+
+---
+id: 1162704
+attribute: 0x6400E10001030001
+---
+Toledo
+
+---
+id: 1162705
+attribute: 0x6400E10001030001
+---
+トレド
+
+---
+id: 1162706
+attribute: 0x6400E10001030001
+---
+Plaza de Cibeles
+
+---
+id: 1162707
+attribute: 0x6400E10001030001
+---
+シベレースヒロバ
+
+---
+id: 1162708
+attribute: 0x6400E10001030001
+---
+Sagrada Familia
+
+---
+id: 1162709
+attribute: 0x6400E10001030001
+---
+サグラダファミリア
+
+---
+id: 1162710
+attribute: 0x6400E10001030001
+---
+Mulini di Consuegra
+
+---
+id: 1162711
+attribute: 0x6400E10001030001
+---
+コンスエグラノフーシャ
+
+---
+id: 1162712
+attribute: 0x6400E10001030001
+---
+Girasoli dell'Andalusia
+
+---
+id: 1162713
+attribute: 0x6400E10001030001
+---
+アンダルシアノヒマワリバタケ
+
+---
+id: 1162714
+attribute: 0x6400E10001030001
+---
+Acquedotto Romano
+
+---
+id: 1162715
+attribute: 0x6400E10001030001
+---
+ローマスイドーキョー
+
+---
+id: 1162800
+attribute: 0x6400E10001030001
+---
+Wat Pho
+
+---
+id: 1162801
+attribute: 0x6400E10001030001
+---
+ワット＿ポー
+
+---
+id: 1162802
+attribute: 0x6400E10001030001
+---
+Mercato
+
+---
+id: 1162803
+attribute: 0x6400E10001030001
+---
+マーケット
+
+---
+id: 1162804
+attribute: 0x6400E10001030001
+---
+Campo degli elefanti
+
+---
+id: 1162805
+attribute: 0x6400E10001030001
+---
+ゾーキャンプ
+
+---
+id: 1162806
+attribute: 0x6400E10001030001
+---
+Ayutthaya
+
+---
+id: 1162807
+attribute: 0x6400E10001030001
+---
+アユタヤイセキ
+
+---
+id: 1163000
+attribute: 0x6400E10001030001
+---
+Francia
+
+---
+id: 1163001
+attribute: 0x6400E10001030001
+---
+フランス
+
+---
+id: 1163002
+attribute: 0x6400E10001030001
+---
+Hawaii
+
+---
+id: 1163003
+attribute: 0x6400E10001030001
+---
+ハワイ
+
+---
+id: 1163004
+attribute: 0x6400E10001030001
+---
+Hong Kong
+
+---
+id: 1163005
+attribute: 0x6400E10001030001
+---
+ホンコン
+
+---
+id: 1163006
+attribute: 0x6400E10001030001
+---
+Italia
+
+---
+id: 1163007
+attribute: 0x6400E10001030001
+---
+イタリア
+
+---
+id: 1163008
+attribute: 0x6400E10001030001
+---
+Kyoto
+
+---
+id: 1163009
+attribute: 0x6400E10001030001
+---
+キョート
+
+---
+id: 1163010
+attribute: 0x6400E10001030001
+---
+Okinawa
+
+---
+id: 1163011
+attribute: 0x6400E10001030001
+---
+オキナワ
+
+---
+id: 1163012
+attribute: 0x6400E10001030001
+---
+Shanghai
+
+---
+id: 1163013
+attribute: 0x6400E10001030001
+---
+シャンハイ
+
+---
+id: 1163014
+attribute: 0x6400E10001030001
+---
+Spagna
+
+---
+id: 1163015
+attribute: 0x6400E10001030001
+---
+スペイン
+
+---
+id: 1164000
+attribute: 0x6400600001030101
+---
+Avanti
+
+---
+id: 1164001
+attribute: 0x6400600001030101
+---
+Scatta!
+
+---
+id: 1164002
+attribute: 0x6400600001030101
+---
+Indietro
+
+---
+id: 1164003
+attribute: 0x6400600001030101
+---
+Inizia
+
+---
+id: 1171000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Guarda da quella parte!"
+
+---
+id: 1171001
+attribute: 0x6400E10001030001
+---
+アッチムイテ
+
+---
+id: 1171002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Guarda da quella parte!"
+
+---
+id: 1171003
+attribute: 0x6400E10001030001
+---
+ホイ
+
+---
+id: 1171004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sasso, carta, forbici!"
+
+---
+id: 1171005
+attribute: 0x6400E10001030001
+---
+ジャーーンケーーン
+
+---
+id: 1171006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sasso, carta, forbici!"
+
+---
+id: 1171007
+attribute: 0x6400E10001030001
+---
+ポン
+
+---
+id: 1171008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Di nuovo!"
+
+---
+id: 1171009
+attribute: 0x6400E10001030001
+---
+アーイコデ
+
+---
+id: 1171010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Di nuovo!"
+
+---
+id: 1171011
+attribute: 0x6400E10001030001
+---
+ショ
+
+---
+id: 1172000
+attribute: 0x6400C00001030003
+---
+Fai guardare il Mii nella direzione
+che indichi. Hai 5 possibilità.
+Vinci una volta e vinci la partita.
+
+---
+id: 1190000
+attribute: 0x6400C00001030003
+---
+Schiaccia la zanzara. Se non
+ci riesci entro 5 turni,
+il Mii si arrabbierà...
+
+---
+id: 1193000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Grazie!"
+
+---
+id: 1193001
+attribute: 0x6400E10001030001
+---
+サンキュー
+
+---
+id: 1193002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Grazie mille!"
+
+---
+id: 1193003
+attribute: 0x6400E10001030001
+---
+アリガトネ!
+
+---
+id: 1193004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sei affidabile!"
+
+---
+id: 1193005
+attribute: 0x6400E10001030001
+---
+タヨリニナルネ!
+
+---
+id: 1193006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ottimo!"
+
+---
+id: 1193007
+attribute: 0x6400E10001030001
+---
+ナイス!
+
+---
+id: 1193008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Bravo!"
+
+---
+id: 1193009
+attribute: 0x6400E10001030001
+---
+グッジョブ!
+
+---
+id: 1193010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi sento sollevato."
+
+---
+id: 1193011
+attribute: 0x6400E10001030001
+---
+スッキリシマシタ
+
+---
+id: 1193012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Molto bene!"
+
+---
+id: 1193013
+attribute: 0x6400E10001030001
+---
+オジョウズ!
+
+---
+id: 1193014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Wow!"
+
+---
+id: 1193015
+attribute: 0x6400E10001030001
+---
+サスガ!
+
+---
+id: 1193016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Meraviglioso!"
+
+---
+id: 1193017
+attribute: 0x6400E10001030001
+---
+オミゴトッ!
+
+---
+id: 1194000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Scusa, scusa."
+
+---
+id: 1194001
+attribute: 0x6400E10001030001
+---
+ゴメンゴメン
+
+---
+id: 1194002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non muoverti."
+
+---
+id: 1194003
+attribute: 0x6400E10001030001
+---
+ウゴカナイデヨ
+
+---
+id: 1194004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Nessuna cattiva intenzione."
+
+---
+id: 1194005
+attribute: 0x6400E10001030001
+---
+ワルギワナイヨ
+
+---
+id: 1194006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non l'ho fatto apposta, ok?"
+
+---
+id: 1194007
+attribute: 0x6400E10001030001
+---
+ワザトジャナイヨ?
+
+---
+id: 1194008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quasi..."
+
+---
+id: 1194009
+attribute: 0x6400E10001030001
+---
+モウチョットダッタンダケド
+
+---
+id: 1194010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Che fallimento..."
+
+---
+id: 1194011
+attribute: 0x6400E10001030001
+---
+シッパイシッパイ
+
+---
+id: 1194012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Uh-oh."
+
+---
+id: 1194013
+attribute: 0x6400E10001030001
+---
+アララ
+
+---
+id: 1200000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È l'ora dell'Angolo Domande!"
+
+---
+id: 1200001
+attribute: 0x6400E10001030001
+---
+ソレデワ.アナタニキキタイノコーナーデス
+
+---
+id: 1200002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Continuiamo..."
+
+---
+id: 1200003
+attribute: 0x6400E10001030001
+---
+ツヅキマシテ
+
+---
+id: 1200004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Continuiamo con la domanda
+numero {{1:1 arg="0x0000"}}."
+
+---
+id: 1200005
+attribute: 0x6400E10001030001
+---
+ツヅキマシテ_ダイ{{1:1 arg="0x0000"}}モン
+
+---
+id: 1200006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questa sarà l'ultima domanda."
+
+---
+id: 1200007
+attribute: 0x6400E10001030001
+---
+ソレデワ_サイゴノシツモンデス
+
+---
+id: 1200008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Grazie mille."
+
+---
+id: 1200009
+attribute: 0x6400E10001030001
+---
+アリガトーゴザイマシタ
+
+---
+id: 1200100
+attribute: 0x6400800001030001
+---
+Chi ha provato a
+
+---
+id: 1200101
+attribute: 0x6400800001030001
+---
+Chi pensi di essere
+
+---
+id: 1200102
+attribute: 0x6400800001030001
+---
+Chi spesso
+
+---
+id: 1200103
+attribute: 0x6400800001030001
+---
+Chi di solito
+
+---
+id: 1200104
+attribute: 0x6400800001030001
+---
+Chi ama
+
+---
+id: 1200105
+attribute: 0x6400800001030001
+---
+Chi è bravo a
+
+---
+id: 1200106
+attribute: 0x6400800001030001
+---
+Chi vuole diventare
+
+---
+id: 1200107
+attribute: 0x6400800001030001
+---
+Chi vuole
+
+---
+id: 1200108
+attribute: 0x6400800001030001
+---
+Chi non ama
+
+---
+id: 1200109
+attribute: 0x6400800001030001
+---
+Chi è scarso a
+
+---
+id: 1200110
+attribute: 0x6400800001030001
+---
+Il cui hobby è
+
+---
+id: 1200111
+attribute: 0x6400800001030001
+---
+Chi è il
+
+---
+id: 1200112
+attribute: 0x6400800001030001
+---
+Chi è nel
+
+---
+id: 1200200
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200201
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200202
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200203
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200204
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200205
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200206
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200207
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200208
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200209
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200210
+attribute: 0x6400600001030001
+---
+?
+
+---
+id: 1200211
+attribute: 0x6400600001030001
+---
+tipo?
+
+---
+id: 1200212
+attribute: 0x6400600001030001
+---
+gruppo?
+
+---
+id: 1200400
+attribute: 0x6400E10001030001
+---
+Inserisci una domanda.
+
+---
+id: 1201000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi ha provato a
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201001
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}シタコトガアルヒトー?
+
+---
+id: 1201002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi pensi di essere
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201003
+attribute: 0x6400E10001030001
+---
+ジブンワ_{{1:1 arg="0x0000"}}トオモウヒトー?
+
+---
+id: 1201004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi spesso
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201005
+attribute: 0x6400E10001030001
+---
+ヨク_{{1:1 arg="0x0000"}}スルヒトー?
+
+---
+id: 1201006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi di solito
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201007
+attribute: 0x6400E10001030001
+---
+ワリト＿{{1:1 arg="0x0000"}}ナヒトー?
+
+---
+id: 1201008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi ama
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201009
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}_ガスキナヒトー?
+
+---
+id: 1201010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi è bravo a
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201011
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ガトクイナヒトー?
+
+---
+id: 1201012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi vuole diventare
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201013
+attribute: 0x6400E10001030001
+---
+モシウマレカワッタラ＿{{1:1 arg="0x0000"}}ニナリタイヒトー?
+
+---
+id: 1201014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi vuole
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201015
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ガホシイヒトー?
+
+---
+id: 1201016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi non ama
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201017
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ガニガテナヒトー?
+
+---
+id: 1201018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi è scarso a
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201019
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ガヘタナヒトー?
+
+---
+id: 1201020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il cui hobby è
+{{1:1 arg="0x0000"}}?"
+
+---
+id: 1201021
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ガシュミノヒトー?
+
+---
+id: 1201022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi è il
+{{1:1 arg="0x0000"}} tipo?"
+
+---
+id: 1201023
+attribute: 0x6400E10001030001
+---
+ジブンワ{{1:1 arg="0x0000"}}ハダトオモウヒトー?
+
+---
+id: 1201024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Chi è nel
+gruppo di {{1:1 arg="0x0000"}}?"
+
+---
+id: 1201025
+attribute: 0x6400E10001030001
+---
+ジブンワ{{1:1 arg="0x0000"}}トウダトオモウヒトー?
+
+---
+id: 1202000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sì!"
+
+---
+id: 1202001
+attribute: 0x6400E10001030001
+---
+ハーイ
+
+---
+id: 1202002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Nessuno..."
+
+---
+id: 1202003
+attribute: 0x6400E10001030001
+---
+シーン
+
+---
+id: 1203000
+attribute: 0x6400E10001030001
+---
+Chiedi
+
+---
+id: 1203001
+attribute: 0x6400E10001030001
+---
+Avanti
+
+---
+id: 1203002
+attribute: 0x6400E10001030001
+---
+Esci
+
+---
+id: 1211000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho qualcosa in faccia?"
+
+---
+id: 1211001
+attribute: 0x6400E10001030001
+---
+ナンデスカ_カオニナニカツイテマスカ?
+
+---
+id: 1212000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai un chicco di riso in faccia."
+
+---
+id: 1212001
+attribute: 0x6400E10001030001
+---
+カオニゴハンツブガツイテマスヨ
+
+---
+id: 1212002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai il cartellino
+del prezzo sui vestiti."
+
+---
+id: 1212003
+attribute: 0x6400E10001030001
+---
+フクニネフダガツイテマスヨ
+
+---
+id: 1212004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai una coccinella in testa."
+
+---
+id: 1212005
+attribute: 0x6400E10001030001
+---
+アタマニテントウムシガツイテマスヨ
+
+---
+id: 1212006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai un lappola sui vestiti."
+
+---
+id: 1212007
+attribute: 0x6400E10001030001
+---
+クッツキムシガツイテマスヨ
+
+---
+id: 1212008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai una foglia in testa."
+
+---
+id: 1212009
+attribute: 0x6400E10001030001
+---
+アタマニハッパガノッテマスヨ
+
+---
+id: 1212010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hai un pelucchio in testa."
+
+---
+id: 1212011
+attribute: 0x6400E10001030001
+---
+アタマニワタゲガツイテマスヨ
+
+---
+id: 1213000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Grazie."
+
+---
+id: 1213001
+attribute: 0x6400E10001030001
+---
+アリガトー
+
+---
+id: 1213002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Tieni, tieni."
+
+---
+id: 1213003
+attribute: 0x6400E10001030001
+---
+トッテトッテー
+
+---
+id: 1213004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok."
+
+---
+id: 1213005
+attribute: 0x6400E10001030001
+---
+ハイ
+
+---
+id: 1221000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Perfavore Aiutami."
+
+---
+id: 1221001
+attribute: 0x6400E10001030001
+---
+テヲカシテクダサイ
+
+---
+id: 1241000
+attribute: 0x6400C00001030003
+---
+Gioca a sasso, carta, forbici
+seguito dal gioco 
+"Guarda da quella parte".
+
+---
+id: 1252000
+attribute: 0x6400C00001030003
+---
+Gioca a Old Maid. Chi ha
+per primo una coppia
+completa vince..
+
+---
+id: 1253000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Va bene questo?"
+
+---
+id: 1253001
+attribute: 0x6400E10001030001
+---
+ソッチデイイノ
+
+---
+id: 1253002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eccolo."
+
+---
+id: 1253003
+attribute: 0x6400E10001030001
+---
+ドーゾ
+
+---
+id: 1253004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non questo!"
+
+---
+id: 1253005
+attribute: 0x6400E10001030001
+---
+ソッチワヤメテ!
+
+---
+id: 1301000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Pronti~!?"
+
+---
+id: 1301001
+attribute: 0x6400E10001030001
+---
+イッセーーノーーデ
+
+---
+id: 1301002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}} Verde!"
+
+---
+id: 1301003
+attribute: 0x6400E10001030001
+---
+{{1:3 arg="0x0000"}}グリーン!
+
+---
+id: 1301004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}} Giallo!"
+
+---
+id: 1301005
+attribute: 0x6400E10001030001
+---
+{{1:3 arg="0x0000"}}イエロー!
+
+---
+id: 1301006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}} Rosso!"
+
+---
+id: 1301007
+attribute: 0x6400E10001030001
+---
+{{1:3 arg="0x0000"}}レッド!
+
+---
+id: 1301008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}} Blu!"
+
+---
+id: 1301009
+attribute: 0x6400E10001030001
+---
+{{1:3 arg="0x0000"}}ブルー!
+
+---
+id: 1301010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:3 arg="0x0000"}} Rosa!"
+
+---
+id: 1301011
+attribute: 0x6400E10001030001
+---
+{{1:3 arg="0x0000"}}ピンク!
+
+---
+id: 1301012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Noi siamo... i Mii Rangers!"
+
+---
+id: 1301013
+attribute: 0x6400E10001030001
+---
+ゴニンソロッテ!ミーレンジャー!
+
+---
+id: 1301014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Uff~"
+
+---
+id: 1301015
+attribute: 0x6400E10001030001
+---
+フー
+
+---
+id: 1331000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il daruma..."
+
+---
+id: 1331001
+attribute: 0x6400E10001030001
+---
+ダルマサンガ
+
+---
+id: 1331002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il daruma..."
+
+---
+id: 1331003
+attribute: 0x6400E10001030001
+---
+ダーーールーーーマーーーサーーーンーーーガーーー
+
+---
+id: 1331004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il daruma..."
+
+---
+id: 1331005
+attribute: 0x6400E10001030001
+---
+ダーーールーーーマサンガ
+
+---
+id: 1332000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"...è caduto!"
+
+---
+id: 1332001
+attribute: 0x6400E10001030001
+---
+コロンダ
+
+---
+id: 1333000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il sosia di {{1:1 arg="0x0000"}}
+si sta muovendo!"
+
+---
+id: 1333001
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ノソックリサンウゴイター
+
+---
+id: 1333002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Tocca!"
+
+---
+id: 1333003
+attribute: 0x6400E10001030001
+---
+タッチ
+
+---
+id: 1333004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Tempo Scaduto~!"
+
+---
+id: 1333005
+attribute: 0x6400E10001030001
+---
+ジカンギレー
+
+---
+id: 1333006
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 1334000
+attribute: 0x6400600001030101
+---
+Muovi
+
+---
+id: 1334001
+attribute: 0x6400600001030101
+---
+Inizia
+
+---
+id: 1334002
+attribute: 0x6400600001030101
+---
+Tocca!
+
+---
+id: 1334003
+attribute: 0x6400600001030101
+---
+Muovi
+
+---
+id: 1335000
+attribute: 0x6400C00001030005
+---
+Cerca di avvicinarti mentre il Mii
+non ti guarda. Continuerai a
+camminare finché toccherai il
+pulsante. Vinci se riesci
+a toccare il Mii..
+
+---
+id: 1341000
+attribute: 0x6400C00001030004
+---
+Gira i pannelli per
+trovare le immagini corrispondenti.
+Hai solo 5 possibilità
+di provarci..
+
+---
+id: 1342000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}."
+
+---
+id: 1342001
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}デス
+
+---
+id: 1342002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:20 arg="0x0000"}}."
+
+---
+id: 1342003
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}デス
+
+---
+id: 1342004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Trovata!"
+
+---
+id: 1342005
+attribute: 0x6400E10001030001
+---
+アタリ!
+
+---
+id: 1361000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È il {{1:20 arg="0x0000"}}
+della mia città natale!"
+
+---
+id: 1361001
+attribute: 0x6400E10001030001
+---
+ウチデトレタ{{1:20 arg="0x0000"}}ダヨ!
+
+---
+id: 1361002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È un affarone!"
+
+---
+id: 1361003
+attribute: 0x6400E10001030001
+---
+ヤスイヨ!
+
+---
+id: 1361004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il {{1:20 arg="0x0000"}}
+che ho appena preso!"
+
+---
+id: 1361005
+attribute: 0x6400E10001030001
+---
+トレタテノ{{1:20 arg="0x0000"}}ダヨ!
+
+---
+id: 1361006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho appena raccolto questo
+{{1:20 arg="0x0000"}} stamattina!"
+
+---
+id: 1361007
+attribute: 0x6400E10001030001
+---
+ケサトレタバカリノ{{1:20 arg="0x0000"}}ダヨ!
+
+---
+id: 1361008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È freschissimo!"
+
+---
+id: 1361009
+attribute: 0x6400E10001030001
+---
+トレタテノピチピチダヨ!
+
+---
+id: 1361010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È il mio {{1:20 arg="0x0000"}}
+fatto in casa."
+
+---
+id: 1361011
+attribute: 0x6400E10001030001
+---
+テヅクリノ{{1:20 arg="0x0000"}}ダヨ!
+
+---
+id: 1361012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È molto nutriente!"
+
+---
+id: 1361013
+attribute: 0x6400E10001030001
+---
+エイヨーマンテンダヨ!
+
+---
+id: 1361014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È la specialità
+dell'Isola {{1:1 arg="0x0000"}}: {{1:20 arg="0x0100"}}!"
+
+---
+id: 1361015
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}トーメイサンノ{{1:20 arg="0x0100"}}ダヨ!
+
+---
+id: 1361016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho appena raccolto questo
+{{1:20 arg="0x0000"}} stamattina!"
+
+---
+id: 1361017
+attribute: 0x6400E10001030001
+---
+アサドリノ{{1:20 arg="0x0000"}}ダヨ!
+
+---
+id: 1361018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È freschissimo!"
+
+---
+id: 1361019
+attribute: 0x6400E10001030001
+---
+シンセンダヨ!
+
+---
+id: 1361020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Costa pochissimo. Solo
+{{1:1 arg="0x0000"}} yen!"
+
+---
+id: 1361021
+attribute: 0x6400E10001030001
+---
+ヤスイヨ!イッコタッタノ{{1:1 arg="0x0000"}}エン!イマダケダヨ!
+
+---
+id: 1361022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"L'ho preso stamattina!"
+
+---
+id: 1361023
+attribute: 0x6400E10001030001
+---
+ケサトレタバカリダヨ!
+
+---
+id: 1361024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Quel {{1:250 arg="0x0000"}}, ne vuole uno?"
+
+---
+id: 1361025
+attribute: 0x6400E10001030001
+---
+ソコノ{{1:250 arg="0x0000"}}_オヒトツイカガ
+
+---
+id: 1361026
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:20 arg="0x0000"}}! Uno a {{1:1 arg="0x0100"}} yen.
+Tre per {{1:1 arg="0x0200"}} yen!"
+
+---
+id: 1361027
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0000"}}ヒトツ_{{1:1 arg="0x0100"}}エン_ミッツデ_{{1:1 arg="0x0200"}}エン!
+
+---
+id: 1361028
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questo è {{1:20 arg="0x0000"}}
+del mio orto!"
+
+---
+id: 1361029
+attribute: 0x6400E10001030001
+---
+ウチノニワデトレタ{{1:20 arg="0x0000"}}ダヨ!
+
+---
+id: 1361030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ora è a metà prezzo!"
+
+---
+id: 1361031
+attribute: 0x6400E10001030001
+---
+ハンガクダヨ!
+
+---
+id: 1361032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio {{1:20 arg="0x0000"}} costa
+solo {{1:1 arg="0x0100"}} yen!"
+
+---
+id: 1361033
+attribute: 0x6400E10001030001
+---
+トレタテノ{{1:20 arg="0x0000"}}ガタッタノ{{1:1 arg="0x0100"}}エン!
+
+---
+id: 1361034
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Assaggialo. È delizioso!"
+
+---
+id: 1361035
+attribute: 0x6400E10001030001
+---
+ゾンブンニゴショーミアレ.ダヨ！
+
+---
+id: 1361036
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questo {{1:20 arg="0x0000"}} fa smettere
+di piangere anche i bambini!"
+
+---
+id: 1361037
+attribute: 0x6400E10001030001
+---
+ナクコモダマル{{1:20 arg="0x0000"}}ダヨ！
+
+---
+id: 1361038
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Attira tantissimi clienti!"
+
+---
+id: 1361039
+attribute: 0x6400E10001030001
+---
+センキャクバンライダヨ！
+
+---
+id: 1361040
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questo {{1:20 arg="0x0000"}} è perfetto
+per chi ami!"
+
+---
+id: 1361041
+attribute: 0x6400E10001030001
+---
+オモイヲヨセルアノヒトニワ_{{1:20 arg="0x0000"}}ダヨ！
+
+---
+id: 1361042
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È l'autentico {{1:20 arg="0x0000"}}!"
+
+---
+id: 1361043
+attribute: 0x6400E10001030001
+---
+ホンカクハノ{{1:20 arg="0x0000"}}ダヨ！
+
+---
+id: 1361044
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Prendi questo {{1:20 arg="0x0000"}}
+e assaporalo!"
+
+---
+id: 1361045
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0000"}}ノアルセイカツヲアジワッテミルチャンスダヨ！
+
+---
+id: 1361046
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È la tua occasione per riscoprire
+il sapore del {{1:20 arg="0x0000"}}!"
+
+---
+id: 1361047
+attribute: 0x6400E10001030001
+---
+{{1:20 arg="0x0000"}}ノオモムキヲサイハッケンスルコロアイダヨ！
+
+---
+id: 1361048
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho abbassato il prezzo!"
+
+---
+id: 1361049
+attribute: 0x6400E10001030001
+---
+ワリビキチューダヨ！
+
+---
+id: 1361050
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La ricetta segreta
+dell'Isola {{1:1 arg="0x0000"}}: {{1:1 arg="0x0100"}}!"
+
+---
+id: 1361051
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}トーニダイダイツタワルヒデンノ{{1:1 arg="0x0100"}}ダヨ!
+
+---
+id: 1361052
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È appena fatto!"
+
+---
+id: 1361053
+attribute: 0x6400E10001030001
+---
+デキタテホヤホヤダヨ！
+
+---
+id: 1361054
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Se non ti sbrighi,
+si esaurisce!"
+
+---
+id: 1361055
+attribute: 0x6400E10001030001
+---
+ハヤクシナイトウリキレチャウヨ!
+
+---
+id: 1361056
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ha un sapore che non trovi
+da nessun'altra parte~"
+
+---
+id: 1361057
+attribute: 0x6400E10001030001
+---
+ウチデシカタベラレナイアジダヨー
+
+---
+id: 1361058
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Benvenuto. Sono a sua disposizione!"
+
+---
+id: 1361059
+attribute: 0x6400E10001030001
+---
+タダイマ_サービスキカンチュー!
+
+---
+id: 1361060
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Benvenuto, benvenuto~"
+
+---
+id: 1361061
+attribute: 0x6400E10001030001
+---
+イラッシャイ_イラッシャイー
+
+---
+id: 1361062
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È così buono che non
+riesci a smettere~"
+
+---
+id: 1361063
+attribute: 0x6400E10001030001
+---
+オイシクテ_ホッペタオチチャウヨー
+
+---
+id: 1361064
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Puoi mangiare tutto il {{1:20 arg="0x0000"}}
+che vuoi senza ingrassare~!"
+
+---
+id: 1361065
+attribute: 0x6400E10001030001
+---
+イクラタベテモフトラナイ_{{1:20 arg="0x0000"}}イカガー!
+
+---
+id: 1361066
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio {{1:20 arg="0x0000"}} è
+l'originale!"
+
+---
+id: 1361067
+attribute: 0x6400E10001030001
+---
+ウチノ{{1:20 arg="0x0000"}}ワ_ガンソダヨ！
+
+---
+id: 1361068
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Disponibile solo
+per un periodo limitato!"
+
+---
+id: 1361069
+attribute: 0x6400E10001030001
+---
+キカンゲンテイダヨ！
+
+---
+id: 1361070
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È deliziosissimo. Provalo!"
+
+---
+id: 1361071
+attribute: 0x6400E10001030001
+---
+オイシイカラチョット_タベテミテヨ！
+
+---
+id: 1361072
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Dai~!"
+
+---
+id: 1361073
+attribute: 0x6400E10001030001
+---
+ヨッテッテネー！
+
+---
+id: 1361074
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ha un sapore autentico!"
+
+---
+id: 1361075
+attribute: 0x6400E10001030001
+---
+ホンバノアジヲサイゲンシタヨ！
+
+---
+id: 1361076
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È il sapore tramandato
+di generazione in generazione!"
+
+---
+id: 1361077
+attribute: 0x6400E10001030001
+---
+ソウギョウノアジヲマモッテマスヨ!
+
+---
+id: 1361078
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ha il sapore della
+cucina casalinga!"
+
+---
+id: 1361079
+attribute: 0x6400E10001030001
+---
+オフクロノアジダヨ！
+
+---
+id: 1361080
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È incredibilmente buono!"
+
+---
+id: 1361081
+attribute: 0x6400E10001030001
+---
+モンガイフシュツノウマサダヨ！
+
+---
+id: 1361082
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È delizioso!"
+
+---
+id: 1361083
+attribute: 0x6400E10001030001
+---
+オイシイヨ!
+
+---
+id: 1361084
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Primo raccolto
+dell'Isola {{1:1 arg="0x0000"}}!"
+
+---
+id: 1361085
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}トーハツジョウリクダヨ！
+
+---
+id: 1361100
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:250 arg="0x0000"}} {{1:20 arg="0x0000"}}!"
+
+---
+id: 1361101
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}{{1:20 arg="0x0000"}}ダヨ!
+
+---
+id: 1361102
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 1362000
+attribute: 0x6400E10001030001
+---
+fratello maggiore
+
+---
+id: 1362001
+attribute: 0x6400E10001030001
+---
+オニイサン
+
+---
+id: 1362002
+attribute: 0x6400E10001030001
+---
+sorella maggiore
+
+---
+id: 1362003
+attribute: 0x6400E10001030001
+---
+オネエサン
+
+---
+id: 1362004
+attribute: 0x6400E10001030001
+---
+dolcissimo
+
+---
+id: 1362005
+attribute: 0x6400E10001030001
+---
+アノオモイデヨリモアマイ
+
+---
+id: 1362006
+attribute: 0x6400E10001030001
+---
+piccante
+
+---
+id: 1362007
+attribute: 0x6400E10001030001
+---
+ゲキカラノ
+
+---
+id: 1362008
+attribute: 0x6400E10001030001
+---
+supersalato
+
+---
+id: 1362009
+attribute: 0x6400E10001030001
+---
+トッテモシオカライ
+
+---
+id: 1362010
+attribute: 0x6400E10001030001
+---
+superacido
+
+---
+id: 1362011
+attribute: 0x6400E10001030001
+---
+トッテモスッパイ
+
+---
+id: 1362012
+attribute: 0x6400E10001030001
+---
+supergrassoso
+
+---
+id: 1362013
+attribute: 0x6400E10001030001
+---
+トッテモアブラッコイ
+
+---
+id: 1362014
+attribute: 0x6400E10001030001
+---
+supergelato
+
+---
+id: 1362015
+attribute: 0x6400E10001030001
+---
+ヨクヒエタ
+
+---
+id: 1362016
+attribute: 0x6400E10001030001
+---
+supercaldo
+
+---
+id: 1362017
+attribute: 0x6400E10001030001
+---
+トッテモアッタカイ
+
+---
+id: 1362018
+attribute: 0x6400E10001030001
+---
+terribile
+
+---
+id: 1362019
+attribute: 0x6400E10001030001
+---
+スゴクマズイ
+
+---
+id: 1362020
+attribute: 0x6400E10001030001
+---
+supermaturo
+
+---
+id: 1362021
+attribute: 0x6400E10001030001
+---
+ヨクジュクシタ
+
+---
+id: 1362022
+attribute: 0x6400E10001030001
+---
+ricco di vitamine
+
+---
+id: 1362023
+attribute: 0x6400E10001030001
+---
+ビタミンホーフナ
+
+---
+id: 1362024
+attribute: 0x6400E10001030001
+---
+di alta qualità
+
+---
+id: 1362025
+attribute: 0x6400E10001030001
+---
+スゴクコーキューナ
+
+---
+id: 1363000
+attribute: 0x6400600001030001
+---
+Compra
+
+---
+id: 1363001
+attribute: 0x6400600001030001
+---
+ 
+
+---
+id: 1363002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Benvenuto!"
+
+---
+id: 1363003
+attribute: 0x6400E10001030001
+---
+イラッシャイ!
+
+---
+id: 1363004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Grazie!"
+
+---
+id: 1363005
+attribute: 0x6400E10001030001
+---
+マイドアリ!
+
+---
+id: 1363006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Compra qualcosa almeno!"
+
+---
+id: 1363007
+attribute: 0x6400E10001030001
+---
+ヒヤカシワオコトワリダヨ!
+
+---
+id: 1371000
+attribute: 0x6400600001030001
+---
+Applaudi
+
+---
+id: 1381000
+attribute: 0x6400600001030001
+---
+Vento
+
+---
+id: 1391000
+attribute: 0x6400C00001030001
+---
+パンチの利いた味に仕上げました。
+
+---
+id: 1391001
+attribute: 0x6400C00001030001
+---
+Tradizionale di {{1:1 arg="0x0000"}}
+
+---
+id: 1391002
+attribute: 0x6400C00001030001
+---
+Stile {{1:1 arg="0x0000"}}
+
+---
+id: 1391003
+attribute: 0x6400C00001030001
+---
+Facile e veloce
+
+---
+id: 1391004
+attribute: 0x6400C00001030001
+---
+Speciale Isola {{1:1 arg="0x0000"}}
+
+---
+id: 1391005
+attribute: 0x6400C00001030001
+---
+Stile Isola {{1:1 arg="0x0000"}}
+
+---
+id: 1391006
+attribute: 0x6400C00001030001
+---
+Stagionale
+
+---
+id: 1391007
+attribute: 0x6400C00001030001
+---
+Scelta dello chef
+
+---
+id: 1391008
+attribute: 0x6400C00001030001
+---
+Cucina casalinga di {{1:1 arg="0x0000"}}
+
+---
+id: 1391009
+attribute: 0x6400C00001030001
+---
+Capriccio dello chef
+
+---
+id: 1391010
+attribute: 0x6400C00001030001
+---
+Alla carta
+
+---
+id: 1391011
+attribute: 0x6400C00001030001
+---
+Speciale {{1:1 arg="0x0000"}}
+
+---
+id: 1391012
+attribute: 0x6400C00001030001
+---
+Sorprendentemente delizioso
+
+---
+id: 1391013
+attribute: 0x6400C00001030001
+---
+Capolavoro
+
+---
+id: 1391014
+attribute: 0x6400C00001030001
+---
+Il preferito di tutti
+
+---
+id: 1391015
+attribute: 0x6400C00001030001
+---
+Gusto da adulti
+
+---
+id: 1391016
+attribute: 0x6400C00001030001
+---
+Specialità di {{1:1 arg="0x0000"}}
+
+---
+id: 1391017
+attribute: 0x6400C00001030001
+---
+Stile cacciatore
+
+---
+id: 1391018
+attribute: 0x6400C00001030001
+---
+Stile bolognese
+
+---
+id: 1391019
+attribute: 0x6400C00001030001
+---
+Consigliato dallo chef
+
+---
+id: 1391020
+attribute: 0x6400C00001030001
+---
+Stagionale
+
+---
+id: 1391021
+attribute: 0x6400C00001030001
+---
+Originale
+
+---
+id: 1391022
+attribute: 0x6400C00001030001
+---
+Stile giapponese
+
+---
+id: 1391023
+attribute: 0x6400C00001030001
+---
+Speciale {{1:1 arg="0x0000"}}
+
+---
+id: 1391024
+attribute: 0x6400C00001030001
+---
+Stile curry
+
+---
+id: 1391025
+attribute: 0x6400C00001030001
+---
+Contorno per il riso
+
+---
+id: 1391026
+attribute: 0x6400C00001030001
+---
+Con wasabi e salsa di soia
+
+---
+id: 1391027
+attribute: 0x6400C00001030001
+---
+Stile cucina casalinga
+
+---
+id: 1391028
+attribute: 0x6400C00001030001
+---
+Gusto maionese
+
+---
+id: 1391029
+attribute: 0x6400C00001030001
+---
+Stile Sichuan
+
+---
+id: 1391030
+attribute: 0x6400C00001030001
+---
+Stile cantonese
+
+---
+id: 1391031
+attribute: 0x6400C00001030001
+---
+Stile Pechino
+
+---
+id: 1391032
+attribute: 0x6400C00001030001
+---
+Con salsa ponzu
+
+---
+id: 1391033
+attribute: 0x6400C00001030001
+---
+Con formaggio
+
+---
+id: 1391034
+attribute: 0x6400C00001030001
+---
+Con salsa di amido
+
+---
+id: 1391035
+attribute: 0x6400C00001030001
+---
+Stile Kyoto
+
+---
+id: 1391036
+attribute: 0x6400C00001030001
+---
+Energico
+
+---
+id: 1391037
+attribute: 0x6400C00001030001
+---
+Con miele
+
+---
+id: 1391038
+attribute: 0x6400C00001030001
+---
+Frutti di mare
+
+---
+id: 1391039
+attribute: 0x6400C00001030001
+---
+Maturo
+
+---
+id: 1391040
+attribute: 0x6400C00001030001
+---
+Maiale
+
+---
+id: 1391041
+attribute: 0x6400C00001030001
+---
+Miso
+
+---
+id: 1391042
+attribute: 0x6400C00001030001
+---
+Croccante
+
+---
+id: 1391043
+attribute: 0x6400C00001030001
+---
+Stile pescatore
+
+---
+id: 1391044
+attribute: 0x6400C00001030001
+---
+Fresco
+
+---
+id: 1391045
+attribute: 0x6400C00001030001
+---
+Latteo
+
+---
+id: 1391046
+attribute: 0x6400C00001030001
+---
+Tritato
+
+---
+id: 1391047
+attribute: 0x6400C00001030001
+---
+Senza conservanti
+
+---
+id: 1391048
+attribute: 0x6400C00001030001
+---
+Ricco
+
+---
+id: 1391049
+attribute: 0x6400C00001030001
+---
+Squisito
+
+---
+id: 1391050
+attribute: 0x6400C00001030001
+---
+Leggermente acido
+
+---
+id: 1391051
+attribute: 0x6400C00001030001
+---
+Stile bancarella
+
+---
+id: 1391052
+attribute: 0x6400C00001030001
+---
+Professionale
+
+---
+id: 1391053
+attribute: 0x6400C00001030001
+---
+Stile campagnolo
+
+---
+id: 1391054
+attribute: 0x6400C00001030001
+---
+Ripieno di cioccolato
+
+---
+id: 1392000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il segreto è usare
+{{1:250 arg="0x0000"}} fresco."
+
+---
+id: 1392001
+attribute: 0x6400E10001030001
+---
+シンセンナ{{1:250 arg="0x0000"}}ヲツカウノガコツダヨ
+
+---
+id: 1392002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Oggi ho preso un ottimo
+{{1:250 arg="0x0000"}}."
+
+---
+id: 1392003
+attribute: 0x6400E10001030001
+---
+キョーワヨイ{{1:250 arg="0x0000"}}ガテニハイッタンデス。
+
+---
+id: 1392004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho preparato questo {{1:250 arg="0x0000"}}
+con grande cura."
+
+---
+id: 1392005
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}ノシタゴシラエワテイネイニネ
+
+---
+id: 1392006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il segreto è esaltare
+il sapore del {{1:250 arg="0x0000"}}!"
+
+---
+id: 1392007
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}ノフーミヲジューブンニヒキダスノガポイントダヨ!
+
+---
+id: 1392008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questo {{1:250 arg="0x0000"}} non sembra buono,
+ma è davvero delizioso!"
+
+---
+id: 1392009
+attribute: 0x6400E10001030001
+---
+コノ{{1:250 arg="0x0000"}}ワミテクレワワルイケドアジワホンモノナンデスヨ!
+
+---
+id: 1392010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questo piatto è il massimo
+del {{1:250 arg="0x0000"}}!"
+
+---
+id: 1392011
+attribute: 0x6400E10001030001
+---
+コノリョーリワ{{1:250 arg="0x0000"}}リョーリノキューキョクノカタチダトオモウネ!
+
+---
+id: 1392012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"A dire il vero, sono un esperto
+di {{1:250 arg="0x0000"}}."
+
+---
+id: 1392013
+attribute: 0x6400E10001030001
+---
+ジツワ_ワタシ_{{1:250 arg="0x0000"}}ソムリエノシカクヲモッテイルンデスヨ
+
+---
+id: 1392014
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 1392100
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ti piace qualcosa di {{1:250 arg="0x0000"}}?"
+
+---
+id: 1392101
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}ノワダイジョーブ？
+
+---
+id: 1392102
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È più buono se è {{1:250 arg="0x0000"}}."
+
+---
+id: 1392103
+attribute: 0x6400E10001030001
+---
+{{1:250 arg="0x0000"}}ホーガオイシイノサ
+
+---
+id: 1392104
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È molto {{1:250 arg="0x0000"}}."
+
+---
+id: 1392105
+attribute: 0x6400E10001030001
+---
+スッゴク{{1:250 arg="0x0000"}}ノニスルヨ
+
+---
+id: 1392106
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È davvero {{1:250 arg="0x0000"}}."
+
+---
+id: 1392107
+attribute: 0x6400E10001030001
+---
+メチャクチャ_{{1:250 arg="0x0000"}}ノニスルヨ
+
+---
+id: 1392108
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 1392109
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 1393000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Riesci a sentire il sapore sottile?"
+
+---
+id: 1393001
+attribute: 0x6400E10001030001
+---
+カクシアジニキヅクカナ?
+
+---
+id: 1393002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sono sicuro che non hai
+mai provato questo, sosia."
+
+---
+id: 1393003
+attribute: 0x6400E10001030001
+---
+キット{{1:1 arg="0x0000"}}ノソックリサンワ_マダタベタコトナイリョーリダヨ
+
+---
+id: 1393004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ora sull'Isola {{1:1 arg="0x0000"}},
+è la stagione del {{1:20 arg="0x0100"}}."
+
+---
+id: 1393005
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}トーデワイマノキセツワ{{1:20 arg="0x0100"}}ガシュンダネ
+
+---
+id: 1393006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Voglio dire che è delizioso."
+
+---
+id: 1393007
+attribute: 0x6400E10001030001
+---
+ワレナガラウマクデキテル
+
+---
+id: 1393008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questa cucina è bella, vero?
+Disegnata da un designer Nintenxx."
+
+---
+id: 1393009
+attribute: 0x6400E10001030001
+---
+コノキッチンイイデショー.エヌシャノデザイナーニトクチューデツクラセタンデス
+
+---
+id: 1393010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il mio segreto in cucina è
+mettere tutto me stesso."
+
+---
+id: 1393011
+attribute: 0x6400E10001030001
+---
+ヒトテマヲオシマナイノガ_コツサ
+
+---
+id: 1393012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Il segreto di questo sapore è
+cuocere molto velocemente."
+
+---
+id: 1393013
+attribute: 0x6400E10001030001
+---
+テバヤクツクルノガ_オイシサノヒケツ
+
+---
+id: 1393014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Scegliere gli ingredienti giusti
+è il segreto per cucinare bene."
+
+---
+id: 1393015
+attribute: 0x6400E10001030001
+---
+リョーリノオイシサワソザイエラビデキマルンダヨ
+
+---
+id: 1393016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Cucinare è una vera sfida!
+Non rilassarti!"
+
+---
+id: 1393017
+attribute: 0x6400E10001030001
+---
+リョーリワイツモシンケンショーブ!キガヌケナイネ!
+
+---
+id: 1393018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questo piatto sembra semplice,
+ma richiede vere abilità da chef."
+
+---
+id: 1393019
+attribute: 0x6400E10001030001
+---
+コノリョーリワ_イッケンカンタンソーニミエルケド_ジツワ_リョウリニンノウデマエガタメサレルンデス
+
+---
+id: 1393020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"La mia mamma di solito cucina
+questo piatto per me."
+
+---
+id: 1393021
+attribute: 0x6400E10001030001
+---
+コノリョーリワハハガヨクツクッテクレタリョーリナンデス
+
+---
+id: 1393022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Devi avere abilità avanzate
+per cucinare questo piatto."
+
+---
+id: 1393023
+attribute: 0x6400E10001030001
+---
+コレワソートーコートーナギジュツヲヨースルリョーリダヨ。
+
+---
+id: 1393024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Preferiresti un
+partner che sa cucinare?"
+
+---
+id: 1393025
+attribute: 0x6400E10001030001
+---
+リョーリノデキルヒトッテアコガレマセンカ?
+
+---
+id: 1393026
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Se non ti eserciti sodo,
+non riuscirai a cucinare questo."
+
+---
+id: 1393027
+attribute: 0x6400E10001030001
+---
+コノリョーリワ_マッタリトシテコクガアリ_ソレデイテシツコクナインデス
+
+---
+id: 1393028
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Aspetta un momento."
+
+---
+id: 1393029
+attribute: 0x6400E10001030001
+---
+モースコシマッテネ。
+
+---
+id: 1393030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Hmm, sembra delizioso."
+
+---
+id: 1393031
+attribute: 0x6400E10001030001
+---
+ウーン_オイシソー
+
+---
+id: 1393032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi imbarazza un po'
+che tu mi stia guardando."
+
+---
+id: 1393033
+attribute: 0x6400E10001030001
+---
+ミラレテルト_チョットテレチャイマスネ
+
+---
+id: 1393034
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Questa padella
+è molto facile da usare."
+
+---
+id: 1393035
+attribute: 0x6400E10001030001
+---
+コノフライパン_ツカイヤスイデスネ
+
+---
+id: 1393036
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sosia di {{1:1 arg="0x0000"}},
+cuoci di solito?"
+
+---
+id: 1393037
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}ノソックリサンワリョーリシタリシマスカ?
+
+---
+id: 1393038
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Spero che ti piaccia."
+
+---
+id: 1393039
+attribute: 0x6400E10001030001
+---
+キニイッテモラエルトイイナ
+
+---
+id: 1393040
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Benvenuto al Bistrot {{1:1 arg="0x0000"}}."
+
+---
+id: 1393041
+attribute: 0x6400E10001030001
+---
+コンヤワビストロ{{1:1 arg="0x0000"}}ニヨーコソ
+
+---
+id: 1393042
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Posso cucinare questo piatto
+con solo una padella."
+
+---
+id: 1393043
+attribute: 0x6400E10001030001
+---
+コノリョウリワ_フライパンヒトツデツクレルンデスヨ
+
+---
+id: 1393044
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 1394000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Fatto! Attento, è caldo."
+
+---
+id: 1394001
+attribute: 0x6400E10001030001
+---
+デキアガリ！アツイカラキヲツケテ
+
+---
+id: 1394002
+attribute: 0x6400E10001030001
+---
+ 
+
+---
+id: 1395000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Fatto! Mangialo finché è caldo."
+
+---
+id: 1395001
+attribute: 0x6400E10001030001
+---
+デキアガリ！サメナイウチニドーゾ
+
+---
+id: 1395002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Fatto!"
+
+---
+id: 1395003
+attribute: 0x6400E10001030001
+---
+デキアガリ！
+
+---
+id: 1395004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È pronto!"
+
+---
+id: 1395005
+attribute: 0x6400E10001030001
+---
+デキタテヲドーゾ!
+
+---
+id: 1395006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok, mangia!"
+
+---
+id: 1395007
+attribute: 0x6400E10001030001
+---
+サア_メシアガレ!
+
+---
+id: 1395008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok, arriva!"
+
+---
+id: 1395009
+attribute: 0x6400E10001030001
+---
+ハイ!イッチョーアガリ!
+
+---
+id: 1395010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Scusa l'attesa!"
+
+---
+id: 1395011
+attribute: 0x6400E10001030001
+---
+オマチドーサマ!
+
+---
+id: 1395012
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Scusa l'attesa."
+
+---
+id: 1395013
+attribute: 0x6400E10001030001
+---
+オマタセシマシタ
+
+---
+id: 1395014
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Prego, mangia."
+
+---
+id: 1395015
+attribute: 0x6400E10001030001
+---
+ゴユックリドーゾ
+
+---
+id: 1395016
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È delizioso."
+
+---
+id: 1395017
+attribute: 0x6400E10001030001
+---
+オイシイヨ
+
+---
+id: 1395018
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Dai. È pronto."
+
+---
+id: 1395019
+attribute: 0x6400E10001030001
+---
+サアサア_デキマシタヨ
+
+---
+id: 1395020
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eccolo. Prego."
+
+---
+id: 1395021
+attribute: 0x6400E10001030001
+---
+ドーゾ_オアガリクダサイ
+
+---
+id: 1395022
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ta-da. È per te."
+
+---
+id: 1395023
+attribute: 0x6400E10001030001
+---
+ジャーン!メシアガレ
+
+---
+id: 1395024
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Fatto! Sembra delizioso, vero?"
+
+---
+id: 1395025
+attribute: 0x6400E10001030001
+---
+デキアガリ!オイシソーデショ
+
+---
+id: 1395026
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ok! È pronto."
+
+---
+id: 1395027
+attribute: 0x6400E10001030001
+---
+ハーイ!デキアガリデス
+
+---
+id: 1395028
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ta-da! Eccolo!"
+
+---
+id: 1395029
+attribute: 0x6400E10001030001
+---
+ジャジャーン!メシアガレ
+
+---
+id: 1395030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eccolo."
+
+---
+id: 1395031
+attribute: 0x6400E10001030001
+---
+ドーゾー
+
+---
+id: 1395032
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Perfetto!"
+
+---
+id: 1395033
+attribute: 0x6400E10001030001
+---
+カンセイデス!
+
+---
+id: 1395034
+attribute: 0x6400C00001030001
+---
+ 
+
+---
+id: 1396000
+attribute: 0x6400C00001030001
+---
+cibo giapponese
+
+---
+id: 1396001
+attribute: 0x6400C00001030001
+---
+ワショク
+
+---
+id: 1396002
+attribute: 0x6400C00001030001
+---
+cibo occidentale
+
+---
+id: 1396003
+attribute: 0x6400C00001030001
+---
+ヨーチュー
+
+---
+id: 1396004
+attribute: 0x6400C00001030001
+---
+alla carta
+
+---
+id: 1396005
+attribute: 0x6400C00001030001
+---
+イッピンリョーリ
+
+---
+id: 1396006
+attribute: 0x6400C00001030001
+---
+dessert
+
+---
+id: 1396007
+attribute: 0x6400C00001030001
+---
+デザート
+
+---
+id: 1396008
+attribute: 0x6400C00001030001
+---
+bevanda
+
+---
+id: 1396009
+attribute: 0x6400C00001030001
+---
+ノミモノ
+
+---
+id: 1396010
+attribute: 0x6400C00001030001
+---
+dolce
+
+---
+id: 1396011
+attribute: 0x6400C00001030001
+---
+アマイ
+
+---
+id: 1396012
+attribute: 0x6400C00001030001
+---
+piccante
+
+---
+id: 1396013
+attribute: 0x6400C00001030001
+---
+カライ
+
+---
+id: 1396014
+attribute: 0x6400C00001030001
+---
+salato
+
+---
+id: 1396015
+attribute: 0x6400C00001030001
+---
+シオカライ
+
+---
+id: 1396016
+attribute: 0x6400C00001030001
+---
+acido
+
+---
+id: 1396017
+attribute: 0x6400C00001030001
+---
+スッパイ
+
+---
+id: 1396018
+attribute: 0x6400C00001030001
+---
+grasso
+
+---
+id: 1396019
+attribute: 0x6400C00001030001
+---
+アブラッコイ
+
+---
+id: 1396020
+attribute: 0x6400C00001030001
+---
+freddo
+
+---
+id: 1396021
+attribute: 0x6400C00001030001
+---
+ツメタイ
+
+---
+id: 1396022
+attribute: 0x6400C00001030001
+---
+caldo
+
+---
+id: 1396023
+attribute: 0x6400C00001030001
+---
+アッタカイ
+
+---
+id: 1396024
+attribute: 0x6400C00001030001
+---
+terribile
+
+---
+id: 1396025
+attribute: 0x6400C00001030001
+---
+マズイ
+
+---
+id: 1396026
+attribute: 0x6400C00001030001
+---
+dolciume
+
+---
+id: 1396027
+attribute: 0x6400C00001030001
+---
+オカシ
+
+---
+id: 1396028
+attribute: 0x6400C00001030001
+---
+frutta
+
+---
+id: 1396029
+attribute: 0x6400C00001030001
+---
+フルーツ
+
+---
+id: 1396030
+attribute: 0x6400C00001030001
+---
+verdura
+
+---
+id: 1396031
+attribute: 0x6400C00001030001
+---
+ヤサイ
+
+---
+id: 1396032
+attribute: 0x6400C00001030001
+---
+riso
+
+---
+id: 1396033
+attribute: 0x6400C00001030001
+---
+ゴハン
+
+---
+id: 1396034
+attribute: 0x6400C00001030001
+---
+pane
+
+---
+id: 1396035
+attribute: 0x6400C00001030001
+---
+パン
+
+---
+id: 1396036
+attribute: 0x6400C00001030001
+---
+carne
+
+---
+id: 1396037
+attribute: 0x6400C00001030001
+---
+ニクリョーリ
+
+---
+id: 1396038
+attribute: 0x6400C00001030001
+---
+pesce
+
+---
+id: 1396039
+attribute: 0x6400C00001030001
+---
+サカナリョーリ
+
+---
+id: 1396040
+attribute: 0x6400C00001030001
+---
+uovo
+
+---
+id: 1396041
+attribute: 0x6400C00001030001
+---
+タマゴリョーリ
+
+---
+id: 1396042
+attribute: 0x6400C00001030001
+---
+cibo giapponese
+
+---
+id: 1396043
+attribute: 0x6400C00001030001
+---
+ニホンリョーリ
+
+---
+id: 1396044
+attribute: 0x6400C00001030001
+---
+cibo occidentale
+
+---
+id: 1396045
+attribute: 0x6400C00001030001
+---
+ヨーショク
+
+---
+id: 1396046
+attribute: 0x6400C00001030001
+---
+cibo cinese
+
+---
+id: 1396047
+attribute: 0x6400C00001030001
+---
+チューカリョーリ
+
+---
+id: 1396048
+attribute: 0x6400C00001030001
+---
+cibo italiano
+
+---
+id: 1396049
+attribute: 0x6400C00001030001
+---
+イタリアリョーリ
+
+---
+id: 1396050
+attribute: 0x6400C00001030001
+---
+pasta
+
+---
+id: 1396051
+attribute: 0x6400C00001030001
+---
+メンルイ
+
+---
+id: 1396052
+attribute: 0x6400C00001030001
+---
+lusso
+
+---
+id: 1396053
+attribute: 0x6400C00001030001
+---
+コーキュー
+
+---
+id: 1396054
+attribute: 0x6400C00001030001
+---
+ 
+
+---
+id: 1397000
+attribute: 0x6400C00001030001
+---
+frutta
+
+---
+id: 1397001
+attribute: 0x6400C00001030001
+---
+フルーツ
+
+---
+id: 1397002
+attribute: 0x6400C00001030001
+---
+verdura
+
+---
+id: 1397003
+attribute: 0x6400C00001030001
+---
+ヤサイ
+
+---
+id: 1397004
+attribute: 0x6400C00001030001
+---
+riso
+
+---
+id: 1397005
+attribute: 0x6400C00001030001
+---
+ゴハン
+
+---
+id: 1397006
+attribute: 0x6400C00001030001
+---
+pane
+
+---
+id: 1397007
+attribute: 0x6400C00001030001
+---
+パン
+
+---
+id: 1397008
+attribute: 0x6400C00001030001
+---
+carne
+
+---
+id: 1397009
+attribute: 0x6400C00001030001
+---
+ニク
+
+---
+id: 1397010
+attribute: 0x6400C00001030001
+---
+pesce
+
+---
+id: 1397011
+attribute: 0x6400C00001030001
+---
+サカナ
+
+---
+id: 1397012
+attribute: 0x6400C00001030001
+---
+uovo
+
+---
+id: 1397013
+attribute: 0x6400C00001030001
+---
+タマゴ
+
+---
+id: 1397014
+attribute: 0x6400C00001030001
+---
+ 
+
+---
+id: 1397100
+attribute: 0x6400C00001030001
+---
+dolce
+
+---
+id: 1397101
+attribute: 0x6400C00001030001
+---
+アマイ
+
+---
+id: 1397102
+attribute: 0x6400C00001030001
+---
+piccante
+
+---
+id: 1397103
+attribute: 0x6400C00001030001
+---
+カライ
+
+---
+id: 1397104
+attribute: 0x6400C00001030001
+---
+salato
+
+---
+id: 1397105
+attribute: 0x6400C00001030001
+---
+シオカライ
+
+---
+id: 1397106
+attribute: 0x6400C00001030001
+---
+acido
+
+---
+id: 1397107
+attribute: 0x6400C00001030001
+---
+スッパイ
+
+---
+id: 1397108
+attribute: 0x6400C00001030001
+---
+grasso
+
+---
+id: 1397109
+attribute: 0x6400C00001030001
+---
+アブラッコイ
+
+---
+id: 1397110
+attribute: 0x6400C00001030001
+---
+ 
+
+---
+id: 1401000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho la faccia strana?"
+
+---
+id: 1401001
+attribute: 0x6400E10001030001
+---
+ワタシノカオ_ナニカヘンデスカ
+
+---
+id: 1401002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non fissarmi così..."
+
+---
+id: 1401003
+attribute: 0x6400E10001030001
+---
+ソンナニ_マジマジミラレテモ
+
+---
+id: 1401004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ahi. Per favore non fissare..."
+
+---
+id: 1401005
+attribute: 0x6400E10001030001
+---
+ポッ_ソンナニミツメナイデクダサイ
+
+---
+id: 1401006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non fissare! Argh~"
+
+---
+id: 1401007
+attribute: 0x6400E10001030001
+---
+ミツメチャ_イヤーン
+
+---
+id: 1421000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}."
+
+---
+id: 1421001
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}デス
+
+---
+id: 1421002
+attribute: 0x6400E10001030001
+---
+{{1:1 arg="0x0000"}}デス
+
+---
+id: 1421003
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ciao."
+
+---
+id: 1421004
+attribute: 0x6400E10001030001
+---
+コンニチワ
+
+---
+id: 1421005
+attribute: 0x6400E10001030001
+---
+コンニチハ
+
+---
+id: 1421006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Piacere."
+
+---
+id: 1421007
+attribute: 0x6400E10001030001
+---
+ゴキゲンヨー
+
+---
+id: 1421008
+attribute: 0x6400E10001030001
+---
+ゴキゲンヨー
+
+---
+id: 1421009
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Come stai?"
+
+---
+id: 1421010
+attribute: 0x6400E10001030001
+---
+ゲンキシテル?
+
+---
+id: 1421011
+attribute: 0x6400E10001030001
+---
+ゲンキシテル
+
+---
+id: 1431000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Preso~"
+
+---
+id: 1431001
+attribute: 0x6400E10001030001
+---
+ヒッカカッター
+
+---
+id: 1431002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Spingi!"
+
+---
+id: 1431003
+attribute: 0x6400E10001030001
+---
+プスットナ
+
+---
+id: 1431004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Successo!"
+
+---
+id: 1431005
+attribute: 0x6400E10001030001
+---
+ダイセイコウ
+
+---
+id: 1432000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Eeek!"
+
+---
+id: 1432001
+attribute: 0x6400E10001030001
+---
+キーー!
+
+---
+id: 1432002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Livello elementare..."
+
+---
+id: 1432003
+attribute: 0x6400E10001030001
+---
+ショーガクセイレベル
+
+---
+id: 1432004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"~~!"
+
+---
+id: 1432005
+attribute: 0x6400E10001030001
+---
+　
+
+---
+id: 1432006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non è stupido?"
+
+---
+id: 1432007
+attribute: 0x6400E10001030001
+---
+バッカジャナイ
+
+---
+id: 1432008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi hai fregato~"
+
+---
+id: 1432009
+attribute: 0x6400E10001030001
+---
+ヤラレター
+
+---
+id: 1432010
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ce l'hai fatta~"
+
+---
+id: 1432011
+attribute: 0x6400E10001030001
+---
+ヤッタナー
+
+---
+id: 1441000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi sto esercitando
+a fare l'occhiolino."
+
+---
+id: 1441001
+attribute: 0x6400E10001030001
+---
+ウィンクノレンシューチューデス
+
+---
+id: 1441002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Mi prudono gli occhi. Probabilmente
+è la febbre da fieno."
+
+---
+id: 1441003
+attribute: 0x6400E10001030001
+---
+サイキンメガカユクテ.カフンショーカモシレマセン
+
+---
+id: 1441004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ho gli occhi stanchi, faccio
+un po' di ginnastica oculare."
+
+---
+id: 1441005
+attribute: 0x6400E10001030001
+---
+サイキンメガツカレテ.メノタイソーチューデス
+
+---
+id: 1451000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Occhi all'insù♪"
+
+---
+id: 1451001
+attribute: 0x6400E10001030001
+---
+アーガリメー
+
+---
+id: 1451002
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Occhi all'ingiù♪"
+
+---
+id: 1451003
+attribute: 0x6400E10001030001
+---
+サーガリメー
+
+---
+id: 1451004
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Girando girando♪"
+
+---
+id: 1451005
+attribute: 0x6400E10001030001
+---
+グルットマワッテ
+
+---
+id: 1451006
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Occhi da gatto♪"
+
+---
+id: 1451007
+attribute: 0x6400E10001030001
+---
+ネーコノメー
+
+---
+id: 1451008
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È una filastrocca tradizionale."
+
+---
+id: 1451009
+attribute: 0x6400E10001030001
+---
+ニホンノデントーテキナワラベウタデス
+
+---
+id: 1471000
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Ahi, fa male."
+
+---
+id: 1471001
+attribute: 0x6400E10001030001
+---
+イテテ!ブツカッチャイマシタ
+
+---
+id: 1480000
+attribute: 0x6400E10001030002
+---
+Luce e Ombra
+
+---
+id: 1480001
+attribute: 0x6400E10001030002
+---
+ヒカリトカゲ
+
+---
+id: 1480010
+attribute: 0x6400E10001030002
+---
+Il Prescelto
+
+---
+id: 1480011
+attribute: 0x6400E10001030002
+---
+セイナルアレ
+
+---
+id: 1480020
+attribute: 0x6400E10001030002
+---
+Il Solitario
+
+---
+id: 1480021
+attribute: 0x6400E10001030002
+---
+コーイッテン
+
+---
+id: 1480030
+attribute: 0x6400E10001030002
+---
+Il Vento
+
+---
+id: 1480031
+attribute: 0x6400E10001030002
+---
+カゼニフカレテ
+
+---
+id: 1480040
+attribute: 0x6400E10001030002
+---
+Giapponese
+
+---
+id: 1480041
+attribute: 0x6400E10001030002
+---
+ジュンワフー
+
+---
+id: 1480050
+attribute: 0x6400E10001030002
+---
+La Luce
+
+---
+id: 1480051
+attribute: 0x6400E10001030002
+---
+ヒカリノナカニ
+
+---
+id: 1480060
+attribute: 0x6400E10001030002
+---
+Città Natale
+
+---
+id: 1480061
+attribute: 0x6400E10001030002
+---
+コキョー
+
+---
+id: 1480070
+attribute: 0x6400E10001030002
+---
+Punti e Linee
+
+---
+id: 1480071
+attribute: 0x6400E10001030002
+---
+テントセン
+
+---
+id: 1480080
+attribute: 0x6400E10001030002
+---
+Vita
+
+---
+id: 1480081
+attribute: 0x6400E10001030002
+---
+セイメイ
+
+---
+id: 1480090
+attribute: 0x6400E10001030002
+---
+Sfida
+
+---
+id: 1480091
+attribute: 0x6400E10001030002
+---
+チョーセン
+
+---
+id: 1480100
+attribute: 0x6400E10001030002
+---
+Brillare
+
+---
+id: 1480101
+attribute: 0x6400E10001030002
+---
+カガヤキ
+
+---
+id: 1480110
+attribute: 0x6400E10001030002
+---
+Ritmo
+
+---
+id: 1480111
+attribute: 0x6400E10001030002
+---
+イロノリズム
+
+---
+id: 1480120
+attribute: 0x6400E10001030002
+---
+Confessione
+
+---
+id: 1480121
+attribute: 0x6400E10001030002
+---
+コクハク
+
+---
+id: 1480130
+attribute: 0x6400E10001030002
+---
+Natura
+
+---
+id: 1480131
+attribute: 0x6400E10001030002
+---
+アイスベキシゼン
+
+---
+id: 1480140
+attribute: 0x6400E10001030002
+---
+Preghiera
+
+---
+id: 1480141
+attribute: 0x6400E10001030002
+---
+イノリ
+
+---
+id: 1480150
+attribute: 0x6400E10001030002
+---
+Pace
+
+---
+id: 1480151
+attribute: 0x6400E10001030002
+---
+ヘイワノショーチョー
+
+---
+id: 1480160
+attribute: 0x6400E10001030002
+---
+Sospetto
+
+---
+id: 1480161
+attribute: 0x6400E10001030002
+---
+アヤシイヒカリ
+
+---
+id: 1480170
+attribute: 0x6400E10001030002
+---
+Eternità
+
+---
+id: 1480171
+attribute: 0x6400E10001030002
+---
+エイエン
+
+---
+id: 1480180
+attribute: 0x6400E10001030002
+---
+Emozioni
+
+---
+id: 1480181
+attribute: 0x6400E10001030002
+---
+アフレルカンジョー
+
+---
+id: 1480190
+attribute: 0x6400E10001030002
+---
+Cuore e Anima
+
+---
+id: 1480191
+attribute: 0x6400E10001030002
+---
+ココロノヨリドコロ
+
+---
+id: 1480200
+attribute: 0x6400E10001030002
+---
+La Terra
+
+---
+id: 1480201
+attribute: 0x6400E10001030002
+---
+ジ＿アース
+
+---
+id: 1480210
+attribute: 0x6400E10001030002
+---
+Anima
+
+---
+id: 1480211
+attribute: 0x6400E10001030002
+---
+セイシンノミナモト
+
+---
+id: 1480220
+attribute: 0x6400E10001030002
+---
+Entusiasmo
+
+---
+id: 1480221
+attribute: 0x6400E10001030002
+---
+ドキドキ
+
+---
+id: 1480230
+attribute: 0x6400E10001030002
+---
+Miracolo
+
+---
+id: 1480231
+attribute: 0x6400E10001030002
+---
+アイワキセキ
+
+---
+id: 1480240
+attribute: 0x6400E10001030002
+---
+Materno
+
+---
+id: 1480241
+attribute: 0x6400E10001030002
+---
+ハハノアイ
+
+---
+id: 1480250
+attribute: 0x6400E10001030002
+---
+Verità
+
+---
+id: 1480251
+attribute: 0x6400E10001030002
+---
+シンジツ
+
+---
+id: 1480260
+attribute: 0x6400E10001030002
+---
+Cuore Puro
+
+---
+id: 1480261
+attribute: 0x6400E10001030002
+---
+ウツクシイココロ
+
+---
+id: 1480270
+attribute: 0x6400E10001030002
+---
+Decisione
+
+---
+id: 1480271
+attribute: 0x6400E10001030002
+---
+ケツダンノトキ
+
+---
+id: 1480280
+attribute: 0x6400E10001030002
+---
+Universo
+
+---
+id: 1480281
+attribute: 0x6400E10001030002
+---
+チイサナウチュー
+
+---
+id: 1480290
+attribute: 0x6400E10001030002
+---
+Amico
+
+---
+id: 1480291
+attribute: 0x6400E10001030002
+---
+トモダチ
+
+---
+id: 1480300
+attribute: 0x6400E10001030002
+---
+Premuroso
+
+---
+id: 1480301
+attribute: 0x6400E10001030002
+---
+アタマノナカ
+
+---
+id: 1480310
+attribute: 0x6400E10001030002
+---
+Genitoriale
+
+---
+id: 1480311
+attribute: 0x6400E10001030002
+---
+オヤゴコロ
+
+---
+id: 1480320
+attribute: 0x6400E10001030002
+---
+Scorrere del Tempo
+
+---
+id: 1480321
+attribute: 0x6400E10001030002
+---
+トキノナガレ
+
+---
+id: 1480330
+attribute: 0x6400E10001030002
+---
+Passione
+
+---
+id: 1480331
+attribute: 0x6400E10001030002
+---
+ジョーネツ
+
+---
+id: 1480340
+attribute: 0x6400E10001030002
+---
+Limite della Mente
+
+---
+id: 1480341
+attribute: 0x6400E10001030002
+---
+ココロノサイハテ
+
+---
+id: 1480350
+attribute: 0x6400E10001030002
+---
+Sguardo
+
+---
+id: 1480351
+attribute: 0x6400E10001030002
+---
+マナザシ
+
+---
+id: 1480360
+attribute: 0x6400E10001030002
+---
+Adolescenza
+
+---
+id: 1480361
+attribute: 0x6400E10001030002
+---
+ティーンエイジ
+
+---
+id: 1480370
+attribute: 0x6400E10001030002
+---
+Risata
+
+---
+id: 1480371
+attribute: 0x6400E10001030002
+---
+ワライ
+
+---
+id: 1480380
+attribute: 0x6400E10001030002
+---
+Scintillio
+
+---
+id: 1480381
+attribute: 0x6400E10001030002
+---
+キラメキ
+
+---
+id: 1480390
+attribute: 0x6400E10001030002
+---
+Amore e Bugie
+
+---
+id: 1480391
+attribute: 0x6400E10001030002
+---
+アイトウソ
+
+---
+id: 1480400
+attribute: 0x6400E10001030002
+---
+Era Showa
+
+---
+id: 1480401
+attribute: 0x6400E10001030002
+---
+ショーワ
+
+---
+id: 1480410
+attribute: 0x6400E10001030002
+---
+Presenza
+
+---
+id: 1480411
+attribute: 0x6400E10001030002
+---
+ヘイジョーシン
+
+---
+id: 1480420
+attribute: 0x6400E10001030002
+---
+Calore
+
+---
+id: 1480421
+attribute: 0x6400E10001030002
+---
+コハルビヨリ
+
+---
+id: 1480430
+attribute: 0x6400E10001030002
+---
+Domani
+
+---
+id: 1480431
+attribute: 0x6400E10001030002
+---
+アスエノトビラ
+
+---
+id: 1480440
+attribute: 0x6400E10001030002
+---
+Speranza
+
+---
+id: 1480441
+attribute: 0x6400E10001030002
+---
+キボー
+
+---
+id: 1480450
+attribute: 0x6400E10001030002
+---
+Senza Tristezza
+
+---
+id: 1480451
+attribute: 0x6400E10001030002
+---
+カナシミノオワリ
+
+---
+id: 1480460
+attribute: 0x6400E10001030002
+---
+Catena Alimentare
+
+---
+id: 1480461
+attribute: 0x6400E10001030002
+---
+ショクモツレンサ
+
+---
+id: 1480470
+attribute: 0x6400E10001030002
+---
+Il Grande
+
+---
+id: 1480471
+attribute: 0x6400E10001030002
+---
+オオイナルデッパリ
+
+---
+id: 1480480
+attribute: 0x6400E10001030002
+---
+Buona Fortuna
+
+---
+id: 1480481
+attribute: 0x6400E10001030002
+---
+グッドラック
+
+---
+id: 1480490
+attribute: 0x6400E10001030002
+---
+Sogno
+
+---
+id: 1480491
+attribute: 0x6400E10001030002
+---
+キノーノユメ
+
+---
+id: 1481000
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Una lettera di apprezzamento
+per il sosia di {{1:1 arg="0x0000"}}."
+
+---
+id: 1481001
+attribute: 0x6400E10001030002
+---
+カンシャジョー_{{1:1 arg="0x0000"}}ノソックリサン
+
+---
+id: 1481010
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Hai risolto 100 problemi
+ai residenti di {{1:1 arg="0x0000"}}."
+
+---
+id: 1481011
+attribute: 0x6400E10001030002
+---
+アナタワ_{{1:1 arg="0x0000"}}トーニスムヒトビトノナヤミヲ_ヒャッコカイケツシマシタ
+
+---
+id: 1481020
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Hai risolto 200 problemi
+ai residenti di {{1:1 arg="0x0000"}}."
+
+---
+id: 1481021
+attribute: 0x6400E10001030002
+---
+アナタワ_{{1:1 arg="0x0000"}}トーニスムヒトビトノナヤミヲ_ニヒャッコカイケツシマシタ
+
+---
+id: 1481030
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Hai risolto 400 problemi
+ai residenti di {{1:1 arg="0x0000"}}."
+
+---
+id: 1481031
+attribute: 0x6400E10001030002
+---
+アナタワ_{{1:1 arg="0x0000"}}トーニスムヒトビトノナヤミヲ_ヨンヒャッコカイケツシマシタ
+
+---
+id: 1481040
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Hai risolto 700 problemi
+ai residenti di {{1:1 arg="0x0000"}}."
+
+---
+id: 1481041
+attribute: 0x6400E10001030002
+---
+アナタワ_{{1:1 arg="0x0000"}}トーニスムヒトビトノナヤミヲ_ナナヒャッコカイケツシマシタ
+
+---
+id: 1481050
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Hai risolto 1.000 problemi
+ai residenti di {{1:1 arg="0x0000"}}."
+
+---
+id: 1481051
+attribute: 0x6400E10001030002
+---
+アナタワ_{{1:1 arg="0x0000"}}トーニスムヒトビトノナヤミヲ_センコカイケツシマシタ
+
+---
+id: 1481060
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Pertanto questo premio
+viene assegnato a {{1:20 arg="0x0000"}}..."
+
+---
+id: 1481061
+attribute: 0x6400E10001030002
+---
+ヨッテ_ココニソノコーセキヲタタエ_{{1:20 arg="0x0000"}}ヲジュヨシマス
+
+---
+id: 1481070
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Il 00/00/0000, da {{1:1 arg="0x0300"}},
+il rappresentante dei residenti."
+
+---
+id: 1481071
+attribute: 0x6400E10001030002
+---
+{{1:1 arg="0x0000"}}ネン{{1:1 arg="0x0100"}}ガツ{{1:1 arg="0x0200"}}ニチ_ジューニンダイヒョー_{{1:1 arg="0x0300"}}
+
+---
+id: 1481080
+attribute: 0x6400E10001030002
+---
+{{255:0 arg="0x0100"}}"Questa è l'ultima lettera di
+apprezzamento. Grazie di tutto."
+
+---
+id: 1481081
+attribute: 0x6400E10001030002
+---
+ナオ_キリガナイノデ_カンシャジョーヲオクルノワコンカイガサイゴトシマス   

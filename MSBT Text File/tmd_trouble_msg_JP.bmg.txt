@@ -1,0 +1,5002 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 8
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+---
+id: 0
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un alimento Semplice.."
+
+---
+id: 1
+attribute: 0x6400E10001000001
+---
+ナニカシュショクガタベタイデス
+
+---
+id: 10
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare un primo piatto."
+
+---
+id: 11
+attribute: 0x6400E10001000001
+---
+ナニカシュサイガタベタイデス
+
+---
+id: 20
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare un controrno."
+
+---
+id: 21
+attribute: 0x6400E10001000001
+---
+ナニカフクサイガタベタイデス
+
+---
+id: 30
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare qualcosa di dolce."
+
+---
+id: 31
+attribute: 0x6400E10001000001
+---
+ナニカデザートガタベタイデス
+
+---
+id: 40
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio bere."
+
+---
+id: 41
+attribute: 0x6400E10001000001
+---
+ナニカノミモノガノミタイデス
+
+---
+id: 50
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare qualcosa di dolce."
+
+---
+id: 51
+attribute: 0x6400E10001000001
+---
+ナニカアマイモノガタベタイデス
+
+---
+id: 60
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare
+qualcosa di piccante."
+
+---
+id: 61
+attribute: 0x6400E10001000001
+---
+ナニカカライモノガ｜タベタイデス
+
+---
+id: 70
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare qualcosa di salato."
+
+---
+id: 71
+attribute: 0x6400E10001000001
+---
+ナニカシオカライモノガタベタイデス
+
+---
+id: 80
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare qualcosa di aspro."
+
+---
+id: 81
+attribute: 0x6400E10001000001
+---
+ナニカスッパイモノガタベタイデス
+
+---
+id: 90
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare qualcosa di oleoso."
+
+---
+id: 91
+attribute: 0x6400E10001000001
+---
+ナニカアブラッコイモノガタベタイデス
+
+---
+id: 100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare qualcosa di freddo."
+
+---
+id: 101
+attribute: 0x6400E10001000001
+---
+ナニカツメタイモノガタベタイデス
+
+---
+id: 110
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare qualcosa di caldo."
+
+---
+id: 111
+attribute: 0x6400E10001000001
+---
+ナニカアタタカイモノガタベタイデス
+
+---
+id: 120
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare qualcosa che
+ha un cattivo sapore."
+
+---
+id: 121
+attribute: 0x6400E10001000001
+---
+タマニワマズイモノオタベテミタイデス
+
+---
+id: 130
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare una caramella."
+
+---
+id: 131
+attribute: 0x6400E10001000001
+---
+ナニカオカシガタベタイデス
+
+---
+id: 140
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare un frutto."
+
+---
+id: 141
+attribute: 0x6400E10001000001
+---
+ナニカフルーツガタベタイデス
+
+---
+id: 150
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare un vegetale."
+
+---
+id: 151
+attribute: 0x6400E10001000001
+---
+ナニカヤサイガタベタイデス
+
+---
+id: 160
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare del riso."
+
+---
+id: 161
+attribute: 0x6400E10001000001
+---
+ナニカゴハンモノガタベタイデス
+
+---
+id: 170
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare
+qualcosa a base di pane."
+
+---
+id: 171
+attribute: 0x6400E10001000001
+---
+ナニカパンガタベタイデス
+
+---
+id: 180
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare della carne."
+
+---
+id: 181
+attribute: 0x6400E10001000001
+---
+ナニカニクリョーリガタベタイデス
+
+---
+id: 190
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare del pesce."
+
+---
+id: 191
+attribute: 0x6400E10001000001
+---
+ナニカサカナリョーリガタベタイデス
+
+---
+id: 200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare le uova."
+
+---
+id: 201
+attribute: 0x6400E10001000001
+---
+ナニカタマゴリョーリガタベタイデス
+
+---
+id: 210
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare cibo Giapponese."
+
+---
+id: 211
+attribute: 0x6400E10001000001
+---
+ナニカニホンリョーリガタベタイデス
+
+---
+id: 220
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare cibo occidentale."
+
+---
+id: 221
+attribute: 0x6400E10001000001
+---
+ナニカヨーショクガタベタイデス
+
+---
+id: 230
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare cibo cinese."
+
+---
+id: 231
+attribute: 0x6400E10001000001
+---
+ナニカチューカリョーリガタベタイデス
+
+---
+id: 240
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare cibo italiano."
+
+---
+id: 241
+attribute: 0x6400E10001000001
+---
+ナニカイタリアリョーリガタベタイデス
+
+---
+id: 250
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare dei noodles."
+
+---
+id: 251
+attribute: 0x6400E10001000001
+---
+ナニカメンルイガタベタイデス
+
+---
+id: 260
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare
+qualcosa di costoso."
+
+---
+id: 261
+attribute: 0x6400E10001000001
+---
+ナニカコーキューリョーリガタベタイデス
+
+---
+id: 270
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Sono assetato."
+
+---
+id: 271
+attribute: 0x6400E10001000001
+---
+ノドガカワキマシタ
+
+---
+id: 280
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 281
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 290
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 291
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 300
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 301
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 310
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 311
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 320
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 321
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 330
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 331
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 340
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 341
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 350
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 351
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 360
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 361
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 370
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 371
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 380
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 381
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 390
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 391
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 400
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 401
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 410
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 411
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 420
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 421
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 430
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 431
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 440
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 441
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 450
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 451
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 460
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 461
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 470
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 471
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 480
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 481
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 490
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 491
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 500
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 501
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 510
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 511
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 520
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 521
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 530
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 531
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 540
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 541
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 550
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ho fame."
+
+---
+id: 551
+attribute: 0x6400E10001000001
+---
+オナカガスキマシタ
+
+---
+id: 700
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Dammi qualcosa da mangiare."
+
+---
+id: 701
+attribute: 0x6400E10001000001
+---
+ナンデモイイカラタベタイデス
+
+---
+id: 710
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Non ci vedo piu dalla fame."
+
+---
+id: 711
+attribute: 0x6400E10001000001
+---
+オナカガペコペコデス
+
+---
+id: 720
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"ora mangerei qualsiasi cosa."
+
+---
+id: 721
+attribute: 0x6400E10001000001
+---
+イマ＿ナンデモイイカラタベタイキブンデス
+
+---
+id: 900
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio mangiare  {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}."
+
+---
+id: 901
+attribute: 0x6400E10001000001
+---
+{{1:20 arg="0x0000"}}｜ガタベタイデス
+
+---
+id: 1000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un abito riscaldante."
+
+---
+id: 1001
+attribute: 0x6400E10001000001
+---
+ナニカアタタカイフクガホシイデス
+
+---
+id: 1010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un outfit impressionante."
+
+---
+id: 1011
+attribute: 0x6400E10001000001
+---
+ナニカスズシイフクガホシイデス
+
+---
+id: 1020
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un abito appariscente."
+
+---
+id: 1021
+attribute: 0x6400E10001000001
+---
+ナニカハデナフクガホシイデス
+
+---
+id: 1030
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un vestito semplice."
+
+---
+id: 1031
+attribute: 0x6400E10001000001
+---
+ナニカジミナフクガホシイデス
+
+---
+id: 1040
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un outfit formale."
+
+---
+id: 1041
+attribute: 0x6400E10001000001
+---
+フォーマルナフクガホシイデス
+
+---
+id: 1050
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un outfit casual."
+
+---
+id: 1051
+attribute: 0x6400E10001000001
+---
+ナニカカジュアルナフクガホシイデス
+
+---
+id: 1060
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un outfit carino."
+
+---
+id: 1061
+attribute: 0x6400E10001000001
+---
+ナニカカワイイフクガホシイデス
+
+---
+id: 1070
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un outfit sexy."
+
+---
+id: 1071
+attribute: 0x6400E10001000001
+---
+ナニカセクシーナフクガホシイデス
+
+---
+id: 1080
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un outfit stiloso."
+
+---
+id: 1081
+attribute: 0x6400E10001000001
+---
+ナニカカッコイイフクガホシイデス
+
+---
+id: 1090
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ogni tanto, vorrei indossare
+un vestito banale."
+
+---
+id: 1091
+attribute: 0x6400E10001000001
+---
+タマニワダサイフクガホシイデス
+
+---
+id: 1100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un outfit unico."
+
+---
+id: 1101
+attribute: 0x6400E10001000001
+---
+ナニカキバツナフクヲキテミタイデス
+
+---
+id: 1110
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un outfit confortevole."
+
+---
+id: 1111
+attribute: 0x6400E10001000001
+---
+ナニカブナンナフクガホシイデス
+
+---
+id: 1120
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1121
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1130
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1131
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1140
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1141
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1150
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1151
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1160
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1161
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1170
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1171
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1180
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1181
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1190
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1191
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1201
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1210
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1211
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1220
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1221
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1230
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1231
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1500
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} come outfit."
+
+---
+id: 1501
+attribute: 0x6400E10001000001
+---
+{{1:1 arg="0x0000"}}｜ガホシイデス
+
+---
+id: 1600
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio indossare una gonna."
+
+---
+id: 1601
+attribute: 0x6400E10001000001
+---
+スカートノフクガホシイデス
+
+---
+id: 1610
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio qualcosa
+da indossare al lavoro."
+
+---
+id: 1611
+attribute: 0x6400E10001000001
+---
+シゴトデキソーナフクガホシイデス
+
+---
+id: 1620
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio qualcosa da
+usare per fare sport."
+
+---
+id: 1621
+attribute: 0x6400E10001000001
+---
+スポーツデキソーナフクガホシイデス
+
+---
+id: 1630
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1631
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1640
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1641
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1650
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1651
+attribute: 0x6400E10001000001
+---
+アタラシイフクガホシイデス
+
+---
+id: 1800
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio un nuovo outfit."
+
+---
+id: 1801
+attribute: 0x6400E10001000001
+---
+アタラシイインテリアガホシイデス
+
+---
+id: 2500
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio fare amiciza con
+{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}"
+
+---
+id: 2501
+attribute: 0x6400E10001000001
+---
+{{1:1 arg="0x0000"}}ト｜トモダチニ｜ナリタイデス
+
+---
+id: 2510
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sono innamorato di {{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}.
+Voglio dichiararmi..."
+
+---
+id: 2511
+attribute: 0x6400E10001000001
+---
+ジツワ＿{{1:1 arg="0x0000"}}ノコトガスキデス．コクハクシタイノデスガ
+
+---
+id: 2520
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Hai un minuto?"
+
+---
+id: 2521
+attribute: 0x6400E10001000001
+---
+チョットイイデスカ？
+
+---
+id: 2530
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} Abbiamo litigato.
+Aiutami a calmarmi."
+
+---
+id: 2531
+attribute: 0x6400E10001000001
+---
+{{1:1 arg="0x0000"}}トケンカシマシタ．ナカナオリシタイデス
+
+---
+id: 2540
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} Abbiamo litigato.
+Sono Arrabbiato ora!."
+
+---
+id: 2541
+attribute: 0x6400E10001000001
+---
+{{1:1 arg="0x0000"}}トケンカシマシタ．ハラガタチマス
+
+---
+id: 2550
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio rompere con
+{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}."
+
+---
+id: 2551
+attribute: 0x6400E10001000001
+---
+モー＿{{1:1 arg="0x0000"}}トワカレタインデス
+
+---
+id: 2560
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio rompere con
+{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}."
+
+---
+id: 2561
+attribute: 0x6400E10001000001
+---
+モー＿{{1:1 arg="0x0000"}}トワカレタインデス
+
+---
+id: 3000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Per favore, dimmi la frase che
+dico più spesso."
+
+---
+id: 3001
+attribute: 0x6400E10001000001
+---
+ヨクイイソウナコトバヲ｜オシエテクダサイ
+
+---
+id: 3010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Per favore, dimmi una frase da
+dire quando sono felice."
+
+---
+id: 3011
+attribute: 0x6400E10001000001
+---
+ウレシイトキニツカウ｜コトバヲ｜オシエテクダサイ
+
+---
+id: 3020
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Per favore, dimmi una frase da
+dire quando sono arrabbiato."
+
+---
+id: 3021
+attribute: 0x6400E10001000001
+---
+オコッタトキニツカウ｜コトバヲ｜オシエテクダサイ
+
+---
+id: 3030
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Per favore, dimmi una frase da
+dire quando mi sento giù."
+
+---
+id: 3031
+attribute: 0x6400E10001000001
+---
+オチコンダトキニツカウ｜コトバヲ｜オシエテクダサイ
+
+---
+id: 3040
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Per favore, dimmi una frase da
+dire quando sono nei guai."
+
+---
+id: 3041
+attribute: 0x6400E10001000001
+---
+ナヤンデイルトキニツカウ｜コトバヲ｜オシエテクダサイ
+
+---
+id: 4000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio scattare delle foto."
+
+---
+id: 4001
+attribute: 0x6400E10001000001
+---
+シャシンオトリタイデス
+
+---
+id: 4010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Voglio fare un bagno."
+
+---
+id: 4011
+attribute: 0x6400E10001000001
+---
+オフロニハイリタイデス
+
+---
+id: 4020
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ho preso il raffreddore..."
+
+---
+id: 4021
+attribute: 0x6400E10001000001
+---
+カゼヲヒキマシタ
+
+---
+id: 4030
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ho mal di stomaco..."
+
+---
+id: 4031
+attribute: 0x6400E10001000001
+---
+オナカノチョーシガワルイデス
+
+---
+id: 5000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Mi prude la schiena."
+
+---
+id: 5001
+attribute: 0x6400E10001000001
+---
+セナカガカユイデス
+
+---
+id: 5010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Puoi controllare cos'ho
+nello stomaco?."
+
+---
+id: 5011
+attribute: 0x6400E10001000001
+---
+オナカノナカオミテクダサイ
+
+---
+id: 5020
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Vuoi giocare con me?"
+
+---
+id: 5021
+attribute: 0x6400E10001000001
+---
+チョットアソンデクダサイ
+
+---
+id: 5030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"TC'è una zanzara nella mia stanza.
+Puoi fare qualcosa?"
+
+---
+id: 5031
+attribute: 0x6400E10001000001
+---
+カガヘヤニハイッテシマッテ．ナントカシテモラエマスカ？
+
+---
+id: 6000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Sono stato lasciato..."
+
+---
+id: 6001
+attribute: 0x6400E10001000001
+---
+フラレチャイマシタ
+
+---
+id: 6010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Quei momenti divertenti non
+torneranno mai più..."
+
+---
+id: 6011
+attribute: 0x6400E10001000001
+---
+タノシカッタアノコロワ＿モー＿カエッテコナインデスネ＿
+
+---
+id: 6020
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Sono divorziato. Mi sento come se
+ci fosse un vuoto nel mio cuore."
+
+---
+id: 6021
+attribute: 0x6400E10001000001
+---
+リコンシテ＿ココロニポッカリアナガアキマシタ
+
+---
+id: 6030
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Sono un fallito..."
+
+---
+id: 6031
+attribute: 0x6400E10001000001
+---
+ワタシジャダメナンデスネ
+
+---
+id: 6040
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"La vita è difficile..."
+
+---
+id: 6041
+attribute: 0x6400E10001000001
+---
+ジンセイソーウマクイカナイモノデスネ
+
+---
+id: 6050
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Dovrei cercare un nuovo amore..."
+
+---
+id: 6051
+attribute: 0x6400E10001000001
+---
+アタラシイコイオサガソートオモイマス
+
+---
+id: 6060
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Dovrebbe andare bene."
+
+---
+id: 6070
+attribute: 0x6400E10001000001
+---
+コレデヨカッタンデスヨネ
+
+---
+id: 8000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Gli abitanti hanno donato soldi
+per migliorare quest'isola."
+
+---
+id: 8001
+attribute: 0x6400E10001000001
+---
+コノシマノセイカツガヨクナルヨーニ＿キフヲスルコトニシマシタ．ソトニデテミテクダサイ
+
+---
+id: 9000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Per favore, non dirmi nulla
+e prestami 50.000 yen."
+
+---
+id: 9001
+attribute: 0x6400E10001000001
+---
+ナニモキカズニゴマンエン｜カシテクダサイ
+
+---
+id: 16000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Hah..."
+
+---
+id: 16001
+attribute: 0x6400E10001000001
+---
+ハー
+
+---
+id: 16010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Non posso fare a meno di pensare ai
+momenti divertenti che ho trascorso..."
+
+---
+id: 16011
+attribute: 0x6400E10001000001
+---
+タノシカッタアノコロヲオモイダシテシマイマス
+
+---
+id: 16020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Non so come vivere la mia vita 
+dopo questo..."
+
+---
+id: 16021
+attribute: 0x6400E10001000001
+---
+コレカラサキ＿ドーイキテイケバイイノデショーカ
+
+---
+id: 16030
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non ho fiducia in me stesso."
+
+---
+id: 16031
+attribute: 0x6400E10001030001
+---
+ジブンニジシンガモテマセン
+
+---
+id: 16040
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Non siamo riusciti a riconciliarci."
+
+---
+id: 16041
+attribute: 0x6400E10001030001
+---
+ナカナオリデキマセンデシタ
+
+---
+id: 16050
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"È stato davvero
+doloroso dire addio."
+
+---
+id: 16051
+attribute: 0x6400E10001030001
+---
+ワカレヲツゲルホーモ、ツラインデス
+
+---
+id: 16060
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Per me è stato davvero doloroso
+divorziare..."
+
+---
+id: 16061
+attribute: 0x6400E10001030001
+---
+リコンッテ＿トテモツライコトナンデスネ
+
+---
+id: 100100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie."
+
+---
+id: 100101
+attribute: 0x6400E10001000001
+---
+イタダキマス
+
+---
+id: 100200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie per il cibo."
+
+---
+id: 100201
+attribute: 0x6400E10001000001
+---
+ゴチソーサマデシタ
+
+---
+id: 100300
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Sono già pieno."
+
+---
+id: 100301
+attribute: 0x6400E10001000001
+---
+モー＿オナカイッパイデス
+
+---
+id: 100400
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ho appena mangiato questo."
+
+---
+id: 100401
+attribute: 0x6400E10001000001
+---
+コレワサッキタベマシタ
+
+---
+id: 101100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Sono pieno. per favore, riprendilo."
+
+---
+id: 101101
+attribute: 0x6400E10001000001
+---
+フクガイッパイナノデ＿ドレカカエシマス
+
+---
+id: 101110
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ho già questo vestito."
+
+---
+id: 101111
+attribute: 0x6400E10001000001
+---
+コノフクワモーモッテマス
+
+---
+id: 101900
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie per il nuovo arredamento.
+Mi piace molto."
+
+---
+id: 101901
+attribute: 0x6400E10001000001
+---
+アタラシイインテリアオアリガトーゴザイマス．トテモイーヘヤデスネ＿キニイリマシタ
+
+---
+id: 101910
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie per il nuovo arredamento.
+è carino."
+
+---
+id: 101911
+attribute: 0x6400E10001000001
+---
+アタラシイインテリアオアリガトーゴザイマス．ナカナカイーヘヤデスネ
+
+---
+id: 101920
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie per il nuovo arredamento.
+Non sembra male."
+
+---
+id: 101921
+attribute: 0x6400E10001000001
+---
+アタラシイインテリアオアリガトーゴザイマス．イーカンジナヘヤデスネ
+
+---
+id: 101930
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie per il nuovo arredamento.
+Umh, beh è unico."
+
+---
+id: 101931
+attribute: 0x6400E10001000001
+---
+アタラシイインテリアオアリガトーゴザイマス．エット＿ユニークナヘヤデスネ
+
+---
+id: 101940
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie per il nuovo arredamento.
+Ognuno ha gusti diversi, eh?"
+
+---
+id: 101941
+attribute: 0x6400E10001000001
+---
+＿アタラシイインテリアオアリガトーゴザイマス？＿＿コジンテキニワチョットアレナンデスケド
+
+---
+id: 101950
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Questo ce l'ho già."
+
+---
+id: 101951
+attribute: 0x6400E10001000001
+---
+コノインテリアワモーモッテマス
+
+---
+id: 102100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}" {{255:0 arg="0x0300"}}{{1:10 arg="0x0000"}}{{255:0 arg="0x0100"}} Sta bene?"
+
+---
+id: 102101
+attribute: 0x6400E10001000001
+---
+{{1:10 arg="0x0000"}}．デイイデスカ
+
+---
+id: 102150
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}" {{255:0 arg="0x0300"}}{{1:10 arg="0x0000"}}{{255:0 arg="0x0100"}} Sta bene?"
+
+---
+id: 102151
+attribute: 0x6400E10001000001
+---
+{{1:10 arg="0x0000"}}．デイイデスカ
+
+---
+id: 102200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Okay. Capito."
+
+---
+id: 102201
+attribute: 0x6400E10001000001
+---
+ハイ＿ワカリマシタ
+
+---
+id: 102210
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:10 arg="0x0000"}}."
+
+---
+id: 102211
+attribute: 0x6400E10001000001
+---
+{{1:10 arg="0x0000"}}
+
+---
+id: 103000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Vado a scattare delle foto."
+
+---
+id: 103001
+attribute: 0x6400E10001000001
+---
+チョットトッテキマス
+
+---
+id: 103010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Com'è?"
+
+---
+id: 103011
+attribute: 0x6400E10001000001
+---
+イカガデスカ
+
+---
+id: 103100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Perfavore, mostrami come si usa."
+
+---
+id: 103101
+attribute: 0x6400E10001000001
+---
+チョットツカッテミテクダサイ
+
+---
+id: 103110
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ah!"
+
+---
+id: 103111
+attribute: 0x6400E10001000001
+---
+ハッ！
+
+---
+id: 103120
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Cos'ho fatto?"
+
+---
+id: 103121
+attribute: 0x6400E10001000001
+---
+ワタシ＿イマナニシテマシタ？
+
+---
+id: 103200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Bene allora vado a fare un bagno."
+
+---
+id: 103201
+attribute: 0x6400E10001000001
+---
+ソレジャー，ヒトップロアビテキマス
+
+---
+id: 103210
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Veramente rinfrescante!"
+
+---
+id: 103211
+attribute: 0x6400E10001000001
+---
+サッパリシマシタ
+
+---
+id: 103220
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Vado a scattare delle foto."
+
+---
+id: 103221
+attribute: 0x6400E10001000001
+---
+チョットトッテキマス
+
+---
+id: 103222
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Questo è quello che ho scattato."
+
+---
+id: 103223
+attribute: 0x6400E10001000001
+---
+コンナノガトレマシタ
+
+---
+id: 103230
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Il titolo è
+『{{1:1 arg="0x0000"}}.』"
+
+---
+id: 103231
+attribute: 0x6400E10001000001
+---
+タイトルワ＿{{1:1 arg="0x0000"}}デス
+
+---
+id: 103240
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Si. Ne capisci il valore, vero?"
+
+---
+id: 103241
+attribute: 0x6400E10001000001
+---
+デスヨネ＿ワカッテクレルトオモッテマシタ
+
+---
+id: 103250
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Capisco. Devo impegnarmi di più."
+
+---
+id: 103251
+attribute: 0x6400E10001000001
+---
+ナルホド＿アトチョットトユーコトデスネ
+
+---
+id: 103260
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Potrebbe esserci qualcun altro
+che lo apprezza."
+
+---
+id: 103261
+attribute: 0x6400E10001000001
+---
+ワカルヒトニワワカルンデスヨ
+
+---
+id: 103270
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"{{1:1 arg="0x0000"}}fotocopia,
+un giorno lo capirai."
+
+---
+id: 103271
+attribute: 0x6400E10001000001
+---
+{{1:1 arg="0x0000"}}ノソックリサンニモ＿イツカワカルヒガキマスヨ
+
+---
+id: 103300
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Mi rinfresco un po'."
+
+---
+id: 103301
+attribute: 0x6400E10001000001
+---
+チョットスズミマス
+
+---
+id: 103310
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"L'aria fresca è piacevole." 
+
+---
+id: 103311
+attribute: 0x6400E10001000001
+---
+イイカンジニスズシクナリマシタ
+
+---
+id: 103320
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Lo proverò.."
+
+---
+id: 103321
+attribute: 0x6400E10001000001
+---
+チョットタイケンシテキマス
+
+---
+id: 103330
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ho imparato qualcosa."
+
+---
+id: 103331
+attribute: 0x6400E10001000001
+---
+タメニナリマシタ
+
+---
+id: 103350
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Posso ascoltarlo?"
+
+---
+id: 103351
+attribute: 0x6400E10001000001
+---
+チョットキイテミテモイイデスカ？
+
+---
+id: 103360
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Il carillon è rilassante."
+
+---
+id: 103361
+attribute: 0x6400E10001000001
+---
+オルゴールワナゴミマスネ
+
+---
+id: 103370
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ho intenzione di cucinare qualcosa 
+di delizioso."
+
+---
+id: 103371
+attribute: 0x6400E10001000001
+---
+オイシクツクッテミセマショー
+
+---
+id: 103380
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ti piace?"
+
+---
+id: 103381
+attribute: 0x6400E10001000001
+---
+オソマツサマデシタ
+
+---
+id: 103400
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"La febbre è passata."
+
+---
+id: 103401
+attribute: 0x6400E10001000001
+---
+ネツガヒイタキガシマス
+
+---
+id: 103410
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"è Piuttosto amaro."
+
+---
+id: 103411
+attribute: 0x6400E10001000001
+---
+ケッコーニガイデスネ
+
+---
+id: 103500
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Sto Meglio."
+
+---
+id: 103501
+attribute: 0x6400E10001000001
+---
+ダイブチョーシガヨクナリマシタ
+
+---
+id: 103510
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Aveva un sapore strano."
+
+---
+id: 103511
+attribute: 0x6400E10001000001
+---
+ヘンナアジデスネ
+
+---
+id: 103600
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Eh? Va davvero bene?"
+
+---
+id: 103601
+attribute: 0x6400E10001000001
+---
+エ＿イインデスカ？
+
+---
+id: 103610
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Allora mi divertirò."
+
+---
+id: 103611
+attribute: 0x6400E10001000001
+---
+デワ＿タノシンデキマス
+
+---
+id: 103620
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ah, è divertente."
+
+---
+id: 103621
+attribute: 0x6400E10001000001
+---
+アータノシカッタ
+
+---
+id: 103630
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ecco il tuo souvenir."
+
+---
+id: 103631
+attribute: 0x6400E10001000001
+---
+コレ＿オミヤゲデス
+
+---
+id: 103640
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"È stato un rinfrescante cambiamento
+di ritmo."
+
+---
+id: 103641
+attribute: 0x6400E10001000001
+---
+イーキブンテンカンニナリマシタ
+
+---
+id: 103650
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"D'ora in poi, per favore siate 
+gentili con noi."
+
+---
+id: 103651
+attribute: 0x6400E10001000001
+---
+コレカラモ＿フーフトモドモヨロシクオネガイシマス
+
+---
+id: 103800
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"In che modo dovrei parlare?"
+
+---
+id: 103801
+attribute: 0x6400E10001000001
+---
+ドンナカンジデハナセバイーデショーカ
+
+---
+id: 103802
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Di che argomento
+dovrei parlare?"
+
+---
+id: 103803
+attribute: 0x6400E10001000001
+---
+ドンナハナシヲスレバイーデショーカ
+
+---
+id: 103808
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Va bene, allora
+presentateci."
+
+---
+id: 103809
+attribute: 0x6400E10001000001
+---
+ワカリマシタ＿デワ＿オハナシガデキルヨータノンデキテクダサイ
+
+---
+id: 103810
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ok, ho capito. Passo da te."
+
+---
+id: 103811
+attribute: 0x6400E10001000001
+---
+ナルホド＿ワカリマシタ．チョットオハナシシテキマス．
+
+---
+id: 103820
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Grazie mille!
+Ora siamo amici!"
+
+---
+id: 103821
+attribute: 0x6400E10001000001
+---
+アリガトーゴザイマス！＿オカゲデトモダチニナレマシタ！
+
+---
+id: 103830
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Non siamo ancora amici."
+
+---
+id: 103831
+attribute: 0x6400E10001000001
+---
+マダ＿トモダチニワナレマセンデシタ
+
+---
+id: 104000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"In che modo dovrei confessarmi?"
+
+---
+id: 104001
+attribute: 0x6400E10001000001
+---
+ドンナカンジデコクハクシタライイデスカ
+
+---
+id: 104010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Dove Dovrei Confessarmi?"
+
+---
+id: 104011
+attribute: 0x6400E10001000001
+---
+ドコデコクハクスルノガイイデショーカ
+
+---
+id: 104012
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Prima Dovrei Cambiarmi?"
+
+---
+id: 104013
+attribute: 0x6400E10001000001
+---
+ソノマエニ＿キガエタホーガイーデスカネ？
+
+---
+id: 104020
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Okay, Ora Vado a Dichiararmi!"
+
+---
+id: 104021
+attribute: 0x6400E10001000001
+---
+ワカリマシタ＿コクハクシテキマス！
+
+---
+id: 104022
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Lo confesso!"
+
+---
+id: 104023
+attribute: 0x6400E10001000001
+---
+ソレデワ＿コクハクシテキマス！
+
+---
+id: 104030
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Perché ti sei opposto?"
+
+---
+id: 104031
+attribute: 0x6400E10001000001
+---
+ドーシテハンタイスルンデスカ？
+
+---
+id: 104100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"È così? Ho capito..."
+
+---
+id: 104101
+attribute: 0x6400E10001000001
+---
+ソーデスカ＿ワカリマシタ
+
+---
+id: 104110
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Eh? è Crudele..."
+
+---
+id: 104111
+attribute: 0x6400E10001000001
+---
+エ＿ソンナ＿ヒドイ＿＿
+
+---
+id: 104120
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"È così...?"
+
+---
+id: 104121
+attribute: 0x6400E10001000001
+---
+ソーダッタンデスカ＿＿＿
+
+---
+id: 104130
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"È così? Ci proverò di più."
+
+---
+id: 104131
+attribute: 0x6400E10001000001
+---
+ソーデスカ＿．ガンバリマス
+
+---
+id: 105000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Mi sono ripreso completamente."
+
+---
+id: 105001
+attribute: 0x6400E10001000001
+---
+スッカリタチナオリマシタ
+
+---
+id: 106000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Hai Un Minuto?"
+
+---
+id: 106001
+attribute: 0x6400E10001000001
+---
+チョットイイデスカ？
+
+---
+id: 106100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Puoi aiutarmi a calmarmi
+prima?"
+
+---
+id: 106101
+attribute: 0x6400E10001000001
+---
+ジャー，コノイライラオシズメテクダサイ
+
+---
+id: 106200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ora mi sento molto meglio.
+Cercherò di rimediare."
+
+---
+id: 106201
+attribute: 0x6400E10001000001
+---
+キブンガヨクナリマシタ．ナカナオリシテコヨートオモイマス
+
+---
+id: 106300
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie mille!
+Abbiamo fatto pace."
+
+---
+id: 106301
+attribute: 0x6400E10001000001
+---
+アリガトーゴザイマス＿ナカナオリデキマシタ
+
+---
+id: 106310
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Non ha funzionato..."
+
+---
+id: 106311
+attribute: 0x6400E10001000001
+---
+ダメデシタ
+
+---
+id: 106400
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Andrò a parlare con
+{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} ora."
+
+---
+id: 106401
+attribute: 0x6400E10001000001
+---
+デワ{{1:1 arg="0x0000"}}トハナシオシテキマス
+
+---
+id: 106410
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"...Cercherò di parlarne."
+
+---
+id: 106411
+attribute: 0x6400E10001000001
+---
+＿モーイチドハナシアッテキマス
+
+---
+id: 106420
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ora sento di avere la mia libertà."
+
+---
+id: 106421
+attribute: 0x6400E10001000001
+---
+ヤットジユーニナレタキガシマス
+
+---
+id: 106430
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Proveremo a ricominciare."
+
+---
+id: 106431
+attribute: 0x6400E10001000001
+---
+モーイチドヤリナオシテミヨートオモイマス
+
+---
+id: 106440
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Non andava davvero bene."
+
+---
+id: 106441
+attribute: 0x6400E10001000001
+---
+ヤッパリ＿ダメデシタ
+
+---
+id: 200000
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Era estremamente buono.
+
+---
+id: 200100
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Era veramente buono.
+
+---
+id: 200200
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Era davvero buono.
+
+---
+id: 200300
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Non era proprio buono.
+
+---
+id: 200400
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Non era buono.
+
+---
+id: 200500
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Mi è piaciuto molto!
+
+---
+id: 200600
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Lo odio...
+
+---
+id: 201000
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Lo adoro.
+
+---
+id: 201100
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Mi è piaciuto tanto.
+
+---
+id: 201200
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Mi è piaciuto.
+
+---
+id: 201300
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Non mi è piaciuto tanto.
+
+---
+id: 201400
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Non mi è piaciuto.
+
+---
+id: 201900
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Abbastanza soddisfatto.
+
+---
+id: 202000
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Leggermente soddisfatto.
+
+---
+id: 202100
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Non del tutto soddisfatto.
+
+---
+id: 300000
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}È andata bene!
+
+---
+id: 300100
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Si è rivelato terribile...
+
+---
+id: 300200
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}È andata bene!
+
+---
+id: 300210
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Ancora niente di buono.
+
+---
+id: 300300
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}È andata bene!
+
+---
+id: 300310
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Non andava bene...
+
+---
+id: 300400
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}È andata bene.
+
+---
+id: 300410
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}It didn't go well.
+
+---
+id: 300450
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} e {{255:0 arg="0x0300"}}{{1:1 arg="0x0100"}}{{255:0 arg="0x0100"}}
+hanno rotto...
+
+---
+id: 300500
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}È andata bene.
+
+---
+id: 300510
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Non è andata bene.
+
+---
+id: 300600
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Tutti i sintomi sono scomparsi.
+
+---
+id: 300610
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Già guarito!
+
+---
+id: 300700
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Il mal di stomaco è passato.
+
+---
+id: 300710
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Già guarito!
+
+---
+id: 300800
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Già guarito dalla depressione.
+
+---
+id: 500000
+attribute: 0x6400E10001010001
+---
+Hai ricevuto {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}.
+
+---
+id: 500100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Puoi scegliere un premio."
+
+---
+id: 500101
+attribute: 0x6400E10001000001
+---
+ヒトツダケアゲマス．ドレカエランデクダサイ
+
+---
+id: 500200
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Un sogno...?"
+
+---
+id: 500201
+attribute: 0x6400E10001000001
+---
+ユメカ＿＿＿＿＿＿
+
+---
+id: 500210
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Cosa? Un Sogno?"
+
+---
+id: 500211
+attribute: 0x6400E10001000001
+---
+ナンダ＿＿＿ユメカ＿＿＿
+
+---
+id: 500220
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Che paura..."
+
+---
+id: 500221
+attribute: 0x6400E10001000001
+---
+ビックリシター＿＿＿＿＿
+
+---
+id: 500230
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Che cos 'era questo...?"
+
+---
+id: 500231
+attribute: 0x6400E10001000001
+---
+ナンダッタンダ＿＿＿＿＿＿＿
+
+---
+id: 500400
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}Hai raccolto {{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}}.
+
+---
+id: 500410
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0100"}}{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} Aggiunto
+alle tue 【Risorse.】
+
+---
+id: 501000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Vuoi giocare con me?"
+
+---
+id: 501001
+attribute: 0x6400E10001000001
+---
+イッショニアソビマセンカ？
+
+---
+id: 501100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Congratulazioni."
+
+---
+id: 501101
+attribute: 0x6400E10001000001
+---
+オメデトーゴザイマス
+
+---
+id: 501200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Che peccato.
+Giochiamo di nuovo la prossima volta."
+
+---
+id: 501201
+attribute: 0x6400E10001000001
+---
+ザンネンデシタネ．マタアソンデクダサイ
+
+---
+id: 501900
+attribute: 0x6400E10001010002
+---
+{{255:0 arg="0x0100"}}{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} Aggiunto
+alle tue 【Risorse.】
+
+---
+id: 502000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Lascia che ti dia questo."
+
+---
+id: 502001
+attribute: 0x6400E10001000001
+---
+オレーニコレヲアゲマス
+
+---
+id: 502004
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Grazie per aver ascoltato la mia
+richiesta. Lascia che ti dia questo."
+
+---
+id: 502005
+attribute: 0x6400E10001000001
+---
+リクエストニコタエテクレテ＿アリガトーゴザイマス．オレーニコレヲアゲマス
+
+---
+id: 502010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Grazie mille,
+per favore prendi questo."
+
+---
+id: 502011
+attribute: 0x6400E10001000001
+---
+イツモアリガトーゴザイマス＿ワタシカラノオカエシデス
+
+---
+id: 502100
+attribute: 0x6400E10001010002
+---
+{{255:0 arg="0x0100"}}{{255:0 arg="0x0300"}}{{1:20 arg="0x0000"}}{{255:0 arg="0x0100"}} Aggiunto
+hai tuoi 【Oggetti.】
+
+---
+id: 503000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Grazie mille."
+
+---
+id: 503001
+attribute: 0x6400E10001000002
+---
+アリガトーゴザイマス
+
+---
+id: 503010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Hmm, non male."
+
+---
+id: 503011
+attribute: 0x6400E10001000002
+---
+ウーン＿イマイチ
+
+---
+id: 503100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Beh, non sembra
+avere alcun problema, vero?"
+
+---
+id: 503101
+attribute: 0x6400E10001000002
+---
+マー＿ダカラトイッテ＿ドートユーコトワナインデスケドネ
+
+---
+id: 503110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Hmm, non male."
+
+---
+id: 503111
+attribute: 0x6400E10001000002
+---
+ウーン＿イマイチ
+
+---
+id: 503200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Grazie mille."
+
+---
+id: 503201
+attribute: 0x6400E10001000002
+---
+アリガトーゴザイマス
+
+---
+id: 503210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Fa male..."
+
+---
+id: 503211
+attribute: 0x6400E10001000002
+---
+イタカッタナー
+
+---
+id: 800000
+attribute: 0x6400500001010101
+---
+Dai
+
+---
+id: 800100
+attribute: 0x6400500001010101
+---
+Prendi
+
+---
+id: 800200
+attribute: 0x6400500001010101
+---
+Compra
+
+---
+id: 800300
+attribute: 0x6400500001010101
+---
+Cambia
+
+---
+id: 900000
+attribute: 0x6400500001010001
+---
+Si
+
+---
+id: 900010
+attribute: 0x6400500001010001
+---
+No
+
+---
+id: 900100
+attribute: 0x6400500001010001
+---
+Ti Aiuto
+
+---
+id: 900110
+attribute: 0x6400500001010001
+---
+Non ora
+
+---
+id: 900200
+attribute: 0x6400500001010001
+---
+Feed
+
+---
+id: 900210
+attribute: 0x6400500001010001
+---
+Esci
+
+---
+id: 900300
+attribute: 0x6400500001010001
+---
+Oggetti
+
+---
+id: 900310
+attribute: 0x6400500001010001
+---
+Esci
+
+---
+id: 900400
+attribute: 0x6400500001010001
+---
+Outfit
+
+---
+id: 900410
+attribute: 0x6400500001010001
+---
+Esci
+
+---
+id: 900500
+attribute: 0x6400500001010001
+---
+Crea
+
+---
+id: 900510
+attribute: 0x6400500001010001
+---
+Esci
+
+---
+id: 900600
+attribute: 0x6400500001010001
+---
+Usa questo
+
+---
+id: 900610
+attribute: 0x6400500001010001
+---
+Cambia
+
+---
+id: 900620
+attribute: 0x6400500001010001
+---
+Esci
+
+---
+id: 900700
+attribute: 0x6400500001010001
+---
+Prova
+
+---
+id: 900710
+attribute: 0x6400500001010001
+---
+Esci
+
+---
+id: 900800
+attribute: 0x6400500001010001
+---
+Ti Aiuto
+
+---
+id: 900810
+attribute: 0x6400500001010001
+---
+Non ora
+
+---
+id: 900820
+attribute: 0x6400500001010001
+---
+Lusinghiero
+
+---
+id: 900821
+attribute: 0x6400500001010001
+---
+Obbediente
+
+---
+id: 900822
+attribute: 0x6400500001010001
+---
+Breve
+
+---
+id: 900823
+attribute: 0x6400500001010001
+---
+Educato
+
+---
+id: 900830
+attribute: 0x6400500001010001
+---
+Giocoso
+
+---
+id: 900831
+attribute: 0x6400500001010001
+---
+Gossip
+
+---
+id: 900832
+attribute: 0x6400500001010001
+---
+Rompicapo
+
+---
+id: 900833
+attribute: 0x6400500001010001
+---
+Topic serio
+
+---
+id: 900900
+attribute: 0x6400500001010001
+---
+Vai a fare pace
+
+---
+id: 900910
+attribute: 0x6400500001010001
+---
+Non ora
+
+---
+id: 901000
+attribute: 0x6400500001010001
+---
+Va bene
+
+---
+id: 901010
+attribute: 0x6400500001010001
+---
+Ripensaci
+
+---
+id: 901100
+attribute: 0x6400500001010001
+---
+Va bene
+
+---
+id: 901110
+attribute: 0x6400500001010001
+---
+Ripensaci
+
+---
+id: 901200
+attribute: 0x6400500001010001
+---
+Vai
+
+---
+id: 902000
+attribute: 0x6400500001010001
+---
+Ti aiuterò
+
+---
+id: 902010
+attribute: 0x6400500001010001
+---
+Meglio di no
+
+---
+id: 902020
+attribute: 0x6400500001010001
+---
+Un attimo.
+
+---
+id: 902100
+attribute: 0x6400500001010001
+---
+Tradizionale
+
+---
+id: 902110
+attribute: 0x6400500001010001
+---
+Romantico
+
+---
+id: 902120
+attribute: 0x6400500001010001
+---
+Arrogante
+
+---
+id: 902130
+attribute: 0x6400500001010001
+---
+Disperato
+
+---
+id: 902200
+attribute: 0x6400500001010001
+---
+Spiaggia
+
+---
+id: 902210
+attribute: 0x6400500001010001
+---
+Sul tetto
+
+---
+id: 902220
+attribute: 0x6400500001010001
+---
+Parco
+
+---
+id: 902230
+attribute: 0x6400500001010001
+---
+In Classe
+
+---
+id: 902240
+attribute: 0x6400500001030001
+---
+Cambia
+
+---
+id: 902250
+attribute: 0x6400500001030001
+---
+Vai e basta
+
+---
+id: 902300
+attribute: 0x6400500001010001
+---
+Non compatibile
+
+---
+id: 902310
+attribute: 0x6400500001010001
+---
+Sono geloso
+
+---
+id: 902315
+attribute: 0x6400500001010001
+---
+Non disponibile
+
+---
+id: 902320
+attribute: 0x6400500001010001
+---
+Troppo presto
+
+---
+id: 903000
+attribute: 0x6400500001010001
+---
+100pt
+
+---
+id: 903010
+attribute: 0x6400500001010001
+---
+80pt
+
+---
+id: 903020
+attribute: 0x6400500001010001
+---
+30pt
+
+---
+id: 903030
+attribute: 0x6400500001010001
+---
+Non so
+
+---
+id: 903100
+attribute: 0x6400500001010001
+---
+Gioca
+
+---
+id: 903110
+attribute: 0x6400500001010001
+---
+Non adesso
+
+---
+id: 950000
+attribute: 0x6400500001010001
+---
+Grattare
+
+---
+id: 950010
+attribute: 0x6400500001010001
+---
+Non adesso
+
+---
+id: 950100
+attribute: 0x6400500001010001
+---
+Dai un occhiata
+
+---
+id: 950110
+attribute: 0x6400500001010001
+---
+Non ora
+
+---
+id: 950200
+attribute: 0x6400500001010001
+---
+Okay
+
+---
+id: 950210
+attribute: 0x6400500001010001
+---
+Sono occupato
+
+---
+id: 950300
+attribute: 0x6400500001010001
+---
+Ti aiuterò
+
+---
+id: 950310
+attribute: 0x6400500001010001
+---
+Sono occupato
+
+---
+id: 1000000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Mi sono innamorato di te.
+Per favore, esci con me.."
+
+---
+id: 1000001
+attribute: 0x6400E10001000001
+---
+ズットマエカラスキデシタ＿ツキアッテクダサイ
+
+---
+id: 1000002
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I tuoi occhi sono più belli
+dei diamanti. Per favore, esci con me."
+
+---
+id: 1000003
+attribute: 0x6400E10001000001
+---
+アナタノヒトミワ＿ダイヤヨリモウツクシイデス＿ツキアッテクダサイ
+
+---
+id: 1000004
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Non mi dispiace uscire con te."
+
+---
+id: 1000005
+attribute: 0x6400E10001000001
+---
+ツキアッテアゲテモイイデスヨ
+
+---
+id: 1000006
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Farò tutto quello che vuoi.
+Per favore, esci con me!"
+
+---
+id: 1000007
+attribute: 0x6400E10001000001
+---
+ナンデモシマスカラツキアッテクダサイ！
+
+---
+id: 1000010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Okay."
+
+---
+id: 1000011
+attribute: 0x6400E10001000001
+---
+コチラコソ，オネガイシマス
+
+---
+id: 1000020
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Scusa."
+
+---
+id: 1000021
+attribute: 0x6400E10001000001
+---
+ゴメンナサイ＿＿＿＿＿＿＿＿＿＿
+
+---
+id: 1000030
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}Alla fine, quella persona
+non è mai arrivata...
+
+---
+id: 1000031
+attribute: 0x6400E10001000001
+---
+ソノヒ＿＿ケッキョクアノヒトガクルコトワナカッタ
+
+---
+id: 1000100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Mi sono innamorato di te.
+Per favore, esci con me."
+
+---
+id: 1000101
+attribute: 0x6400E10001000002
+---
+ズットマエカラスキデシタ＿ツキアッテクダサイ
+
+---
+id: 1000110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Voglio essere sempre al tuo fianco.
+Per favore, esci con me."
+
+---
+id: 1000111
+attribute: 0x6400E10001000002
+---
+イツモアナタノソバニイタイデス＿ツキアッテクダサイ
+
+---
+id: 1000120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Mi sono innamorato di te
+a prima vista. Esci con me?"
+
+---
+id: 1000121
+attribute: 0x6400E10001000002
+---
+ヒトメミタトキカラキニナッテマシタ＿ツキアッテクダサイ
+
+---
+id: 1000130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ti ho sempre guardato da
+questo posto. Per favore, esci con me."
+
+---
+id: 1000131
+attribute: 0x6400E10001000002
+---
+イツモアノセキカラミツメテイマシタ＿ツキアッテクダサイ
+
+---
+id: 1000200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sei più meraviglioso di
+questo oceano. Esci con me?"
+
+---
+id: 1000201
+attribute: 0x6400E10001000002
+---
+アナタワキラメクウミヨリモステキデス＿ツキアッテクダサイ
+
+---
+id: 1000210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Voglio far crescere
+un albero d'amore con te."
+
+---
+id: 1000211
+attribute: 0x6400E10001000002
+---
+アナタトフタリデ＿コイトイウナノキヲハグクンデイキタイデス
+
+---
+id: 1000220
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"I tuoi occhi sono più belli
+dei diamanti. Per favore, esci con me."
+
+---
+id: 1000221
+attribute: 0x6400E10001000002
+---
+アナタノヒトミワ＿ダイヤヨリモウツクシイデス＿ツキアッテクダサイ
+
+---
+id: 1000230
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Tu sei il latte e io
+l'espresso. Faremmo un ottimo caffè."
+
+---
+id: 1000231
+attribute: 0x6400E10001000002
+---
+アナタガアマイミルクデ＿ワタシガエスプレッソ＿アイノカフェオレノヨーニトケアイマショー
+
+---
+id: 1000300
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Nessuno ti ama più di me.
+Ora, vuoi uscire con me?"
+
+---
+id: 1000301
+attribute: 0x6400E10001000002
+---
+ワタシヨリアナタノコトヲスキニナレルヒトワイマセンヨ＿ツキアッタラドーデスカ？
+
+---
+id: 1000310
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così ovvio che mi ami.
+Non mi dispiace uscire con te."
+
+---
+id: 1000311
+attribute: 0x6400E10001000002
+---
+ワタシノコトガスキッテミエミエデスヨ＿ショーガナイカラツキアイマショーカ？
+
+---
+id: 1000320
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Non ho ancora nessuno
+di speciale, usciamo insieme?"
+
+---
+id: 1000321
+attribute: 0x6400E10001000002
+---
+アイテガイナイナラ＿ツキアッテアゲテモイイデスヨ
+
+---
+id: 1000330
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Stiamo già uscendo insieme, vero?
+Voglio solo confermarlo.."
+
+---
+id: 1000331
+attribute: 0x6400E10001000002
+---
+モーワタシタチ＿ツキアッテマスヨネ＿イチオーカクニンシタダケデスケド
+
+---
+id: 1000400
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Per favore, sii il mio amante.
+Corriamo insieme sulla spiaggia."
+
+---
+id: 1000401
+attribute: 0x6400E10001000002
+---
+ワタシトスナハマデオイカケッコスルカンケイニナッテクダサイ！
+
+---
+id: 1000410
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Voglio davvero uscire con te!
+Per favore, non abbandonarmi!"
+
+---
+id: 1000411
+attribute: 0x6400E10001000002
+---
+ドーシテモツキアイタインデス！ミステナイデクダサイ！
+
+---
+id: 1000420
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Farò tutto quello che vuoi.
+Per favore, esci con me!"
+
+---
+id: 1000421
+attribute: 0x6400E10001000002
+---
+ナンデモシマスカラツキアッテクダサイ！
+
+---
+id: 1000430
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"A pranzo ti darò sempre
+il mio dolce. Per favore, esci con me!"
+
+---
+id: 1000431
+attribute: 0x6400E10001000002
+---
+キューショクノプリンアゲルカラツキアッテクダサイ！
+
+---
+id: 2000000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Abbiamo deciso di sposarci."
+
+---
+id: 2000001
+attribute: 0x6400E10001000001
+---
+ワタシタチ＿ケッコンスルコトニナリマシタ
+
+---
+id: 2000050
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Yeah."
+
+---
+id: 2000051
+attribute: 0x6400E10001000001
+---
+ドーモ
+
+---
+id: 2000100
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Avremo una vita felice insieme."
+
+---
+id: 2000101
+attribute: 0x6400E10001000001
+---
+スエナガクシアワセニクラシマス
+
+---
+id: 2000200
+attribute: 0x6400E10001010001
+---
+{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} e {{255:0 arg="0x0300"}}{{1:1 arg="0x0100"}}{{255:0 arg="0x0100"}}
+ci siamo sposati!
+
+---
+id: 2000210
+attribute: 0x6400E10001010002
+---
+{{255:0 arg="0x0300"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} e {{255:0 arg="0x0300"}}{{1:1 arg="0x0100"}}{{255:0 arg="0x0100"}}
+ci siamo sposati!
+
+---
+id: 2000300
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Per favore,
+tienilo come ricordo."
+
+---
+id: 2000301
+attribute: 0x6400E10001000001
+---
+キネンニ＿コレオモラッテクダサイ
+
+---
+id: 2000400
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Stiamo partendo
+per la luna di miele."
+
+---
+id: 2000401
+attribute: 0x6400E10001000001
+---
+ソレデワ＿0シンコンリョコーニイッテキマス
+
+---
+id: 3000000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Mi dispiace per
+quello che è successo."
+
+---
+id: 3000001
+attribute: 0x6400E10001000001
+---
+コナイダワゴメンナサイ
+
+---
+id: 3000010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"No, Sono io a scusarmi."
+
+---
+id: 3000011
+attribute: 0x6400E10001000001
+---
+コチラコソゴメンナサイ
+
+---
+id: 3000020
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Non ti perdonerò."
+
+---
+id: 3000021
+attribute: 0x6400E10001000001
+---
+ユルシマセン
+
+---
+id: 4000000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Ricominciamo."
+
+---
+id: 4000001
+attribute: 0x6400E10001000001
+---
+モーイチドヤリナオシマショー
+
+---
+id: 4000010
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Si, Perfavore."
+
+---
+id: 4000011
+attribute: 0x6400E10001000001
+---
+コチラコソ＿オネガイシマス
+
+---
+id: 5000000
+attribute: 0x6400E10001000001
+---
+{{255:0 arg="0x0100"}}"Sono stanco. Lasciamoci."
+
+---
+id: 5000001
+attribute: 0x6400E10001000001
+---
+モーツカレマシタ＿ワカレマショー
+
+---
+id: 6000000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Credo che {{1:1 arg="0x0000"}} sia
+un coniuge estremamente gentile."
+
+---
+id: 6000001
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿スゴクナカガイイフーフダトオモッテイルノデスガ
+
+---
+id: 6000010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Credo che {{1:1 arg="0x0000"}} sia
+sia un bravo coniuge."
+
+---
+id: 6000011
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿ケッコーナカガイイフーフダトオモッテイルノデスガ
+
+---
+id: 6000020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Credo che {{1:1 arg="0x0000"}} sia
+un coniuge normale."
+
+---
+id: 6000021
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿フツーニナカガイイフーフダトオモッテイルノデスガ
+
+---
+id: 6000030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} ed
+Io non andiamo molto d'accordo."
+
+---
+id: 6000031
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿チョットアワナイカモトオモッテイルノデスガ
+
+---
+id: 6000040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} ed
+Io non andiamo d'accordo."
+
+---
+id: 6000041
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿アワナインジャナイカトオモッテイルノデスガ
+
+---
+id: 6000050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Quanto pensi siamo compatibili
+{{1:1 arg="0x0000"}} ed io?"
+
+---
+id: 6000051
+attribute: 0x6400E10001000002
+---
+ワタシト{{1:1 arg="0x0000"}}ノコトヲ＿ドーオモイマスカ？
+
+---
+id: 6000060
+attribute: 0x6400500001030001
+---
+Perfettamente!
+
+---
+id: 6000070
+attribute: 0x6400500001030001
+---
+Normalmente
+
+---
+id: 6000080
+attribute: 0x6400500001030001
+---
+Per niente
+
+---
+id: 6000100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sì! Deve essere proprio così!"
+
+---
+id: 6000101
+attribute: 0x6400E10001000002
+---
+ヤッパリソーデスヨネ！
+
+---
+id: 6000110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Capisco! Ora sono sollevato."
+
+---
+id: 6000111
+attribute: 0x6400E10001000002
+---
+ソーデスヨネ！アンシンシマシタ
+
+---
+id: 6000120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Probabilmente ci
+avvicineremo di più, vero?"
+
+---
+id: 6000121
+attribute: 0x6400E10001000002
+---
+ソーデスカー．モットナカヨクナレルトイウコトデスネ！
+
+---
+id: 6000130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Mi impegnerò di più per
+far funzionare le cose tra noi."
+
+---
+id: 6000131
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス
+
+---
+id: 6000140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh? È quello che pensi?
+Continuerò a impegnarmi di più."
+
+---
+id: 6000141
+attribute: 0x6400E10001000002
+---
+エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス
+
+---
+id: 6000200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Normale...? È un po' deludente."
+
+---
+id: 6000201
+attribute: 0x6400E10001000002
+---
+フツーデスカ．チョットザンネンデス
+
+---
+id: 6000210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Beh, va bene."
+
+---
+id: 6000211
+attribute: 0x6400E10001000002
+---
+ソーデスカ．マー＿イインデスケド
+
+---
+id: 6000220
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sei d'accordo con me, vero?"
+
+---
+id: 6000221
+attribute: 0x6400E10001000002
+---
+ヤッパリソーデスヨネ
+
+---
+id: 6000230
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così? Probabilmente il
+nostro rapporto migliorerà, vero?"
+
+---
+id: 6000231
+attribute: 0x6400E10001000002
+---
+ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ
+
+---
+id: 6000240
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così? La nostra relazione potrebbe
+non essere così buona come pensi."
+
+---
+id: 6000241
+attribute: 0x6400E10001000002
+---
+ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ
+
+---
+id: 6000300
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh!? È così...? Capisco..."
+
+---
+id: 6000301
+attribute: 0x6400E10001000002
+---
+エ！ソーデスカ．ワカリマシタ
+
+---
+id: 6000310
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ma penso che andiamo
+d'accordo..."
+
+---
+id: 6000311
+attribute: 0x6400E10001000002
+---
+ジブンデワアウトオモッテイタノデスガ
+
+---
+id: 6000320
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così...? Peccato..."
+
+---
+id: 6000321
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ．チョットザンネンデス
+
+---
+id: 6000330
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Anche tu la pensi così, vero?"
+
+---
+id: 6000331
+attribute: 0x6400E10001000002
+---
+ヤッパリソーナンデスネ
+
+---
+id: 6000340
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Anche tu la pensi così, vero?"
+
+---
+id: 6000341
+attribute: 0x6400E10001000001
+---
+ヤッパリソーナンデスネ
+
+---
+id: 6001000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+un fidanzato estremamente gentile."
+
+---
+id: 6001001
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿スゴクナカガイイコイビトドーシダトオモッテイルノデスガ
+
+---
+id: 6001010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+un fidanzato molto bravo."
+
+---
+id: 6001011
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿ケッコーナカガイイコイビトドーシダトオモッテイルノデスガ
+
+---
+id: 6001020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+uno spasimamente normale."
+
+---
+id: 6001021
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿フツーニナカガイイコイビトドーシダトオモッテイルノデスガ
+
+---
+id: 6001030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} ed
+io non andiamo molto d'accordo."
+
+---
+id: 6001031
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿チョットアワナイカモトオモッテイルノデスガ
+
+---
+id: 6001040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} ed
+io non andiamo d'accordo."
+
+---
+id: 6001041
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿アワナインジャナイカトオモッテイルノデスガ
+
+---
+id: 6001050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Quanto pensi siamo compatibili
+{{1:1 arg="0x0000"}} ed io?"
+
+---
+id: 6001051
+attribute: 0x6400E10001000002
+---
+ワタシト{{1:1 arg="0x0000"}}ノコトヲ＿ドーオモイマスカ？
+
+---
+id: 6001060
+attribute: 0x6400500001030001
+---
+Perfettamente!
+
+---
+id: 6001070
+attribute: 0x6400500001030001
+---
+Normalmente
+
+---
+id: 6001080
+attribute: 0x6400500001030001
+---
+Per niente
+
+---
+id: 6001100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sì! Deve essere proprio così!"
+
+---
+id: 6001101
+attribute: 0x6400E10001000002
+---
+ヤッパリソーデスヨネ！
+
+---
+id: 6001110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Capisco! Ora sono sollevato."
+
+---
+id: 6001111
+attribute: 0x6400E10001000002
+---
+ソーデスヨネ！アンシンシマシタ
+
+---
+id: 6001120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Probabilmente
+ci avvicineremo di più, no?"
+
+---
+id: 6001121
+attribute: 0x6400E10001000002
+---
+ソーデスカー．モットナカヨクナレルトイウコトデスネ！
+
+---
+id: 6001130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Mi impegnerò di più per
+far funzionare le cose tra noi."
+
+---
+id: 6001131
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス
+
+---
+id: 6001140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh? È quello che pensi?
+Continuerò a impegnarmi di più."
+
+---
+id: 6001141
+attribute: 0x6400E10001000002
+---
+エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス
+
+---
+id: 6001200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Normale...? È un po' deludente."
+
+---
+id: 6001201
+attribute: 0x6400E10001000002
+---
+フツーデスカ．チョットザンネンデス
+
+---
+id: 6001210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Beh, va bene."
+
+---
+id: 6001211
+attribute: 0x6400E10001000002
+---
+ソーデスカ．マー＿イインデスケド
+
+---
+id: 6001220
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sei d'accordo con me, vero?"
+
+---
+id: 6001221
+attribute: 0x6400E10001000002
+---
+ヤッパリソーデスヨネ
+
+---
+id: 6001230
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così? Probabilmente il nostro
+rapporto migliorerà, vero?"
+
+---
+id: 6001231
+attribute: 0x6400E10001000002
+---
+ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ
+
+---
+id: 6001240
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così? La nostra relazione potrebbe
+non essere così buona come pensi."
+
+---
+id: 6001241
+attribute: 0x6400E10001000002
+---
+ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ
+
+---
+id: 6001300
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh!? È così...? Capisco..."
+
+---
+id: 6001301
+attribute: 0x6400E10001000002
+---
+エ！ソーデスカ．ワカリマシタ
+
+---
+id: 6001310
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ma penso che andiamo
+d'accordo..."
+
+---
+id: 6001311
+attribute: 0x6400E10001000002
+---
+ジブンデワアウトオモッテイタノデスガ
+
+---
+id: 6001320
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così...? Peccato..."
+
+---
+id: 6001321
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ．チョットザンネンデス
+
+---
+id: 6001330
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Anche tu la pensi così, vero?"
+
+---
+id: 6001331
+attribute: 0x6400E10001000002
+---
+ヤッパリソーナンデスネ
+
+---
+id: 6001340
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Anche tu la pensi così, vero?"
+
+---
+id: 6001341
+attribute: 0x6400E10001000001
+---
+ヤッパリソーナンデスネ
+
+---
+id: 6002000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+un miglior amico fantastico."
+
+---
+id: 6002001
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿スゴクナカガイイシンユーダトオモッテイルノデスガ
+
+---
+id: 6002010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+un buon miglior amico."
+
+---
+id: 6002011
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿ケッコーナカガイイシンユーダトオモッテイルノデスガ
+
+---
+id: 6002020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+un miglior amico normale."
+
+---
+id: 6002021
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿フツーニナカガイイシンユーダトオモッテイルノデスガ
+
+---
+id: 6002030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} ed
+io non andiamo molto d'accordo."
+
+---
+id: 6002031
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿チョットアワナイカモトオモッテイルノデスガ
+
+---
+id: 6002040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} ed
+io non andiamo d'accordo."
+
+---
+id: 6002041
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿アワナインジャナイカトオモッテイルノデスガ
+
+---
+id: 6002050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Quanto pensi siamo compatibli
+{{1:1 arg="0x0000"}} ed io?"
+
+---
+id: 6002051
+attribute: 0x6400E10001000002
+---
+ワタシト{{1:1 arg="0x0000"}}ノコトヲ＿ドーオモイマスカ？
+
+---
+id: 6002060
+attribute: 0x6400500001030001
+---
+Perfettamente!
+
+---
+id: 6002070
+attribute: 0x6400500001030001
+---
+Normalmente
+
+---
+id: 6002080
+attribute: 0x6400500001030001
+---
+Per niente
+
+---
+id: 6002100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sì! Deve essere proprio così!"
+
+---
+id: 6002101
+attribute: 0x6400E10001000002
+---
+ヤッパリソーデスヨネ！
+
+---
+id: 6002110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Capisco! Ora sono sollevato."
+
+---
+id: 6002111
+attribute: 0x6400E10001000002
+---
+ソーデスヨネ！アンシンシマシタ
+
+---
+id: 6002120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Probabilmente ci
+avvicineremo di più, vero?"
+
+---
+id: 6002121
+attribute: 0x6400E10001000002
+---
+ソーデスカー．モットナカヨクナレルトイウコトデスネ！
+
+---
+id: 6002130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Mi impegnerò di più per
+far funzionare le cose tra noi."
+
+---
+id: 6002131
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス
+
+---
+id: 6002140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh? È quello che pensi?
+Continuerò a impegnarmi di più."
+
+---
+id: 6002141
+attribute: 0x6400E10001000002
+---
+エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス
+
+---
+id: 6002200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Normale...? È un po' deludente."
+
+---
+id: 6002201
+attribute: 0x6400E10001000002
+---
+フツーデスカ．チョットザンネンデス
+
+---
+id: 6002210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Beh, va bene."
+
+---
+id: 6002211
+attribute: 0x6400E10001000002
+---
+ソーデスカ．マー＿イインデスケド
+
+---
+id: 6002220
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sei d'accordo con me, vero?"
+
+---
+id: 6002221
+attribute: 0x6400E10001000002
+---
+ヤッパリソーデスヨネ
+
+---
+id: 6002230
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così? Probabilmente il nostro
+rapporto migliorerà, vero?"
+
+---
+id: 6002231
+attribute: 0x6400E10001000002
+---
+ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ
+
+---
+id: 6002240
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così? La nostra relazione potrebbe
+non essere così buona come pensi.."
+
+---
+id: 6002241
+attribute: 0x6400E10001000002
+---
+ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ
+
+---
+id: 6002300
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh!? È così...? Capisco..."
+
+---
+id: 6002301
+attribute: 0x6400E10001000002
+---
+エ！ソーデスカ．ワカリマシタ
+
+---
+id: 6002310
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ma penso che andiamo
+d'accordo..."
+
+---
+id: 6002311
+attribute: 0x6400E10001000002
+---
+ジブンデワアウトオモッテイタノデスガ
+
+---
+id: 6002320
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così...? Peccato..."
+
+---
+id: 6002321
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ．チョットザンネンデス
+
+---
+id: 6002330
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così...? Peccato..."
+
+---
+id: 6002331
+attribute: 0x6400E10001000002
+---
+ヤッパリソーナンデスネ
+
+---
+id: 6002340
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Anche tu la pensi così, vero?"
+
+---
+id: 6002341
+attribute: 0x6400E10001000001
+---
+ヤッパリソーナンデスネ
+
+---
+id: 6003000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+un amico fantastico."
+
+---
+id: 6003001
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿スゴクナカガイイトモダチトオモッテイルノデスガ
+
+---
+id: 6003010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+sia un bravo amico."
+
+---
+id: 6003011
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿ケッコーナカガイイトモダチトオモッテイルノデスガ
+
+---
+id: 6003020
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} sia
+un amico normale."
+
+---
+id: 6003021
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿フツーニナカガイイトモダチトオモッテイルノデスガ
+
+---
+id: 6003030
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} ed
+Io non andiamo molto d'accordo."
+
+---
+id: 6003031
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿チョットアワナイカモトオモッテイルノデスガ
+
+---
+id: 6003040
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Penso che {{1:1 arg="0x0000"}} ed
+Io non andiamo d'accordo."
+
+---
+id: 6003041
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}トワ＿アワナインジャナイカトオモッテイルノデスガ
+
+---
+id: 6003050
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Quanto pensi siamo compabili
+{{1:1 arg="0x0000"}} ed io?"
+
+---
+id: 6003051
+attribute: 0x6400E10001000002
+---
+ワタシト{{1:1 arg="0x0000"}}ノコトヲ＿ドーオモイマスカ？
+
+---
+id: 6003060
+attribute: 0x6400500001030001
+---
+Perfettamente!
+
+---
+id: 6003070
+attribute: 0x6400500001030001
+---
+Normalmente
+
+---
+id: 6003080
+attribute: 0x6400500001030001
+---
+Per niente
+
+---
+id: 6003100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sì! Deve essere proprio così!"
+
+---
+id: 6003101
+attribute: 0x6400E10001000002
+---
+ヤッパリソーデスヨネ！
+
+---
+id: 6003110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Capisco! Ora sono sollevato."
+
+---
+id: 6003111
+attribute: 0x6400E10001000002
+---
+ソーデスヨネ！アンシンシマシタ
+
+---
+id: 6003120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Probabilmente ci
+avvicineremo di più, vero?"
+
+---
+id: 6003121
+attribute: 0x6400E10001000002
+---
+ソーデスカー．モットナカヨクナレルトイウコトデスネ！
+
+---
+id: 6003130
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Mi impegnerò di più per
+far funzionare le cose tra noi."
+
+---
+id: 6003131
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ？ソレナラナカヨクシテミヨートオモイマス
+
+---
+id: 6003140
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh? È quello che pensi?
+Continuerò a impegnarmi di più."
+
+---
+id: 6003141
+attribute: 0x6400E10001000002
+---
+エ＿ソーミエマスカ？デワモーチョットドリョクシテミマス
+
+---
+id: 6003200
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Normale...? È un po' deludente."
+
+---
+id: 6003201
+attribute: 0x6400E10001000002
+---
+フツーデスカ．チョットザンネンデス
+
+---
+id: 6003210
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero? Beh, va bene."
+
+---
+id: 6003211
+attribute: 0x6400E10001000002
+---
+ソーデスカ．マー＿イインデスケド
+
+---
+id: 6003220
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Sei d'accordo con me, vero?"
+
+---
+id: 6003221
+attribute: 0x6400E10001000002
+---
+ヤッパリソーデスヨネ
+
+---
+id: 6003230
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così? Probabilmente il nostro
+rapporto migliorerà, vero?"
+
+---
+id: 6003231
+attribute: 0x6400E10001000002
+---
+ソーデスカ．モーチョットナカヨクデキルノカモシレマセンネ
+
+---
+id: 6003240
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così? La nostra relazione potrebbe
+non essere così buona come pensi."
+
+---
+id: 6003241
+attribute: 0x6400E10001000002
+---
+ソーデスカ．ワタシガオモッテイルヨリモ＿アウノカモシレナイッテコトデスネ
+
+---
+id: 6003300
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Eh!? È così...? Capisco..."
+
+---
+id: 6003301
+attribute: 0x6400E10001000002
+---
+エ！ソーデスカ．ワカリマシタ
+
+---
+id: 6003310
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ma penso che andiamo
+d'accordo..."
+
+---
+id: 6003311
+attribute: 0x6400E10001000002
+---
+ジブンデワアウトオモッテイタノデスガ
+
+---
+id: 6003320
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così...? Peccato..."
+
+---
+id: 6003321
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ．チョットザンネンデス
+
+---
+id: 6003330
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Anche tu la pensi così, vero?"
+
+---
+id: 6003331
+attribute: 0x6400E10001000002
+---
+ヤッパリソーナンデスネ
+
+---
+id: 6003340
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Anche tu la pensi così, vero?"
+
+---
+id: 6003341
+attribute: 0x6400E10001000001
+---
+ヤッパリソーナンデスネ
+
+---
+id: 6004000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Non ne so molto su
+{{1:1 arg="0x0000"}}."
+
+---
+id: 6004001
+attribute: 0x6400E10001000002
+---
+{{1:1 arg="0x0000"}}ノコトヲヨクシラナイノデスガ
+
+---
+id: 6004010
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Quanto pensi siamo compatibili
+{{1:1 arg="0x0000"}} ed io?"
+
+---
+id: 6004011
+attribute: 0x6400E10001000002
+---
+ワタシト{{1:1 arg="0x0000"}}トワ＿キガアイソーデスカ？
+
+---
+id: 6004060
+attribute: 0x6400500001030001
+---
+Perfettamente!
+
+---
+id: 6004070
+attribute: 0x6400500001030001
+---
+Normalmente
+
+---
+id: 6004080
+attribute: 0x6400500001030001
+---
+Per niente
+
+---
+id: 6004100
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Davvero!? Ora penso che potremmo
+andare d'accordo."
+
+---
+id: 6004101
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ！チョットキニナッテキマシタ
+
+---
+id: 6004110
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ah, è così? Capisco."
+
+---
+id: 6004111
+attribute: 0x6400E10001000002
+---
+ア＿ソーデスカ．ワカリマシタ
+
+---
+id: 6004120
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"È così...? Che delusione."
+
+---
+id: 6004121
+attribute: 0x6400E10001000002
+---
+ソーナンデスカ．チョットザンネンデス
+
+---
+id: 6005000
+attribute: 0x6400E10001000002
+---
+{{255:0 arg="0x0100"}}"Ho bisogno del tuo aiuto,
+ma ho già dimenticato per cosa."
+
+---
+id: 6005001
+attribute: 0x6400E10001000002
+---
+ソーダンシタイコトガアッタキガスルンデスガ＿ワスレテシマイマシタ                

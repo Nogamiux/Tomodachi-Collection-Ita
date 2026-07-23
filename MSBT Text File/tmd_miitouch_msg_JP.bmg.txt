@@ -1,0 +1,1210 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 8
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+---
+id: 1000100
+attribute: 0x6400500001010101
+---
+Dai
+
+---
+id: 1000200
+attribute: 0x6400E00001010001
+---
+
+
+---
+id: 1000300
+attribute: 0x6400E00001010001
+---
+
+
+---
+id: 1000400
+attribute: 0x6400E00001010001
+---
+
+
+---
+id: 1000500
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000510
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000515
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000520
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000530
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000531
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000532
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000540
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000545
+attribute: 0x6400640001030001
+---
+Nessuno
+
+---
+id: 1000550
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000560
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000565
+attribute: 0x6400640001030001
+---
+？？？
+
+---
+id: 1000570
+attribute: 0x6400640001030001
+---
+
+
+---
+id: 1000600
+attribute: 0x6400960001030001
+---
+Informazioni su {{1:1 arg="0x0000"}} 
+
+---
+id: 1000610
+attribute: 0x6400960001030001
+---
+Informazioni su {{1:1 arg="0x0000"}} 
+
+---
+id: 1000620
+attribute: 0x6400960001030001
+---
+Rapporto
+
+---
+id: 1000650
+attribute: 0x6400960001030001
+---
+(Nessuna Relazione.)
+
+---
+id: 1001010
+attribute: 0x6400640001030001
+---
+Sposo/a
+
+---
+id: 1001020
+attribute: 0x6400640001030001
+---
+Fidanzato/a
+
+---
+id: 1001030
+attribute: 0x6400640001030001
+---
+Miglior amico
+
+---
+id: 1001040
+attribute: 0x6400640001030001
+---
+Amici
+
+---
+id: 1001050
+attribute: 0x6400640001030001
+---
+Sp. in lite
+
+---
+id: 1001060
+attribute: 0x6400640001030001
+---
+Part. in lite
+
+---
+id: 1001070
+attribute: 0x6400640001030001
+---
+Amico in lite
+
+---
+id: 1001080
+attribute: 0x6400640001030001
+---
+Divorziato/a
+
+---
+id: 1001090
+attribute: 0x6400640001030001
+---
+Ex Ragazzo/a
+
+---
+id: 1001100
+attribute: 0x6400640001030001
+---
+Unico al mondo
+
+---
+id: 1001110
+attribute: 0x6400640001030001
+---
+Estr. felice
+
+---
+id: 1001120
+attribute: 0x6400640001030001
+---
+Molto felice
+
+---
+id: 1001130
+attribute: 0x6400640001030001
+---
+Soddisfatto/a
+
+---
+id: 1001140
+attribute: 0x6400640001030001
+---
+Poco felice
+
+---
+id: 1001150
+attribute: 0x6400640001030001
+---
+Un po' scontento
+
+---
+id: 1001160
+attribute: 0x6400640001030001
+---
+Scontento/a
+
+---
+id: 1001200
+attribute: 0x6400640001030001
+---
+Futuri sposi
+
+---
+id: 1001210
+attribute: 0x6400640001030001
+---
+Pazzo d'amore
+
+---
+id: 1001220
+attribute: 0x6400640001030001
+---
+Innamorato/a
+
+---
+id: 1001230
+attribute: 0x6400640001030001
+---
+Amore
+
+---
+id: 1001240
+attribute: 0x6400640001030001
+---
+Simpatico/a
+
+---
+id: 1001250
+attribute: 0x6400640001030001
+---
+Poco felice
+
+---
+id: 1001260
+attribute: 0x6400640001030001
+---
+Infelice
+
+---
+id: 1001300
+attribute: 0x6400640001030001
+---
+Unico al mondo
+
+---
+id: 1001310
+attribute: 0x6400640001030001
+---
+Super fidato
+
+---
+id: 1001320
+attribute: 0x6400640001030001
+---
+Molto fidato
+
+---
+id: 1001330
+attribute: 0x6400640001030001
+---
+Affidabile
+
+---
+id: 1001340
+attribute: 0x6400640001030001
+---
+Quasi fidato
+
+---
+id: 1001350
+attribute: 0x6400640001030001
+---
+Poco fidato
+
+---
+id: 1001360
+attribute: 0x6400640001030001
+---
+Quasi M.Amico
+
+---
+id: 1001400
+attribute: 0x6400640001030001
+---
+Fidato/a
+
+---
+id: 1001410
+attribute: 0x6400640001030001
+---
+Super spasso
+
+---
+id: 1001420
+attribute: 0x6400640001030001
+---
+Molto spasso
+
+---
+id: 1001430
+attribute: 0x6400640001030001
+---
+Divertente
+
+---
+id: 1001440
+attribute: 0x6400640001030001
+---
+Poco spasso
+
+---
+id: 1001450
+attribute: 0x6400640001030001
+---
+Noioso/a
+
+---
+id: 1001460
+attribute: 0x6400640001030001
+---
+Incompatibili
+
+---
+id: 1001500
+attribute: 0x6400640001030001
+---
+L'unico?
+
+---
+id: 1001510
+attribute: 0x6400640001030001
+---
+Super felice?
+
+---
+id: 1001520
+attribute: 0x6400640001030001
+---
+Molto felice?
+
+---
+id: 1001530
+attribute: 0x6400640001030001
+---
+Soddisfatto?
+
+---
+id: 1001540
+attribute: 0x6400640001030001
+---
+Poco felice?
+
+---
+id: 1001550
+attribute: 0x6400640001030001
+---
+Poco scontento?
+
+---
+id: 1001560
+attribute: 0x6400640001030001
+---
+Scontento?
+
+---
+id: 1001600
+attribute: 0x6400640001030001
+---
+Futuri sposi?
+
+---
+id: 1001610
+attribute: 0x6400640001030001
+---
+Pazzo d'amore?
+
+---
+id: 1001620
+attribute: 0x6400640001030001
+---
+Innamorato?
+
+---
+id: 1001630
+attribute: 0x6400640001030001
+---
+Amore?
+
+---
+id: 1001640
+attribute: 0x6400640001030001
+---
+Simpatico?
+
+---
+id: 1001650
+attribute: 0x6400640001030001
+---
+Poco felice?
+
+---
+id: 1001660
+attribute: 0x6400640001030001
+---
+Infelice?
+
+---
+id: 1001700
+attribute: 0x6400640001030001
+---
+Affidabile?
+
+---
+id: 1001710
+attribute: 0x6400640001030001
+---
+Super spasso?
+
+---
+id: 1001720
+attribute: 0x6400640001030001
+---
+Molto spasso?
+
+---
+id: 1001730
+attribute: 0x6400640001030001
+---
+Divertente?
+
+---
+id: 1001740
+attribute: 0x6400640001030001
+---
+Poco spasso?
+
+---
+id: 1001750
+attribute: 0x6400640001030001
+---
+Noioso?
+
+---
+id: 1001760
+attribute: 0x6400640001030001
+---
+Ostili?
+
+---
+id: 1001800
+attribute: 0x6400640001030001
+---
+Solo amici
+
+---
+id: 1001810
+attribute: 0x6400640001030001
+---
+Bei ricordi
+
+---
+id: 1001820
+attribute: 0x6400640001030001
+---
+Ferite guarite
+
+---
+id: 1001830
+attribute: 0x6400640001030001
+---
+Triste
+
+---
+id: 1001840
+attribute: 0x6400640001030001
+---
+Doloroso/a
+
+---
+id: 1001850
+attribute: 0x6400640001030001
+---
+Da scordare
+
+---
+id: 1001860
+attribute: 0x6400640001030001
+---
+Mai più!
+
+---
+id: 1001900
+attribute: 0x6400640001030001
+---
+Solo amici
+
+---
+id: 1001910
+attribute: 0x6400640001030001
+---
+Bei ricordi
+
+---
+id: 1001920
+attribute: 0x6400640001030001
+---
+Ferite guarite
+
+---
+id: 1001930
+attribute: 0x6400640001030001
+---
+Triste
+
+---
+id: 1001940
+attribute: 0x6400640001030001
+---
+Doloroso/a
+
+---
+id: 1001950
+attribute: 0x6400640001030001
+---
+Da scordare
+
+---
+id: 1001960
+attribute: 0x6400640001030001
+---
+Mai più!
+
+---
+id: 1300100
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1300200
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1300300
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1300400
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1300700
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1300750
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1300770
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1300800
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1300850
+attribute: 0x6400E10001030007
+---
+{{255:0 arg="0x0100"}}"Ciao! Sono {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}}.
+Eh? Tu ed io ci somigliamo così tanto!"
+
+---
+id: 1300851
+attribute: 0x6400E10001030007
+---
+ハジメマシテ＿{{1:1 arg="0x0000"}}デス.アレ？アナタ＿ワタシニニテイマスネ！
+
+---
+id: 1300900
+attribute: 0x6400B40001010007
+---
+Visitando la stanze, tu e il tuo
+alter ego potete comunicare.
+Tocca l'icona
+e vedi che succede.
+
+---
+id: 1301100
+attribute: 0x6400E10001030007
+---
+{{255:0 arg="0x0100"}}"mi sento solo a vivere qui da solo.
+Voglio compagnia..."
+
+---
+id: 1301101
+attribute: 0x6400E10001030007
+---
+コノシマニヒトリボッチワサビシイデス.ホカニダレカガイタライイノニ
+
+---
+id: 1301200
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} prova a creare
+degli amici. magari 
+persone che conosci
+
+
+---
+id: 1301300
+attribute: 0x6400E10001030007
+---
+{{255:0 arg="0x0100"}}"{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0100"}} si è trasferito
+in quest'isola!"
+
+---
+id: 1301301
+attribute: 0x6400E10001030007
+---
+{{1:1 arg="0x0000"}}トユーヒトガ＿コノマンションニヒッコシテキタヨーデス！
+
+---
+id: 1301350
+attribute: 0x6400E10001030007
+---
+{{255:0 arg="0x0100"}}"Vado a Fargli Visita."
+
+---
+id: 1301351
+attribute: 0x6400E10001030007
+---
+サッソクアイサツニイッテキマス
+
+---
+id: 1301400
+attribute: 0x6400B40001010007
+---
+Quando risolvi dei {{255:0 arg="0x0200"}}Problemi{{255:0 arg="0x0800"}}
+Ad un mii {{255:0 arg="0x0200"}}Il Livello{{255:0 arg="0x0800"}} 
+Salirà e potrai Fare
+Regali ai Mii
+
+---
+id: 1301500
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301600
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301610
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301620
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301650
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301700
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301800
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1301900
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} Vuole
+Mangiare qualcosa
+Cosa fai?
+
+---
+id: 1302300
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302400
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302450
+attribute: 0x6400E10001030001
+---
+{{255:0 arg="0x0100"}}"Sto morendo dalla fame."
+
+---
+id: 1302451
+attribute: 0x6400E10001030001
+---
+モー＿オナカガペコペコデス
+
+---
+id: 1302470
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}l'icona del regalo{{255:0 arg="0x0800"}} ora aggiunta.
+Serve a dare qualcosa al tuo Mii.
+Prova a toccare l'icona.
+
+---
+id: 1302500
+attribute: 0x6400B40001010007
+---
+Prendi il cibo e dallo
+a {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
+
+---
+id: 1302600
+attribute: 0x6400B40001010007
+---
+Il livello del mii e salito?
+Salirà In Base Al Suo Carattere
+e Ad i Suoi Gusti
+Non Dimenticarlo.
+
+---
+id: 1302620
+attribute: 0x6400B40001010007
+---
+Dopo che il livello sale
+il tuo {{255:0 arg="0x0200"}}Capitale{{255:0 arg="0x0800"}}
+Aumenterà.
+
+---
+id: 1302640
+attribute: 0x6400B40001010007
+---
+Ricerai Dei Soldi Che Potrai
+Usare Per Comprare Qualsiasi Cosa
+E Per Ogni Mii Salirà
+Il Livello Di Felcità
+.
+
+---
+id: 1302700
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302800
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1302900
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1303000
+attribute: 0x6400B40001010007
+---
+
+
+---
+id: 1304000
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}L'Icona Dei Vestiti{{255:0 arg="0x0800"}}
+E Stata Aggiunta Ora Puoi
+Vestire i Tuoi Mii!
+Comprali Al Negozio e 
+Personalizza Al Meglio
+i Tuoi Mii.
+
+---
+id: 1304100
+attribute: 0x6400B40001010007
+---
+Congratulazioni!
+{{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} è Davvero
+Soddisfatto Il Suo Livello
+è Salito!
+
+---
+id: 1304200
+attribute: 0x6400B40001010007
+---
+Quando Il Livello Del Mii
+Sale Potrai Regalargli 
+Un Oggetto, Una Frase, 
+Una Canzone, e Altro!
+
+---
+id: 1304250
+attribute: 0x6400B40001010007
+---
+Puoi dare una canzone
+al tuo mii e modificarla
+come preferisci e nello 
+stile che vuoi!
+
+---
+id: 1304300
+attribute: 0x6400B40001010001
+---
+Che regalo fai?
+
+---
+id: 1304400
+attribute: 0x6400400001010101
+---
+Canzoni
+
+---
+id: 1304410
+attribute: 0x6400400001010101
+---
+Oggetti
+
+---
+id: 1304420
+attribute: 0x6400400001010101
+---
+Arreda...
+
+---
+id: 1304430
+attribute: 0x6400400001010101
+---
+Motto
+
+---
+id: 1304500
+attribute: 0x6400B40001010001
+---
+Che genere di canzone?
+
+---
+id: 1304600
+attribute: 0x6400400001010101
+---
+Enka
+
+---
+id: 1304610
+attribute: 0x6400400001010101
+---
+Rap
+
+---
+id: 1304620
+attribute: 0x6400400001010101
+---
+Ballata
+
+---
+id: 1304630
+attribute: 0x6400400001010101
+---
+Rock
+
+---
+id: 1304640
+attribute: 0x6400400001010101
+---
+J-Pop
+
+---
+id: 1304650
+attribute: 0x6400400001010101
+---
+Idol
+
+---
+id: 1304700
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0100"}}Hai imparato {{255:0 arg="0x0400"}}Enka{{255:0 arg="0x0100"}}
+
+---
+id: 1304710
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0100"}}Hai imparato {{255:0 arg="0x0400"}}Rap{{255:0 arg="0x0100"}}
+
+---
+id: 1304720
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0100"}}Hai imparato {{255:0 arg="0x0400"}}Ballata{{255:0 arg="0x0100"}}
+
+---
+id: 1304730
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0100"}}Hai imparato {{255:0 arg="0x0400"}}Rock{{255:0 arg="0x0100"}}
+
+---
+id: 1304740
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0100"}}Hai imparato {{255:0 arg="0x0400"}}J-Pop{{255:0 arg="0x0100"}}
+
+---
+id: 1304750
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0100"}}Hai imparato {{255:0 arg="0x0400"}}Idol{{255:0 arg="0x0100"}}
+
+---
+id: 1304800
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}L'icona Musicale{{255:0 arg="0x0800"}} e stata
+aggiunta! {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}} ora 
+Può Cantare!
+
+---
+id: 1304900
+attribute: 0x6400B40001010001
+---
+Che Oggetto?
+
+---
+id: 1305000
+attribute: 0x6400400001010101
+---
+Wii
+
+---
+id: 1305010
+attribute: 0x6400400001010101
+---
+DS
+
+---
+id: 1305020
+attribute: 0x6400400001010101
+---
+Spolveri.
+
+---
+id: 1305030
+attribute: 0x6400580001010101
+---
+Notebook
+
+---
+id: 1305040
+attribute: 0x6400400001010101
+---
+Quaderno
+
+---
+id: 1305050
+attribute: 0x6400400001010101
+---
+Romanzo
+
+---
+id: 1305060
+attribute: 0x6400400001010101
+---
+Cellulare
+
+---
+id: 1305070
+attribute: 0x6400400001010101
+---
+CD
+
+---
+id: 1305100
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai Dato {{255:0 arg="0x0400"}}Wii{{255:0 arg="0x0100"}}!
+
+---
+id: 1305110
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai Dato {{255:0 arg="0x0400"}}DS{{255:0 arg="0x0100"}}!
+
+---
+id: 1305120
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai Dato {{255:0 arg="0x0400"}}Spolverino{{255:0 arg="0x0100"}}!
+
+---
+id: 1305130
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai Dato {{255:0 arg="0x0400"}}Notebook{{255:0 arg="0x0100"}}!
+
+---
+id: 1305140
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai Dato {{255:0 arg="0x0400"}}Quaderno{{255:0 arg="0x0100"}}!
+
+---
+id: 1305150
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai Dato {{255:0 arg="0x0400"}}Romanzo{{255:0 arg="0x0100"}}!
+
+---
+id: 1305160
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai Dato {{255:0 arg="0x0400"}}Cellulare{{255:0 arg="0x0100"}}!
+
+---
+id: 1305170
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai Dato {{255:0 arg="0x0400"}}CD{{255:0 arg="0x0100"}}!
+
+---
+id: 1305200
+attribute: 0x6400B40001010007
+---
+I Mii possono utilizzare gli
+oggetti che gli dai.
+Lascia che i Mii si godano
+la vita donando loro più oggetti!
+
+---
+id: 1305250
+attribute: 0x6400B40001010007
+---
+Puoi cambiare l'atmosfera della
+stanza dando al Mii un nuovo
+appartamento. Prova a trovare
+ un interno che si abbini al tuo Mii!
+
+---
+id: 1305300
+attribute: 0x6400B40001010001
+---
+Che appartamento?
+
+---
+id: 1305350
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai dato un {{255:0 arg="0x0400"}}Nuovo appartamento{{255:0 arg="0x0100"}}
+come regalo!
+
+---
+id: 1305400
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}l'icona degli appartamenti{{255:0 arg="0x0800"}}
+è stata aggiunta. puoi cambiare
+lo stile dell'appartamento,
+tra quelli che hai regalato al mii.
+
+---
+id: 1305500
+attribute: 0x6400E00001010001
+---
+{{255:0 arg="0x0100"}}Hai dato una {{255:0 arg="0x0400"}}Frase{{255:0 arg="0x0100"}} come regalo
+
+---
+id: 1305600
+attribute: 0x6400B40001010007
+---
+Se si fa in modo che un Mii
+ricordi una frase, continuerà
+a dirla molto spesso.
+
+---
+id: 1305700
+attribute: 0x6400B40001010007
+---
+{{255:0 arg="0x0200"}}l'icona frasi{{255:0 arg="0x0800"}}
+è stata aggiunta. Da li puoi
+modificare tutte le frasi che 
+hai insegnato al mii.
+
+---
+id: 1306000
+attribute: 0x6400B40001010007
+---
+Puoi anche regalare un
+{{255:0 arg="0x0200"}}oggetto{{255:0 arg="0x0800"}} pratico.
+A volte questi oggetti
+sono davvero necessari!
+
+---
+id: 1306100
+attribute: 0x6400B40001010007
+---
+Colleziona più {{255:0 arg="0x0200"}}oggetti{{255:0 arg="0x0800"}}
+possibili! Verranno mostrati
+nell'album al municipio.
+Puoi venderli al Banco dei
+Pegni quando è aperto.
+(Gli oggetti venduti restano nell'album.)
+
+---
+id: 1310000
+attribute: 0x6400E00001010001
+---
+Inserisci una frase detta di frequente.
+
+---
+id: 1310100
+attribute: 0x6400E00001010001
+---
+Inserisci una frase quando il Mii è felice.
+
+---
+id: 1310200
+attribute: 0x6400E00001010001
+---
+Inserisci una frase quando il Mii è arrabbiato.
+
+---
+id: 1310300
+attribute: 0x6400E00001010001
+---
+Inserisci una frase quando il Mii è triste
+
+---
+id: 1310400
+attribute: 0x6400E00001010001
+---
+Inserisci una frase quando il Mii ha una domanda.
+
+---
+id: 1311000
+attribute: 0x6400E00001010001
+---
+Armadio di {{1:1 arg="0x0000"}}.

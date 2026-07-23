@@ -1,0 +1,4260 @@
+﻿%%%
+bigEndian: false
+bigEndianLabels: false
+encoding: utf-16
+fileId: 0
+defaultColor: 0
+hasMID1: true
+MID1Format: 0x1000
+hasSTR1: false
+hasFLW1: false
+%%%
+
+---
+id: 0
+attribute: 0x6400A00001030002
+---
+Gelato rinfrescante alla
+fragola in un cono!
+
+---
+id: 1
+attribute: 0x6400A00001030002
+---
+Bevanda vegetale nutriente
+fatta per la tua salute.
+
+---
+id: 2
+attribute: 0x6400A00001030002
+---
+A base di mele croccanti
+e cannella.
+
+---
+id: 3
+attribute: 0x6400A00001030002
+---
+Salmone intero appena grigliato.
+
+---
+id: 4
+attribute: 0x6400A00001030002
+---
+Panino dolce ripieno di
+crema di fagioli rossi.
+
+---
+id: 5
+attribute: 0x6400A00001030002
+---
+Ricco di Vitamina C
+per la tua bellezza.
+
+---
+id: 6
+attribute: 0x6400A00001030002
+---
+Riso morbido farcito
+con tofu fritto succoso.
+
+---
+id: 7
+attribute: 0x6400A00001030002
+---
+Anguilla tenera alla griglia
+per ricaricare le energie.
+
+---
+id: 8
+attribute: 0x6400A00001030002
+---
+Una dolcezza nascosta
+nella sua polpa aspra.
+
+---
+id: 9
+attribute: 0x6400A00001030002
+---
+Una sola bottiglia basta a
+scacciare la stanchezza.
+
+---
+id: 10
+attribute: 0x6400A00001030002
+---
+Tanti gamberetti teneri.
+Perfetto per il pranzo!
+
+---
+id: 11
+attribute: 0x6400A00001030002
+---
+Gamberetti fritti croccanti
+da intingere nella salsa.
+
+---
+id: 12
+attribute: 0x6400A00001030002
+---
+Il preferito dei bambini!
+Piace anche agli adulti.
+
+---
+id: 13
+attribute: 0x6400A00001030002
+---
+Frittella saporita con maiale,
+calamari e gamberetti!
+
+---
+id: 14
+attribute: 0x6400A00001030002
+---
+Sashimi fresco assortito
+(pesce crudo.)
+
+---
+id: 15
+attribute: 0x6400A00001030002
+---
+Cibo giapponese di alta qualità
+per festeggiare il Capodanno.
+
+---
+id: 16
+attribute: 0x6400A00001030002
+---
+A base di foglie di tè
+di alta qualità. Rinfrescante.
+
+---
+id: 17
+attribute: 0x6400A00001030002
+---
+Questa zuppa di riso calda
+è buona e facile da digerire.
+
+---
+id: 18
+attribute: 0x6400A00001030002
+---
+Questo stufato misto caldo
+ti scalderà nelle notti fredde.
+
+---
+id: 19
+attribute: 0x6400A00001030002
+---
+Scopri cosa c'è dentro
+questo onigiri a sorpresa.
+
+---
+id: 20
+attribute: 0x6400A00001030002
+---
+Uova fritte con ripieno di
+carne macinata e cipolla.
+
+---
+id: 21
+attribute: 0x6400A00001030002
+---
+Questo mochi giapponese
+è buonissimo grigliato.
+
+---
+id: 22
+attribute: 0x6400A00001030002
+---
+Uovo sodo e pollo
+servito su riso bianco.
+
+---
+id: 23
+attribute: 0x6400A00001030002
+---
+Succo di frutta 100%. Ottima
+fonte di Vitamina C.
+
+---
+id: 24
+attribute: 0x6400A00001030002
+---
+Dolce e cremoso, sapore
+nostagico dell'autunno...
+
+---
+id: 25
+attribute: 0x6400A00001030002
+---
+Prova questo granita alla
+fragola questa estate!
+
+---
+id: 26
+attribute: 0x6400A00001030002
+---
+Soffice pan di spagna umido
+con zucchero di canna sul fondo.
+
+---
+id: 27
+attribute: 0x6400A00001030002
+---
+Cioccolato agrodolce miscelato
+con panna fresca.
+
+---
+id: 28
+attribute: 0x6400A00001030002
+---
+Uno grande tutto per te
+per un pasto di lusso.
+
+---
+id: 29
+attribute: 0x6400A00001030002
+---
+Era una fetta di pane bianco.
+Troppo pericoloso da mangiare.
+
+---
+id: 30
+attribute: 0x6400A00001030002
+---
+Masticalo quando ti senti
+assonnato o di cattivo umore...
+
+---
+id: 31
+attribute: 0x6400A00001030002
+---
+Pollo fritto croccante
+stile giapponese.
+
+---
+id: 32
+attribute: 0x6400A00001030002
+---
+Pasta al dente con uovo
+e panna.
+
+---
+id: 33
+attribute: 0x6400A00001030002
+---
+Il curry con riso amato
+da tutti!
+
+---
+id: 34
+attribute: 0x6400A00001030002
+---
+Quiche con spinaci e pancetta.
+Perfetta per un pasto leggero.
+
+---
+id: 35
+attribute: 0x6400A00001030002
+---
+Zuppa di noodle calda e dolce
+con tofu fritto.
+
+---
+id: 36
+attribute: 0x6400A00001030002
+---
+Cibo sano a basso contenuto
+calorico.
+
+---
+id: 37
+attribute: 0x6400A00001030002
+---
+Per chi ama il piccante.
+Ha un sapore autentico.
+
+---
+id: 38
+attribute: 0x6400A00001030002
+---
+Una prelibatezza di scelta.
+Provala almeno una volta!
+
+---
+id: 39
+attribute: 0x6400A00001030002
+---
+Una ciotola di manzo con riso
+condito con manzo e cipolla.
+
+---
+id: 40
+attribute: 0x6400A00001030002
+---
+Alimento molto nutriente
+per il pranzo scolastico.
+
+---
+id: 41
+attribute: 0x6400A00001030002
+---
+Gyoza fritti croccanti
+con ripieno di carne succoso!
+
+---
+id: 42
+attribute: 0x6400A00001030002
+---
+Era del latte molto nutriente.
+Troppo pericoloso da bere.
+
+---
+id: 43
+attribute: 0x6400A00001030002
+---
+Biscotto dolce e croccante
+con un profumo irresistibile.
+
+---
+id: 44
+attribute: 0x6400A00001030002
+---
+Perfetto per uno spuntino,
+con tanti gusti da provare.
+
+---
+id: 45
+attribute: 0x6400A00001030002
+---
+Gratin con salsa bianca
+e formaggio grattugiato sopra.
+
+---
+id: 46
+attribute: 0x6400A00001030002
+---
+Stufato cremoso cotto
+a fuoco lento per scaldarti.
+
+---
+id: 47
+attribute: 0x6400A00001030002
+---
+Con abbondante ripieno
+di panna fresca!
+
+---
+id: 48
+attribute: 0x6400A00001030002
+---
+Goditi il suo aroma fresco
+e la polpa succosa!
+
+---
+id: 49
+attribute: 0x6400A00001030002
+---
+Un croissant croccante con
+tanti strati di sfoglia soffice.
+
+---
+id: 50
+attribute: 0x6400A00001030002
+---
+Gustalo in una pausa.
+Tempo di rilassarsi~
+
+---
+id: 51
+attribute: 0x6400A00001030002
+---
+Il profumo si diffonde
+nell'aria. Ne prendi una tazza?
+
+---
+id: 52
+attribute: 0x6400A00001030002
+---
+Zuppa di mais calda e cremosa
+con sapore delicato.
+
+---
+id: 53
+attribute: 0x6400A00001030002
+---
+Riso appena cucinato.
+È caldo e buonissimo.
+
+---
+id: 54
+attribute: 0x6400A00001030002
+---
+Classica crocchetta con patate
+e carne macinata.
+
+---
+id: 55
+attribute: 0x6400A00001030002
+---
+Pranzo al sacco pieno di cibo
+per saziarti.
+
+---
+id: 56
+attribute: 0x6400A00001030002
+---
+Ciliegie fresche e dolci
+con colore brillante.
+
+---
+id: 57
+attribute: 0x6400A00001030002
+---
+Ti piacerà! È fornito di
+uno stuzzicadenti per comodità.
+
+---
+id: 58
+attribute: 0x6400A00001030002
+---
+Insalata fresca e croccante
+con tante verdure!
+
+---
+id: 59
+attribute: 0x6400A00001030002
+---
+Soba fredda perfetta
+per una notte estiva!
+
+---
+id: 60
+attribute: 0x6400A00001030002
+---
+Meglio mangiarlo durante
+la fioritura dei ciliegi.
+
+---
+id: 61
+attribute: 0x6400A00001030002
+---
+Sandwich con prosciutto
+e cetriolo, per colazione.
+
+---
+id: 62
+attribute: 0x6400A00001030002
+---
+Sgombro alla griglia. Secondo
+piatto giapponese molto comune.
+
+---
+id: 63
+attribute: 0x6400A00001030002
+---
+Patata al forno con burro sopra.
+Mangiala finché è ancora calda.
+
+---
+id: 64
+attribute: 0x6400A00001030002
+---
+Ti renderà felice con la
+crosta croccante e la crema.
+
+---
+id: 65
+attribute: 0x6400A00001030002
+---
+Appena cotto a vapore. Provalo
+con senape e salsa di soia.
+
+---
+id: 66
+attribute: 0x6400A00001030002
+---
+Fragole fresche e panna
+ti fanno venire l'acquolina.
+
+---
+id: 67
+attribute: 0x6400A00001030002
+---
+Ottimo per la colazione. Metti
+alcune fette nel tostapane.
+
+---
+id: 68
+attribute: 0x6400A00001030002
+---
+Fresco e succoso con dolcezza
+naturale.
+
+---
+id: 69
+attribute: 0x6400A00001030002
+---
+Polpa succosa e dolce. Quanti
+ne riesci a mangiare in estate?
+
+---
+id: 70
+attribute: 0x6400A00001030002
+---
+Ottimo da bere quando hai
+moltissima sete.
+
+---
+id: 71
+attribute: 0x6400A00001030002
+---
+Zuppa dolce e salata
+con carne deliziosa!
+
+---
+id: 72
+attribute: 0x6400A00001030002
+---
+Ovviamente, è di prima classe
+con il lussuoso tonno grasso.
+
+---
+id: 73
+attribute: 0x6400A00001030002
+---
+Carne tenera e succosa,
+cucinata come preferisci.
+
+---
+id: 74
+attribute: 0x6400A00001030002
+---
+Maiale agrodolce con tante
+verdure.
+
+---
+id: 75
+attribute: 0x6400A00001030002
+---
+Deliziosa zuppa di fagioli rossi
+(zenzai.)
+
+---
+id: 76
+attribute: 0x6400A00001030002
+---
+Salsiccia ricca di carne
+succosa.
+
+---
+id: 77
+attribute: 0x6400A00001030002
+---
+Gelato alla vaniglia
+e cioccolato, servito in cono.
+
+---
+id: 78
+attribute: 0x6400A00001030002
+---
+Orata viva. (Ikizukuri)
+Questo si chiama lusso!
+
+---
+id: 79
+attribute: 0x6400A00001030002
+---
+Appena sfornato, con tanta
+crema di fagioli rossi.
+
+---
+id: 80
+attribute: 0x6400A00001030002
+---
+Salsa piccante e spezie
+ti daranno la carica!
+
+---
+id: 81
+attribute: 0x6400A00001030002
+---
+Con grossi pezzi di polpo.
+Attenzione, è caldo.
+
+---
+id: 82
+attribute: 0x6400A00001030002
+---
+Uovo alla griglia soffice.
+Contorno preferito da tutti.
+
+---
+id: 83
+attribute: 0x6400A00001030002
+---
+Puoi guardarlo attraverso
+il buco, ma è meglio mangiarlo.
+
+---
+id: 84
+attribute: 0x6400A00001030002
+---
+Classico riso fritto con tanto
+uovo e cipollotto.
+
+---
+id: 85
+attribute: 0x6400A00001030002
+---
+Grosso stufato tipicamente
+mangiato dai lottatori di sumo.
+
+---
+id: 86
+attribute: 0x6400A00001030002
+---
+Una bella ricompensa quando sei
+stanco. È dolce e buono~
+
+---
+id: 87
+attribute: 0x6400A00001030002
+---
+Irresistibile parfait
+al cioccolato per golosi.
+
+---
+id: 88
+attribute: 0x6400A00001030002
+---
+Molto croccante e gustoso. Prova
+anche la tempura di melanzane.
+
+---
+id: 89
+attribute: 0x6400A00001030002
+---
+Fai attenzione. È
+extremamente piccante!
+
+---
+id: 90
+attribute: 0x6400A00001030002
+---
+Tofu freddo semplice.
+Buono con salsa di soia.
+
+---
+id: 91
+attribute: 0x6400A00001030002
+---
+Mais appena bollito.
+Una volta assaggiato, non
+riesci a smettere.
+
+---
+id: 92
+attribute: 0x6400A00001030002
+---
+È dolce e buono.
+Chi si preoccupa delle calorie!?
+
+---
+id: 93
+attribute: 0x6400A00001030002
+---
+Pasta morbida con crema
+di fagioli, dolce al giusto.
+
+---
+id: 94
+attribute: 0x6400A00001030002
+---
+È conosciuto come cibo sano.
+È però molto appiccicoso.
+
+---
+id: 95
+attribute: 0x6400A00001030002
+---
+Panino caldo con carne
+e germogli di bambù, ti scalda.
+
+---
+id: 96
+attribute: 0x6400A00001030002
+---
+Gustalo come spuntino
+pomeridiano o quando vuoi.
+
+---
+id: 97
+attribute: 0x6400A00001030002
+---
+È solo una buccia di banana.
+Chi ha mangiato la banana?
+
+---
+id: 98
+attribute: 0x6400A00001030002
+---
+Involtino primavera fritto,
+croccante e con carne dentro.
+
+---
+id: 99
+attribute: 0x6400A00001030002
+---
+Ciò che lo rende speciale sono
+i panini e la maionese!
+
+---
+id: 100
+attribute: 0x6400A00001030002
+---
+Hamburger di carne;
+il menù preferito da tutti!
+
+---
+id: 101
+attribute: 0x6400A00001030002
+---
+Appena sfornato con formaggio
+e tanto salame sopra.
+
+---
+id: 102
+attribute: 0x6400A00001030002
+---
+Spuntino pomeridiano?
+Prova questo biscotto croccante.
+
+---
+id: 103
+attribute: 0x6400A00001030002
+---
+Uva grande, dolce e succosa.
+
+---
+id: 104
+attribute: 0x6400A00001030002
+---
+Le patatine fritte salate
+prefette da tutti.
+
+---
+id: 105
+attribute: 0x6400A00001030002
+---
+A base di tuorlo d'uovo fresco
+e latte.
+
+---
+id: 106
+attribute: 0x6400A00001030002
+---
+Potresti diventare dipendente
+dal suo odore unico.
+
+---
+id: 107
+attribute: 0x6400A00001030002
+---
+Toast inzuppato in uovo e miele.
+Buono per colazione o spuntino.
+
+---
+id: 108
+attribute: 0x6400A00001030002
+---
+Un leccalecca gigante. Continua
+a leccare finché non finisce.
+
+---
+id: 109
+attribute: 0x6400A00001030002
+---
+Una volta iniziato, puoi
+finire tutto il sacchetto.
+
+---
+id: 110
+attribute: 0x6400A00001030002
+---
+Pollo grigliato saporito con
+tante erbe aromatiche.
+
+---
+id: 111
+attribute: 0x6400A00001030002
+---
+Un piatto tannico e piccante,
+buono anche col riso bianco.
+
+---
+id: 112
+attribute: 0x6400A00001030002
+---
+Noci di macadamia salate
+irresistibili.
+
+---
+id: 113
+attribute: 0x6400A00001030002
+---
+Il fungo di prima classe con
+un meraviglioso sapore unico.
+
+---
+id: 114
+attribute: 0x6400A00001030002
+---
+Che tu sia bambino o adulto,
+te ne innamorerai!
+
+---
+id: 115
+attribute: 0x6400A00001030002
+---
+Sarà dolce o acido? Devi
+assaggiarlo per saperlo.
+
+---
+id: 116
+attribute: 0x6400A00001030002
+---
+Non puoi perderlo quando
+mangi cibo giapponese.
+
+---
+id: 117
+attribute: 0x6400A00001030002
+---
+Una delle colazioni
+più semplici da fare.
+
+---
+id: 118
+attribute: 0x6400A00001030002
+---
+Uova di pesce marinate,
+non troppo piccanti col riso.
+
+---
+id: 119
+attribute: 0x6400A00001030002
+---
+La sua polpa rosa è morbida,
+succosa e dolce.
+
+---
+id: 120
+attribute: 0x6400A00001030002
+---
+È pieno del dolce naturale
+della stagione autunnale.
+
+---
+id: 121
+attribute: 0x6400A00001030002
+---
+Ha il sapore dei noodles fritti
+casalinghi della mamma.
+
+---
+id: 122
+attribute: 0x6400A00001030002
+---
+Melanzana grigliata semplice
+con salsa ponzu.
+
+---
+id: 123
+attribute: 0x6400A00001030002
+---
+È buono sia con che
+senza sale.
+
+---
+id: 124
+attribute: 0x6400A00001030002
+---
+Prova questa gelatina morbida
+e dolce con del tè caldo.
+
+---
+id: 125
+attribute: 0x6400A00001030002
+---
+Sapore di salsa di soia. Buono
+per un pasto veloce notturno.
+
+---
+id: 126
+attribute: 0x6400A00001030002
+---
+Mordilo o taglialo a forma di
+coniglio prima di mangiarlo.
+
+---
+id: 127
+attribute: 0x6400A00001030002
+---
+Non fare il difficile col cibo.
+Questo fa bene alla salute!
+
+---
+id: 128
+attribute: 0x6400A00001030002
+---
+Ferro da stiro senza filo
+con funzione vapore.
+
+---
+id: 129
+attribute: 0x6400A00001030002
+---
+Una fotocamera reflex
+standard.
+
+---
+id: 130
+attribute: 0x6400A00001030002
+---
+Un peluche soffice e carino
+che ti dà serenità.
+
+---
+id: 131
+attribute: 0x6400A00001030002
+---
+In estate è bello portare
+un ventaglio per rinfrescarsi.
+
+---
+id: 132
+attribute: 0x6400A00001030002
+---
+Un orologio da polso
+di lusso alla moda.
+
+---
+id: 133
+attribute: 0x6400A00001030002
+---
+Un'ocarina blu bellissima
+che produce suoni cristallini.
+
+---
+id: 134
+attribute: 0x6400A00001030002
+---
+Ciuccio azzurro carino
+per calmare un bambino.
+
+---
+id: 135
+attribute: 0x6400A00001030002
+---
+Un amuleto vivace con filo d'oro
+per dare pace interiore.
+
+---
+id: 136
+attribute: 0x6400A00001030002
+---
+Una gru di origami comune.
+È molto ordinata.
+
+---
+id: 137
+attribute: 0x6400A00001030002
+---
+Carica la chiave e potrai
+ascoltare una bella melodia.
+
+---
+id: 138
+attribute: 0x6400A00001030002
+---
+Castagnette carine
+in due colori, rosso e blu.
+
+---
+id: 139
+attribute: 0x6400A00001030002
+---
+Questo piccolo robot combatte
+gli invasori del male!
+
+---
+id: 140
+attribute: 0x6400A00001030002
+---
+Bellissima scultura in vetro
+di un cigno.
+
+---
+id: 141
+attribute: 0x6400A00001030002
+---
+Uno straccio molto sporco.
+Probabilmente non serve a nulla.
+
+---
+id: 142
+attribute: 0x6400A00001030002
+---
+Un francobollo commemorativo
+con design originale.
+
+---
+id: 143
+attribute: 0x6400A00001030002
+---
+Un solido orso intagliato
+molto dettagliato dell'Hokkaido.
+
+---
+id: 144
+attribute: 0x6400A00001030002
+---
+Una splendida girobussola
+commomorativa.
+
+---
+id: 145
+attribute: 0x6400A00001030002
+---
+Congratulazioni per aver
+vinto il primo premio!
+
+---
+id: 146
+attribute: 0x6400A00001030002
+---
+È sporco e puzzolente.
+Non cercare di annusarlo.
+
+---
+id: 147
+attribute: 0x6400A00001030002
+---
+Un orsacchiotto bianco
+soffice e carino.
+
+---
+id: 148
+attribute: 0x6400A00001030002
+---
+Realizzato con un bellissimo
+diamante taglio brillante.
+
+---
+id: 149
+attribute: 0x6400A00001030002
+---
+Può essere usato sia da uomini
+che da donne.
+
+---
+id: 150
+attribute: 0x6400A00001030002
+---
+Sta sempre fermo e silenzioso.
+
+---
+id: 151
+attribute: 0x6400A00001030002
+---
+Si estende molto bene
+ed è molto resistente.
+
+---
+id: 152
+attribute: 0x6400A00001030002
+---
+Sembra prezioso ma nessuno
+sa di chi sia l'autografo.
+
+---
+id: 153
+attribute: 0x6400A00001030002
+---
+Un classico pallone
+bianco e nero da calcio.
+
+---
+id: 154
+attribute: 0x6400A00001030002
+---
+Nonostante le spine,
+è molto carino e piccolo.
+
+---
+id: 155
+attribute: 0x6400A00001030002
+---
+Un'arma ninja da lancio.
+Bello nel colore nero.
+
+---
+id: 156
+attribute: 0x6400A00001030002
+---
+Un oggetto che emana
+un'aura misteriosa.
+
+---
+id: 157
+attribute: 0x6400A00001030002
+---
+Per le persone moderne stanche,
+ha un effetto rigenerante.
+
+---
+id: 158
+attribute: 0x6400A00001030002
+---
+Puoi sempre vedere la neve
+in questo globo. Romantico♪
+
+---
+id: 159
+attribute: 0x6400A00001030002
+---
+Un ricordo delle vacanze
+estive.
+
+---
+id: 160
+attribute: 0x6400A00001030002
+---
+Contiene un tenue ricordo
+d'amore. Fa parte della vita.
+
+---
+id: 161
+attribute: 0x6400A00001030002
+---
+Set di asciugamani soffici
+di alta qualità in due colori.
+
+---
+id: 162
+attribute: 0x6400A00001030002
+---
+Sembra essere un cimelio
+molto prezioso.
+
+---
+id: 163
+attribute: 0x6400A00001030002
+---
+Un bellissimo globo azzurro
+molto dettagliato.
+
+---
+id: 164
+attribute: 0x6400A00001030002
+---
+Viene da un posto lontano.
+Una pietra misteriosa.
+
+---
+id: 165
+attribute: 0x6400A00001030002
+---
+Una comune scatola
+di fazzoletti di scorta.
+
+---
+id: 166
+attribute: 0x6400A00001030002
+---
+Un normale rotolo doppio
+di carta igienica.
+
+---
+id: 167
+attribute: 0x6400A00001030002
+---
+Guardalo dall'alto in basso.
+Un ornamento d'impatto.
+
+---
+id: 168
+attribute: 0x6400A00001030002
+---
+È stato scavato
+da qualche parte.
+
+---
+id: 169
+attribute: 0x6400A00001030002
+---
+Un bel nido d'uccello.
+Specie ancora sconosciuta.
+
+---
+id: 170
+attribute: 0x6400A00001030002
+---
+Un album di nozze pieno di
+ricordi della coppia.
+
+---
+id: 171
+attribute: 0x6400A00001030002
+---
+Carina corda per saltare
+in plastica.
+
+---
+id: 172
+attribute: 0x6400A00001030002
+---
+Armonica classica,
+adatta al viaggiatore.
+
+---
+id: 173
+attribute: 0x6400A00001030002
+---
+È sorprendentemente pesante,
+fatto di materiale elastico.
+
+---
+id: 174
+attribute: 0x6400A00001030002
+---
+Con un solo pezzo, puoi
+immaginare tutta la figura.
+
+---
+id: 175
+attribute: 0x6400A00001030002
+---
+Un mazzo di rose molto grande.
+
+---
+id: 176
+attribute: 0x6400A00001030002
+---
+Un fuoco d'artificio
+a cinque palle.
+
+---
+id: 177
+attribute: 0x6400A00001030002
+---
+Carte da gioco prodotte
+da Nintendo.
+
+---
+id: 178
+attribute: 0x6400A00001030002
+---
+Un grande timbro facile
+da usare.
+
+---
+id: 179
+attribute: 0x6400A00001030002
+---
+I volti delle bambole,
+disegnati con pennello.
+
+---
+id: 180
+attribute: 0x6400A00001030002
+---
+Con copertina colorata.
+Essenziale per chi è alla moda.
+
+---
+id: 181
+attribute: 0x6400A00001030002
+---
+Salvadanaio a forma di
+maiale. Un peccato romperlo?
+
+---
+id: 182
+attribute: 0x6400A00001030002
+---
+Bambola elegante che
+assomiglia a una francese.
+
+---
+id: 183
+attribute: 0x6400A00001030002
+---
+Questo deve essere un oggetto
+molto importante per qualcuno.
+
+---
+id: 184
+attribute: 0x6400A00001030002
+---
+Questo bonsai di pino
+rappresenta il vasto universo.
+
+---
+id: 185
+attribute: 0x6400A00001030002
+---
+Il suo angolo inclinato
+è il punto di forza.
+
+---
+id: 186
+attribute: 0x6400A00001030002
+---
+Questo gatto fortunato
+ti porterà buona fortuna.
+
+---
+id: 187
+attribute: 0x6400A00001030002
+---
+Penna stilografica di
+qualità. Regalo da laurea.
+
+---
+id: 188
+attribute: 0x6400A00001030002
+---
+Realizzato con bambù
+di qualità e cotone soffice.
+
+---
+id: 189
+attribute: 0x6400A00001030002
+---
+Una sveglia con allarme
+standard per svegliarti.
+
+---
+id: 190
+attribute: 0x6400A00001030002
+---
+Un ornamento molto unico.
+Ne senti la presenza?
+
+---
+id: 191
+attribute: 0x6400A00001030002
+---
+Questo è fatto con un materiale
+speciale e non si scioglierà.
+
+---
+id: 192
+attribute: 0x6400A00001030002
+---
+Un foglio con le firme
+di tutti i tuoi amici.
+
+---
+id: 193
+attribute: 0x6400A00001030002
+---
+Strumento musicale popolare
+per le lezioni di musica.
+
+---
+id: 194
+attribute: 0x6400A00001030002
+---
+È bello e lucente con
+artigianato molto delicato.
+
+---
+id: 195
+attribute: 0x6400A00001030002
+---
+Un souvenir classico
+per ricordare un viaggio.
+
+---
+id: 196
+attribute: 0x6400A00001030002
+---
+Una fantastica architettura
+giapponese.
+
+---
+id: 197
+attribute: 0x6400A00001030002
+---
+Un souvenir classico
+dell'Okinawa, aspetto eroico.
+
+---
+id: 198
+attribute: 0x6400A00001030002
+---
+Un fazzoletto di seta con
+bordatura ricamata splendida.
+
+---
+id: 199
+attribute: 0x6400A00001030002
+---
+Un ventaglio pieghevole
+che emana atmosfera sontuosa.
+
+---
+id: 200
+attribute: 0x6400A00001030002
+---
+È decorato con gemme
+colorate.
+
+---
+id: 201
+attribute: 0x6400A00001030002
+---
+Un souvenir molto tradizionale.
+Questo è originale.
+
+---
+id: 202
+attribute: 0x6400A00001030002
+---
+Questa maschera esotica viene
+da un paese lontanissimo.
+
+---
+id: 203
+attribute: 0x6400A00001030002
+---
+Le alghe verdi rigeneranti
+che ti fanno sentire calmo.
+
+---
+id: 204
+attribute: 0x6400A00001030002
+---
+Aiuta ad alleviare
+il mal di stomaco.
+
+---
+id: 205
+attribute: 0x6400A00001030002
+---
+Per mal di gola,
+prendine una compressa.
+
+---
+id: 206
+attribute: 0x6400A00001030002
+---
+Scatta qualche foto
+per un bel ricordo.
+
+---
+id: 207
+attribute: 0x6400A00001030002
+---
+Puoi viaggiare ovunque tu voglia
+con questo buono.
+
+---
+id: 208
+attribute: 0x6400A00001030002
+---
+Divertiti a fare vari
+tipi di lavori.
+
+---
+id: 209
+attribute: 0x6400A00001030002
+---
+Questo sistema unico rosso scuro
+ha anche un microfono!
+
+---
+id: 210
+attribute: 0x6400A00001030002
+---
+Si adatta comodamente
+alla tua mano.
+
+---
+id: 211
+attribute: 0x6400A00001030002
+---
+Un piacevole sistema
+nero e rosso.
+
+---
+id: 212
+attribute: 0x6400A00001030002
+---
+Un set di bacinella, asciugamano
+e sapone per il bagno serale.
+
+---
+id: 213
+attribute: 0x6400A00001030002
+---
+Senza questo avrai dei problemi
+d'estate!
+
+---
+id: 214
+attribute: 0x6400A00001030002
+---
+Puoi ipnotizzare chiunque
+con questo kit.
+
+---
+id: 215
+attribute: 0x6400A00001030002
+---
+Tutti possono cucinare a casa
+con questa padella.
+
+---
+id: 216
+attribute: 0x6400A00001030002
+---
+Puoi trovare qualsiasi parola.
+Davvero! È incredibile!
+
+---
+id: 217
+attribute: 0x6400A00001030002
+---
+Un paio di vivaci bastoncini
+di plastica colorata.
+
+---
+id: 218
+attribute: 0x6400A00001030002
+---
+Un megafono giallo di plastica.
+Costa poco ma ha bell'aspetto.
+
+---
+id: 219
+attribute: 0x6400A00001030002
+---
+È fatto di legno e ha
+un design allegro.
+
+---
+id: 220
+attribute: 0x6400A00001030002
+---
+Difficile smettere di
+mangiarlo una volta iniziato.
+
+---
+id: 221
+attribute: 0x6400A00001030002
+---
+Ha un profumo rinfrescante.
+Divertiti a masticarlo.
+
+---
+id: 222
+attribute: 0x6400A00001030002
+---
+Lettera di ringraziamento
+dai residenti aiutati.
+
+---
+id: 223
+attribute: 0x6400A00001030002
+---
+Congratulazioni! Sei un
+maestro nel risolvere problemi!
+
+---
+id: 224
+attribute: 0x6400A00001030002
+---
+Congratulazioni! Sei l'esperto
+della risoluzione dei problemi!
+
+---
+id: 225
+attribute: 0x6400A00001030002
+---
+Congratulazioni! Sei il prodigio
+della risoluzione dei problemi!
+
+---
+id: 226
+attribute: 0x6400A00001030002
+---
+Congratulazioni! Hai salvato
+il mondo con la tua gentilezza!
+
+---
+id: 227
+attribute: 0x6400A00001030002
+---
+Una normale maniglia.
+Girala per aprire.
+
+---
+id: 228
+attribute: 0x6400A00001030002
+---
+Diventa più delizioso
+per ogni morso che mastica.
+
+---
+id: 229
+attribute: 0x6400A00001030002
+---
+Cracker giapponese croccante
+con sapore di salsa di soia.
+
+---
+id: 230
+attribute: 0x6400A00001030002
+---
+Il sapore della cucina
+casalinga!
+
+---
+id: 231
+attribute: 0x6400A00001030002
+---
+Croccante fuori, succoso
+dentro! Cotoletta speciale!
+
+---
+id: 232
+attribute: 0x6400A00001030002
+---
+Una verdura tropicale con
+sapore amaro che fa dipendere.
+
+---
+id: 233
+attribute: 0x6400A00001030002
+---
+Bevine una tazza ogni giorno
+per un corpo sano.
+
+---
+id: 234
+attribute: 0x6400A00001030002
+---
+Una bella moneta d'oro.
+Sembra di alto valore.
+
+---
+id: 235
+attribute: 0x6400A00001030002
+---
+Una bella moneta d'argento.
+Sembra avere un certo valore.
+
+---
+id: 236
+attribute: 0x6400A00001030002
+---
+Un Nintendo Wii.
+Ottimo per il salotto.
+
+---
+id: 237
+attribute: 0x6400A00001030002
+---
+Usalo per parlare e inviare
+messaggi ai tuoi amici.
+
+---
+id: 238
+attribute: 0x6400A00001030002
+---
+Aggiungi musica alla tua vita.
+Godila con le cuffie.
+
+---
+id: 239
+attribute: 0x6400A00001030002
+---
+Allena il cervello quando vuoi
+con questo set di studio.
+
+---
+id: 240
+attribute: 0x6400A00001030002
+---
+Un bel modo per
+scaricare lo stress.
+
+---
+id: 241
+attribute: 0x6400A00001030002
+---
+Un Nintendo DS. Portalo in giro
+e divertiti a giocare.
+
+---
+id: 242
+attribute: 0x6400A00001030002
+---
+Portalo in giro e usalo
+al posto del PC.
+
+---
+id: 243
+attribute: 0x6400A00001030002
+---
+Quando c'è polvere, prendi
+questo spolverino!
+
+---
+id: 244
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 245
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 246
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 247
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 248
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 249
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 250
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 251
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 252
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 253
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 254
+attribute: 0x6400A00001030002
+---
+アイテム説明（仮）□□□□□□
+□□□□□□□□□□□□□□□
+
+---
+id: 1000
+attribute: 0x6400A00001030002
+---
+Si adatta al colore
+preferito di chi lo indossa.
+
+---
+id: 1001
+attribute: 0x6400A00001030002
+---
+Abito grigio.
+
+---
+id: 1002
+attribute: 0x6400A00001030002
+---
+Abito nero.
+
+---
+id: 1003
+attribute: 0x6400A00001030002
+---
+Divisa da marinaia.
+
+---
+id: 1004
+attribute: 0x6400A00001030002
+---
+Costume da cowboy.
+
+---
+id: 1005
+attribute: 0x6400A00001030002
+---
+Toga bianca.
+
+---
+id: 1006
+attribute: 0x6400A00001030002
+---
+Toga nera.
+
+---
+id: 1007
+attribute: 0x6400A00001030002
+---
+Divisa da calciatore.
+
+---
+id: 1008
+attribute: 0x6400A00001030002
+---
+Divisa da cameriera.
+
+---
+id: 1009
+attribute: 0x6400A00001030002
+---
+Costume da pinguino.
+
+---
+id: 1010
+attribute: 0x6400A00001030002
+---
+È una scimmia o un orso?
+È difficile dirlo.
+
+---
+id: 1011
+attribute: 0x6400A00001030002
+---
+Giacca mimetica.
+
+---
+id: 1012
+attribute: 0x6400A00001030002
+---
+Tuta da kung fu stile melma.
+
+---
+id: 1013
+attribute: 0x6400A00001030002
+---
+Yukata femminile.
+
+---
+id: 1014
+attribute: 0x6400A00001030002
+---
+Yukata maschile.
+
+---
+id: 1015
+attribute: 0x6400A00001030002
+---
+Un abito che in molti
+sognano di indossare.
+
+---
+id: 1016
+attribute: 0x6400A00001030002
+---
+Tuta sportiva dai colori vivaci.
+
+---
+id: 1017
+attribute: 0x6400A00001030002
+---
+Adatto per l'ufficio.
+
+---
+id: 1018
+attribute: 0x6400A00001030002
+---
+Poncho caldo fatto a mano.
+
+---
+id: 1019
+attribute: 0x6400A00001030002
+---
+Dolce abito da principessa.
+
+---
+id: 1020
+attribute: 0x6400A00001030002
+---
+Misterioso abito gothic.
+
+---
+id: 1021
+attribute: 0x6400A00001030002
+---
+Costume da stregone.
+
+---
+id: 1022
+attribute: 0x6400A00001030002
+---
+È un orso polare o un coniglio?
+Solo chi lo indossa lo sa.
+
+---
+id: 1023
+attribute: 0x6400A00001030002
+---
+Sensuale abito da flamenco.
+
+---
+id: 1024
+attribute: 0x6400A00001030002
+---
+Maglietta a design semplice.
+
+---
+id: 1025
+attribute: 0x6400A00001030002
+---
+Maglietta a design semplice.
+
+---
+id: 1026
+attribute: 0x6400A00001030002
+---
+Maglietta a design semplice.
+
+---
+id: 1027
+attribute: 0x6400A00001030002
+---
+Costume da superstar.
+
+---
+id: 1028
+attribute: 0x6400A00001030002
+---
+Qipao rosa con spacco sensuale.
+
+---
+id: 1029
+attribute: 0x6400A00001030002
+---
+Qipao blu con spacco sensuale.
+
+---
+id: 1030
+attribute: 0x6400A00001030002
+---
+Divisa Nintendo blu navy.
+
+---
+id: 1031
+attribute: 0x6400A00001030002
+---
+Divisa Nintendo beige.
+
+---
+id: 1032
+attribute: 0x6400A00001030002
+---
+Grafica colorata su una
+maglietta bianca.
+
+---
+id: 1033
+attribute: 0x6400A00001030002
+---
+Classica giacca di jeans e
+pantaloni chino.
+
+---
+id: 1034
+attribute: 0x6400A00001030002
+---
+Cardigan verde.
+
+---
+id: 1035
+attribute: 0x6400A00001030002
+---
+Cardigan nero.
+
+---
+id: 1036
+attribute: 0x6400A00001030002
+---
+Sontuoso kimono ceremoniale
+a dodici strati.
+
+---
+id: 1037
+attribute: 0x6400A00001030002
+---
+Felpa con cappuccio larga
+stile street fashion.
+
+---
+id: 1038
+attribute: 0x6400A00001030002
+---
+Felpa con cappuccio larga
+in rosso vivace.
+
+---
+id: 1039
+attribute: 0x6400A00001030002
+---
+Per gli amanti dei gatti.
+
+---
+id: 1040
+attribute: 0x6400A00001030002
+---
+Salopette in stile country.
+
+---
+id: 1041
+attribute: 0x6400A00001030002
+---
+Tuta in raso nero.
+
+---
+id: 1042
+attribute: 0x6400A00001030002
+---
+Tuta in raso rosa.
+
+---
+id: 1043
+attribute: 0x6400A00001030002
+---
+Sciarpa lavorata a maglia.
+
+---
+id: 1044
+attribute: 0x6400A00001030002
+---
+Abito con grande
+stampa di ibisco.
+
+---
+id: 1045
+attribute: 0x6400A00001030002
+---
+Abito sontuoso con
+borchie dorate.
+
+---
+id: 1046
+attribute: 0x6400A00001030002
+---
+La parte stracciata lascerà
+un'impressione sulle persone.
+
+---
+id: 1047
+attribute: 0x6400A00001030002
+---
+Elegante giacca di pelle lucida.
+
+---
+id: 1048
+attribute: 0x6400A00001030002
+---
+Pantaloni a vita bassa unici.
+
+---
+id: 1049
+attribute: 0x6400A00001030002
+---
+Cappotto lungo semplice.
+
+---
+id: 1050
+attribute: 0x6400A00001030002
+---
+Cappotto lungo semplice.
+
+---
+id: 1051
+attribute: 0x6400A00001030002
+---
+Familiare felpa e jeans.
+
+---
+id: 1052
+attribute: 0x6400A00001030002
+---
+Familiare felpa e jeans.
+
+---
+id: 1053
+attribute: 0x6400A00001030002
+---
+Gonna lunga patchwork.
+
+---
+id: 1054
+attribute: 0x6400A00001030002
+---
+Camicia base in blu.
+
+---
+id: 1055
+attribute: 0x6400A00001030002
+---
+Camicetta con fiocco.
+
+---
+id: 1056
+attribute: 0x6400A00001030002
+---
+Camicia base in giallo vivace.
+
+---
+id: 1057
+attribute: 0x6400A00001030002
+---
+Felpa che cambia colore
+in base a chi la indossa.
+
+---
+id: 1058
+attribute: 0x6400A00001030002
+---
+Abito che cambia colore
+in base a chi lo indossa.
+
+---
+id: 1059
+attribute: 0x6400A00001030002
+---
+Caldo e ampio piumino.
+
+---
+id: 1060
+attribute: 0x6400A00001030002
+---
+Caldo e ampio piumino.
+
+---
+id: 1061
+attribute: 0x6400A00001030002
+---
+Giacca in tweed.
+
+---
+id: 1062
+attribute: 0x6400A00001030002
+---
+Grembiule da chef.
+
+---
+id: 1063
+attribute: 0x6400A00001030002
+---
+Cappotto in pelliccia
+sintetica beige.
+
+---
+id: 1064
+attribute: 0x6400A00001030002
+---
+Cappotto in pelliccia
+sintetica nera.
+
+---
+id: 1065
+attribute: 0x6400A00001030002
+---
+Sciarpa e abito
+lavorati a maglia.
+
+---
+id: 1066
+attribute: 0x6400A00001030002
+---
+Sciarpa casual
+dall'aspetto maturo.
+
+---
+id: 1067
+attribute: 0x6400A00001030002
+---
+Carino top pastello rosa.
+
+---
+id: 1068
+attribute: 0x6400A00001030002
+---
+Carino top pastello blu.
+
+---
+id: 1069
+attribute: 0x6400A00001030002
+---
+Perfetto per fare
+jogging in estate.
+
+---
+id: 1070
+attribute: 0x6400A00001030002
+---
+Senti l'estate♪ Perfetto
+da indossare in spiaggia.
+
+---
+id: 1071
+attribute: 0x6400A00001030002
+---
+Senti l'estate♪ Perfetto
+da indossare in spiaggia.
+
+---
+id: 1072
+attribute: 0x6400A00001030002
+---
+Un abito con tanti fiocchi.
+
+---
+id: 1073
+attribute: 0x6400A00001030002
+---
+Sciarpa leopardata.
+
+---
+id: 1074
+attribute: 0x6400A00001030002
+---
+Canottiera con
+immagine selvaggia.
+
+---
+id: 1075
+attribute: 0x6400A00001030002
+---
+Vivace felpa leopardata.
+
+---
+id: 1076
+attribute: 0x6400A00001030002
+---
+Costume da aerobica
+con gambali.
+
+---
+id: 1077
+attribute: 0x6400A00001030002
+---
+Camicia verde giallo brillante
+con motivo di macchinine.
+
+---
+id: 1078
+attribute: 0x6400A00001030002
+---
+T-shirt rosa salmone con la foto
+di un'auto stampata sopra.
+
+---
+id: 1079
+attribute: 0x6400A00001030002
+---
+Maglia da rugby verde.
+
+---
+id: 1080
+attribute: 0x6400A00001030002
+---
+Abito in pizzo con gilet.
+
+---
+id: 1081
+attribute: 0x6400A00001030002
+---
+Maglia da rugby rossa.
+
+---
+id: 1082
+attribute: 0x6400A00001030002
+---
+Camicia a righe verdi vivaci
+e pantaloni a gamba larga.
+
+---
+id: 1083
+attribute: 0x6400A00001030002
+---
+Cardigan nero e jeans.
+
+---
+id: 1084
+attribute: 0x6400A00001030002
+---
+Sensazionale abito in nero
+e rosso.
+
+---
+id: 1085
+attribute: 0x6400A00001030002
+---
+Sensazionale abito in bianco
+e viola.
+
+---
+id: 1086
+attribute: 0x6400A00001030002
+---
+Camicia retrò in seta colorata.
+
+---
+id: 1087
+attribute: 0x6400A00001030002
+---
+Camicia retrò in seta
+monocromatica.
+
+---
+id: 1088
+attribute: 0x6400A00001030002
+---
+Camicia bianca elegante.
+
+---
+id: 1089
+attribute: 0x6400A00001030002
+---
+Camicia nera elegante.
+
+---
+id: 1090
+attribute: 0x6400A00001030002
+---
+Abito attillato.
+
+---
+id: 1091
+attribute: 0x6400A00001030002
+---
+Semplice maglietta e gonna.
+
+---
+id: 1092
+attribute: 0x6400A00001030002
+---
+Salopette corta bianca.
+
+---
+id: 1093
+attribute: 0x6400A00001030002
+---
+Tunica femminile ricamata.
+
+---
+id: 1094
+attribute: 0x6400A00001030002
+---
+Blusa a fiori con smoking.
+
+---
+id: 1095
+attribute: 0x6400A00001030002
+---
+Dolcevita bianco.
+
+---
+id: 1096
+attribute: 0x6400A00001030002
+---
+Dolcevita nero.
+
+---
+id: 1097
+attribute: 0x6400A00001030002
+---
+Dolcevita rosso.
+
+---
+id: 1098
+attribute: 0x6400A00001030002
+---
+Giacca boa dalla silhouette
+tonda e soffice.
+
+---
+id: 1099
+attribute: 0x6400A00001030002
+---
+Cappotto corto blu.
+
+---
+id: 1100
+attribute: 0x6400A00001030002
+---
+Cappotto corto marrone.
+
+---
+id: 1101
+attribute: 0x6400A00001030002
+---
+Per lavoro o casual, versatile
+ensemble di camicetta e gonna.
+
+---
+id: 1102
+attribute: 0x6400A00001030002
+---
+Per lavoro o casual, versatile
+ensemble di camicetta e gonna.
+
+---
+id: 1103
+attribute: 0x6400A00001030002
+---
+Leggings fioriti
+molto femminili.
+
+---
+id: 1104
+attribute: 0x6400A00001030002
+---
+Un trench coat che fa sembrare
+chi lo indossa un detective.
+
+---
+id: 1105
+attribute: 0x6400A00001030002
+---
+Un trench coat che fa sembrare
+chi lo indossa un detective.
+
+---
+id: 1106
+attribute: 0x6400A00001030002
+---
+Camicia a manica dolman.
+
+---
+id: 1107
+attribute: 0x6400A00001030002
+---
+Camicia a maniche corte.
+
+---
+id: 1108
+attribute: 0x6400A00001030002
+---
+Camicia a maniche corte.
+
+---
+id: 1109
+attribute: 0x6400A00001030002
+---
+Camicia a maniche corte.
+
+---
+id: 1110
+attribute: 0x6400A00001030002
+---
+Buono per guardare sport
+in una giornata fredda.
+
+---
+id: 1111
+attribute: 0x6400A00001030002
+---
+Collant che cambiano
+colore per abbinarsi a te.
+
+---
+id: 1112
+attribute: 0x6400A00001030002
+---
+Mini maglietta sensuale.
+
+---
+id: 1113
+attribute: 0x6400A00001030002
+---
+Abito natalizio con
+renne nei colori giusti.
+
+---
+id: 1114
+attribute: 0x6400A00001030002
+---
+Mini maglietta sensuale.
+
+---
+id: 1115
+attribute: 0x6400A00001030002
+---
+Divisa da commesso
+di negozio di abbigliamento.
+
+---
+id: 1116
+attribute: 0x6400A00001030002
+---
+Vivace felpa dal
+design asimmetrico.
+
+---
+id: 1117
+attribute: 0x6400A00001030002
+---
+Vivace felpa dal
+design asimmetrico.
+
+---
+id: 1118
+attribute: 0x6400A00001030002
+---
+Abito a quadri madras.
+
+---
+id: 1119
+attribute: 0x6400A00001030002
+---
+Carino abito a quadretti vichy.
+
+---
+id: 1120
+attribute: 0x6400A00001030002
+---
+Carino abito a quadretti vichy.
+
+---
+id: 1121
+attribute: 0x6400A00001030002
+---
+T-shirt e gilet monocromatici.
+
+---
+id: 1122
+attribute: 0x6400A00001030002
+---
+Abito in garza.
+
+---
+id: 1123
+attribute: 0x6400A00001030002
+---
+Abito blu reale e a quadri.
+
+---
+id: 1124
+attribute: 0x6400A00001030002
+---
+Sciarpa a quadri blu.
+
+---
+id: 1125
+attribute: 0x6400A00001030002
+---
+Sciarpa a quadri gialla.
+
+---
+id: 1126
+attribute: 0x6400A00001030002
+---
+Cappotto di pelle lungo.
+
+---
+id: 1127
+attribute: 0x6400A00001030002
+---
+Abito a quadri giallo e nero.
+
+---
+id: 1128
+attribute: 0x6400A00001030002
+---
+Maglione grigio
+lavorato a maglia.
+
+---
+id: 1129
+attribute: 0x6400A00001030002
+---
+Maglione viola lavorato a maglia
+con scollo a V.
+
+---
+id: 1130
+attribute: 0x6400A00001030002
+---
+Cappotto militare esterno.
+
+---
+id: 1131
+attribute: 0x6400A00001030002
+---
+Polo rosa.
+
+---
+id: 1132
+attribute: 0x6400A00001030002
+---
+Maglione a maniche corte.
+
+---
+id: 1133
+attribute: 0x6400A00001030002
+---
+Polo nera.
+
+---
+id: 1134
+attribute: 0x6400A00001030002
+---
+Divisa da marinaia
+con gonna lunga.
+
+---
+id: 1135
+attribute: 0x6400A00001030002
+---
+Divisa da commesso
+di negozio alimentare.
+
+---
+id: 1136
+attribute: 0x6400A00001030002
+---
+Camicia rossa e gilet.
+
+---
+id: 1137
+attribute: 0x6400A00001030002
+---
+Camicia blu e gilet.
+
+---
+id: 1138
+attribute: 0x6400A00001030002
+---
+Camicia da notte.
+
+---
+id: 1139
+attribute: 0x6400A00001030002
+---
+Cardigan rosso per
+tutte le stagioni.
+
+---
+id: 1140
+attribute: 0x6400A00001030002
+---
+Cardigan arancione
+per tutte le stagioni.
+
+---
+id: 1141
+attribute: 0x6400A00001030002
+---
+Cache-coeur viola.
+
+---
+id: 1142
+attribute: 0x6400A00001030002
+---
+Cache-coeur blu.
+
+---
+id: 1143
+attribute: 0x6400A00001030002
+---
+Giacca rossa con logo
+della squadra.
+
+---
+id: 1144
+attribute: 0x6400A00001030002
+---
+Giacca blu con logo
+della squadra.
+
+---
+id: 1145
+attribute: 0x6400A00001030002
+---
+Telo da bagno.
+
+---
+id: 1146
+attribute: 0x6400A00001030002
+---
+Mutande e fascia addominale.
+
+---
+id: 1147
+attribute: 0x6400A00001030002
+---
+Happi, tradizionale
+giacca giapponese.
+
+---
+id: 1148
+attribute: 0x6400A00001030002
+---
+Vestaglia bianca.
+
+---
+id: 1149
+attribute: 0x6400A00001030002
+---
+Costume da uomo primitivo.
+
+---
+id: 1150
+attribute: 0x6400A00001030002
+---
+Divisa scolastica maschile.
+
+---
+id: 1151
+attribute: 0x6400A00001030002
+---
+Divisa da commesso
+di negozio di arredamento.
+
+---
+id: 1152
+attribute: 0x6400A00001030002
+---
+Divisa da cheerleader.
+
+---
+id: 1153
+attribute: 0x6400A00001030002
+---
+Felpa e pantaloni.
+
+---
+id: 1154
+attribute: 0x6400A00001030002
+---
+Divisa da scuola media rossa.
+
+---
+id: 1155
+attribute: 0x6400A00001030002
+---
+Divisa da scuola media blu.
+
+---
+id: 1156
+attribute: 0x6400A00001030002
+---
+Abito lungo formale.
+
+---
+id: 1157
+attribute: 0x6400A00001030002
+---
+Tuta intera.
+
+---
+id: 1158
+attribute: 0x6400A00001030002
+---
+Carino abito retrò.
+
+---
+id: 1159
+attribute: 0x6400A00001030002
+---
+Costume da principessa araba.
+
+---
+id: 1160
+attribute: 0x6400A00001030002
+---
+Costume da idol maschile.
+
+---
+id: 1161
+attribute: 0x6400A00001030002
+---
+Costume da idol femminile.
+
+---
+id: 1162
+attribute: 0x6400A00001030002
+---
+Papillon e pantaloncini.
+
+---
+id: 1163
+attribute: 0x6400A00001030002
+---
+Divisa da infermiera.
+
+---
+id: 1164
+attribute: 0x6400A00001030002
+---
+Divisa da steeplejack.
+
+---
+id: 1165
+attribute: 0x6400A00001030002
+---
+Costume da pagliaccio.
+
+---
+id: 1166
+attribute: 0x6400A00001030002
+---
+Armatura medievale.
+
+---
+id: 1167
+attribute: 0x6400A00001030002
+---
+Divisa da prigioniero.
+
+---
+id: 1168
+attribute: 0x6400A00001030002
+---
+Divisa da cameriera.
+
+---
+id: 1169
+attribute: 0x6400A00001030002
+---
+Abiti logori.
+
+---
+id: 1170
+attribute: 0x6400A00001030002
+---
+Costume da nuoto scolastico
+blu e bianco.
+
+---
+id: 1171
+attribute: 0x6400A00001030002
+---
+Tuta da eroe sentai rossa.
+
+---
+id: 1172
+attribute: 0x6400A00001030002
+---
+Tuta da eroe sentai blu.
+
+---
+id: 1173
+attribute: 0x6400A00001030002
+---
+Tuta da eroe sentai gialla.
+
+---
+id: 1174
+attribute: 0x6400A00001030002
+---
+Tuta da eroe sentai verde.
+
+---
+id: 1175
+attribute: 0x6400A00001030002
+---
+Tuta da eroe sentai rosa.
+
+---
+id: 1176
+attribute: 0x6400A00001030002
+---
+Perizoma.
+
+---
+id: 1177
+attribute: 0x6400A00001030002
+---
+Divisa da giocatore di basket.
+
+---
+id: 1178
+attribute: 0x6400A00001030002
+---
+Costume da ballerino/a sensuale.
+
+---
+id: 1179
+attribute: 0x6400A00001030002
+---
+Abiti nobili.
+
+---
+id: 1180
+attribute: 0x6400A00001030002
+---
+Tuta di gomma blu.
+
+---
+id: 1181
+attribute: 0x6400A00001030002
+---
+Divisa da poliziotta.
+
+---
+id: 1182
+attribute: 0x6400A00001030002
+---
+Divisa da giocatore di baseball.
+
+---
+id: 1183
+attribute: 0x6400A00001030002
+---
+Divisa da giocatore
+di ping pong.
+
+---
+id: 1184
+attribute: 0x6400A00001030002
+---
+Divisa da chef.
+
+---
+id: 1185
+attribute: 0x6400A00001030002
+---
+Divisa da tassista.
+
+---
+id: 1186
+attribute: 0x6400A00001030002
+---
+Divisa da conducente di treno.
+
+---
+id: 1187
+attribute: 0x6400A00001030002
+---
+Costume da ballerina.
+
+---
+id: 1188
+attribute: 0x6400A00001030002
+---
+Smoking da festa.
+
+---
+id: 1189
+attribute: 0x6400A00001030002
+---
+Abito da principessa con tanti
+fiocchi.
+
+---
+id: 1190
+attribute: 0x6400A00001030002
+---
+Tuta spaziale.
+
+---
+id: 1191
+attribute: 0x6400A00001030002
+---
+Tuta da yoga.
+
+---
+id: 1192
+attribute: 0x6400A00001030002
+---
+Divisa da banco dei pegni.
+
+---
+id: 1193
+attribute: 0x6400A00001030002
+---
+Divisa da commesso
+di grande magazzino.
+
+---
+id: 1194
+attribute: 0x6400A00001030002
+---
+Pantaloncini da boxe.
+
+---
+id: 1195
+attribute: 0x6400A00001030002
+---
+Tuta bianca larga.
+
+---
+id: 1196
+attribute: 0x6400A00001030002
+---
+Tuta nera larga.
+
+---
+id: 1197
+attribute: 0x6400A00001030002
+---
+Blouson e jeans blu.
+
+---
+id: 1198
+attribute: 0x6400A00001030002
+---
+Divisa da ispettore.
+
+---
+id: 1199
+attribute: 0x6400A00001030002
+---
+Divisa da poliziotto.
+
+---
+id: 1200
+attribute: 0x6400A00001030002
+---
+Grembiule.
+
+---
+id: 1201
+attribute: 0x6400A00001030002
+---
+Divisa da commesso
+di minimarket.
+
+---
+id: 1202
+attribute: 0x6400A00001030002
+---
+Maglietta attillata
+in stile marino.
+
+---
+id: 1203
+attribute: 0x6400A00001030002
+---
+T-shirt nera con kanji
+stampato sul retro.
+
+---
+id: 1204
+attribute: 0x6400A00001030002
+---
+Abito retrò con colori vivaci.
+
+---
+id: 1205
+attribute: 0x6400A00001030002
+---
+Blazer maschile marrone.
+
+---
+id: 1206
+attribute: 0x6400A00001030002
+---
+Blazer femminile marrone.
+
+---
+id: 1207
+attribute: 0x6400A00001030002
+---
+Gilet imbottito rosso.
+
+---
+id: 1208
+attribute: 0x6400A00001030002
+---
+Divisa da guardia di sicurezza.
+
+---
+id: 1209
+attribute: 0x6400A00001030002
+---
+Tuta blu e stivali di gomma.
+
+---
+id: 1210
+attribute: 0x6400A00001030002
+---
+Giacca e maglietta
+monocromatiche.
+
+---
+id: 1211
+attribute: 0x6400A00001030002
+---
+Giacca di pelle rossa.
+
+---
+id: 1212
+attribute: 0x6400A00001030002
+---
+Abito con collo
+all'americana rosso.
+
+---
+id: 1213
+attribute: 0x6400A00001030002
+---
+Cummer vest.
+
+---
+id: 1214
+attribute: 0x6400A00001030002
+---
+Abbigliamento da snowboard.
+
+---
+id: 1215
+attribute: 0x6400A00001030002
+---
+Divisa da maratona.
+
+---
+id: 1216
+attribute: 0x6400A00001030002
+---
+Canottiera bianca con
+cinta nera.
+
+---
+id: 1217
+attribute: 0x6400A00001030002
+---
+Costume da fantino.
+
+---
+id: 1218
+attribute: 0x6400A00001030002
+---
+Costume da assistente di volo
+con fiocco arancione.
+
+---
+id: 1219
+attribute: 0x6400A00001030002
+---
+Giacca nehru.
+
+---
+id: 1220
+attribute: 0x6400A00001030002
+---
+Elegante costume da re.
+
+---
+id: 1221
+attribute: 0x6400A00001030002
+---
+Gonna a pieghe a quadri
+con maglione nero.
+
+---
+id: 1222
+attribute: 0x6400A00001030002
+---
+Abito a pois
+con interno dolcevita.
+
+---
+id: 1223
+attribute: 0x6400A00001030002
+---
+Giacca in camoscio.
+
+---
+id: 1224
+attribute: 0x6400A00001030002
+---
+Tuta da kung fu.
+
+---
+id: 1225
+attribute: 0x6400A00001030002
+---
+Felpa e pantaloncini in feltro.
+
+---
+id: 1226
+attribute: 0x6400A00001030002
+---
+Felpa con logo e tuta rosa.
+
+---
+id: 1227
+attribute: 0x6400A00001030002
+---
+Pantaloni alla caviglia.
+
+---
+id: 1228
+attribute: 0x6400A00001030002
+---
+Jeans strappati con
+maglietta semplice.
+
+---
+id: 1229
+attribute: 0x6400A00001030002
+---
+Costume da bagno
+in stile resort.
+
+---
+id: 1230
+attribute: 0x6400A00001030002
+---
+Maglietta a quadri.
+
+---
+id: 1231
+attribute: 0x6400A00001030002
+---
+Haori lavorato a maglia
+in stile casual.
+
+---
+id: 1232
+attribute: 0x6400A00001030002
+---
+Costume da Babbo Natale.
+
+---
+id: 1233
+attribute: 0x6400A00001030002
+---
+Divisa da pompiere arancione
+ignifuga.
+
+---
+id: 1234
+attribute: 0x6400A00001030002
+---
+Divisa da tennis rosa pastello.
+
+---
+id: 1235
+attribute: 0x6400A00001030002
+---
+Camicia a quadri di cotone.
+
+---
+id: 1236
+attribute: 0x6400A00001030002
+---
+Camicia a righe bianche e rosa
+in stile casual.
+
+---
+id: 1237
+attribute: 0x6400A00001030002
+---
+Elegante kimono nero con
+stampa di crisantemi.
+
+---
+id: 1238
+attribute: 0x6400A00001030002
+---
+Kimono invernale imbottito.
+
+---
+id: 1239
+attribute: 0x6400A00001030002
+---
+Maglietta a strati
+con scollo a barchetta.
+
+---
+id: 1240
+attribute: 0x6400A00001030002
+---
+Maglione argyle.
+
+---
+id: 1241
+attribute: 0x6400A00001030002
+---
+Abito con volant
+a manica francese.
+
+---
+id: 1242
+attribute: 0x6400A00001030002
+---
+Camicia bianca base.
+
+---
+id: 1243
+attribute: 0x6400A00001030002
+---
+Camicia raglan.
+
+---
+id: 1244
+attribute: 0x6400A00001030002
+---
+T-shirt larga.
+
+---
+id: 1245
+attribute: 0x6400A00001030002
+---
+Abito in pizzo nero.
+
+---
+id: 1246
+attribute: 0x6400A00001030002
+---
+Hakama da samurai.
+
+---
+id: 1247
+attribute: 0x6400A00001030002
+---
+Armatura da guerriero.
+
+---
+id: 1248
+attribute: 0x6400A00001030002
+---
+Abito in pizzo stile Versailles.
+
+---
+id: 1249
+attribute: 0x6400A00001030002
+---
+Denim senza maniche.
+
+---
+id: 1250
+attribute: 0x6400A00001030002
+---
+Divisa scolastica femminile
+lilla chiaro.
+
+---
+id: 1251
+attribute: 0x6400A00001030002
+---
+Rilassante maglietta etnica.
+
+---
+id: 1252
+attribute: 0x6400A00001030002
+---
+Cappotto duffle e pantaloncini.
+
+---
+id: 1253
+attribute: 0x6400A00001030002
+---
+Costume da mummia.
+
+---
+id: 1254
+attribute: 0x6400A00001030002
+---
+Calzini larghi
+lavorati a maglia.
+
+---
+id: 1255
+attribute: 0x6400A00001030002
+---
+Camicia a quadri tartan.
+
+---
+id: 1256
+attribute: 0x6400A00001030002
+---
+Costume da signore feudale.
+
+---
+id: 1257
+attribute: 0x6400A00001030002
+---
+Hakama per la laurea.
+
+---
+id: 1258
+attribute: 0x6400A00001030002
+---
+Shinsengumi outfit with "誠"
+(sincerity) printed on it.
+
+---
+id: 1259
+attribute: 0x6400A00001030002
+---
+Tuta da ninja.
+
+---
+id: 1260
+attribute: 0x6400A00001030002
+---
+Tuta da virus scherzo.
+
+---
+id: 1261
+attribute: 0x6400A00001030002
+---
+Body con motivo a zebre.
+
+---
+id: 1262
+attribute: 0x6400A00001030002
+---
+Gonna di paglia naturale.
+
+---
+id: 1263
+attribute: 0x6400A00001030002
+---
+Canottiera.
+
+---
+id: 1264
+attribute: 0x6400A00001030002
+---
+Abito casual e
+pantaloncini bermuda.
+
+---
+id: 1265
+attribute: 0x6400A00001030002
+---
+Gonna etnica.
+
+---
+id: 1266
+attribute: 0x6400A00001030002
+---
+Camicia di flanella
+a quadri e jeans.
+
+---
+id: 1267
+attribute: 0x6400A00001030002
+---
+Pantaloni lavati
+con effetto chimico.
+
+---
+id: 1268
+attribute: 0x6400A00001030002
+---
+Collant a righe.
+
+---
+id: 1269
+attribute: 0x6400A00001030002
+---
+Tuta futuristica.
+
+---
+id: 1270
+attribute: 0x6400A00001030002
+---
+Costume da dinosauro.
+
+---
+id: 1271
+attribute: 0x6400A00001030002
+---
+Pigiama blu.
+
+---
+id: 1272
+attribute: 0x6400A00001030002
+---
+Pigiama rosa.
+
+---
+id: 1273
+attribute: 0x6400A00001030002
+---
+Costume da bagno
+bianco semplice.
+
+---
+id: 1274
+attribute: 0x6400A00001030002
+---
+Grembiule da asilo blu chiaro.
+
+---
+id: 1275
+attribute: 0x6400A00001030002
+---
+T-shirt con logo DS.
+
+---
+id: 1276
+attribute: 0x6400A00001030002
+---
+T-shirt con logo Wii.
+
+---
+id: 1277
+attribute: 0x6400A00001030002
+---
+Costume da fata con ali.
+
+---
+id: 1278
+attribute: 0x6400A00001030002
+---
+Divisa da postino.
+
+---
+id: 1279
+attribute: 0x6400A00001030002
+---
+Costume da cuoco.
+
+---
+id: 1280
+attribute: 0x6400A00001030002
+---
+Kimono non decorato.
+
+---
+id: 1281
+attribute: 0x6400A00001030002
+---
+Gilet grigio lavorato a maglia.
+
+---
+id: 1282
+attribute: 0x6400A00001030002
+---
+Abito a campana.
+
+---
+id: 1283
+attribute: 0x6400A00001030002
+---
+Abito autunnale con gradazione
+di colori.
+
+---
+id: 1284
+attribute: 0x6400A00001030002
+---
+Abito invernale viola
+notte silenziosa.
+
+---
+id: 1285
+attribute: 0x6400A00001030002
+---
+Abito primaverile con
+design floreale.
+
+---
+id: 1286
+attribute: 0x6400A00001030002
+---
+Abito estivo con motivo
+a palloncini d'acqua.
+
+---
+id: 1287
+attribute: 0x6400A00001030002
+---
+Da indossare nel tuo
+giorno speciale.
+
+---
+id: 1288
+attribute: 0x6400A00001030002
+---
+Costume da lottatore.
+
+---
+id: 1289
+attribute: 0x6400A00001030002
+---
+Top pastello e
+minigonna di jeans.
+
+---
+id: 1290
+attribute: 0x6400A00001030002
+---
+Maglietta con logo stampato
+sul retro.
+
+---
+id: 1291
+attribute: 0x6400A00001030002
+---
+Giacca in pile leggera.
+
+---
+id: 1292
+attribute: 0x6400A00001030002
+---
+Costume da nano.
+
+---
+id: 1293
+attribute: 0x6400A00001030002
+---
+Abito da camera.
+
+---
+id: 1294
+attribute: 0x6400A00001030002
+---
+Camicetta con colletto tondo.
+
+---
+id: 1295
+attribute: 0x6400A00001030002
+---
+Impermeabile giallo.
+
+---
+id: 1296
+attribute: 0x6400A00001030002
+---
+Polo e grembiule.
+
+---
+id: 1297
+attribute: 0x6400A00001030002
+---
+Abito con logo.
+
+---
+id: 1298
+attribute: 0x6400A00001030002
+---
+Camicia di flanella casual.
+
+---
+id: 1299
+attribute: 0x6400A00001030002
+---
+T-shirt con orsetto
+verde brillante.
+
+---
+id: 2000
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2001
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2002
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2003
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2004
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2005
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2006
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2007
+attribute: 0x6400A00001030002
+---
+ 
+
+---
+id: 2008
+attribute: 0x6400A00001030002
+---
+Una stanza con
+assolutamente nulla.
+
+---
+id: 2009
+attribute: 0x6400A00001030002
+---
+Tatami, tavolo da tè e
+TV retrò dell'era Showa.
+
+---
+id: 2010
+attribute: 0x6400A00001030002
+---
+Un interno per chi ama
+cani e cuccioli.
+
+---
+id: 2011
+attribute: 0x6400A00001030002
+---
+Con giocattoli e
+tappezzeria per bambini.
+
+---
+id: 2012
+attribute: 0x6400A00001030002
+---
+Con mobili a motivo
+floreale carino.
+
+---
+id: 2013
+attribute: 0x6400A00001030002
+---
+La sfida ardente
+tra i corridori!
+
+---
+id: 2014
+attribute: 0x6400A00001030002
+---
+Goditi l'atmosfera
+delle Mille e Una Notte.
+
+---
+id: 2015
+attribute: 0x6400A00001030002
+---
+Vivere sott'acqua è
+un'esperienza meravigliosa.
+
+---
+id: 2016
+attribute: 0x6400A00001030002
+---
+I colori verde e arancione
+creano un'atmosfera rilassante.
+
+---
+id: 2017
+attribute: 0x6400A00001030002
+---
+Sala da pranzo per
+una famiglia media.
+
+---
+id: 2018
+attribute: 0x6400A00001030002
+---
+Con piumino steso sul pavimento
+per dare sensazione di calore.
+
+---
+id: 2019
+attribute: 0x6400A00001030002
+---
+Una stanza lussuosa con
+stile sontuoso.
+
+---
+id: 2020
+attribute: 0x6400A00001030002
+---
+Con pareti verdi e mobili etnici
+per soddisfare i tuoi gusti.
+
+---
+id: 2021
+attribute: 0x6400A00001030002
+---
+Molto adatta a uno studente
+che si prepara per gli esami.
+
+---
+id: 2022
+attribute: 0x6400A00001030002
+---
+Con collezioni di antiquariato
+dei tempi antichi.
+
+---
+id: 2023
+attribute: 0x6400A00001030002
+---
+Lontano dal caos, ascolta
+il canto degli uccelli.
+
+---
+id: 2024
+attribute: 0x6400A00001030002
+---
+Non hai tempo per
+fare esercizio?
+
+---
+id: 2025
+attribute: 0x6400A00001030002
+---
+Benvenuto sulla luna!
+Sembra un viaggio nello spazio.
+
+---
+id: 2026
+attribute: 0x6400A00001030002
+---
+Troverai ogni tipo di
+record in questa stanza!
+
+---
+id: 2027
+attribute: 0x6400A00001030002
+---
+Una stanza fatta di cartone
+sgretolato per la vita frugale.
+
+---
+id: 2028
+attribute: 0x6400A00001030002
+---
+Il semplice è il meglio! Tutto è
+in monocromatico per l'unità.
+
+---
+id: 2029
+attribute: 0x6400A00001030002
+---
+Stanza in stile scandinavo
+semplice ma elegante.
+
+---
+id: 2030
+attribute: 0x6400A00001030002
+---
+Una stanza carina in rosa
+fatta apposta per le ragazze!
+
+---
+id: 2031
+attribute: 0x6400A00001030002
+---
+Ad ogni modo, è colorato!
+Goditi il tuo tempo allegro.
+
+---
+id: 2032
+attribute: 0x6400A00001030002
+---
+Una stanza con accessori rosa
+per una donna matura!
+
+---
+id: 2033
+attribute: 0x6400A00001030002
+---
+Tutte le pareti sono in cemento.
+È per il business!
+
+---
+id: 2034
+attribute: 0x6400A00001030002
+---
+Forse c'è qualcosa
+nell'oscurità...
+
+---
+id: 2035
+attribute: 0x6400A00001030002
+---
+Stai qui e non preoccuparti
+più quando ti ammali.
+
+---
+id: 2036
+attribute: 0x6400A00001030002
+---
+Per affinare
+il tuo senso estetico!
+
+---
+id: 2037
+attribute: 0x6400A00001030002
+---
+Cristalli scintillanti nel
+profondo della grotta!
+
+---
+id: 2038
+attribute: 0x6400A00001030002
+---
+Una stanza piena
+di dolci buonissimi.
+
+---
+id: 2039
+attribute: 0x6400A00001030002
+---
+Come un angolo di ufficio.
+Progredisci nel tuo lavoro!
+
+---
+id: 2040
+attribute: 0x6400A00001030002
+---
+Sarai circondato da
+merletti bianchi.
+
+---
+id: 2041
+attribute: 0x6400A00001030002
+---
+Sarà divertente aprire
+la cucina e fare una festa!
+
+---
+id: 2042
+attribute: 0x6400A00001030002
+---
+Per chi ama la musica.
+Tutti possono suonare!
+
+---
+id: 2043
+attribute: 0x6400A00001030002
+---
+Puoi ballare in
+qualsiasi momento!
+
+---
+id: 2044
+attribute: 0x6400A00001030002
+---
+Goditi il tempo e rilassati
+in spiaggia!
+
+---
+id: 2045
+attribute: 0x6400A00001030002
+---
+La fortezza spaziale
+che hai sempre desiderato!
+
+---
+id: 2046
+attribute: 0x6400A00001030002
+---
+Preparati per andare in scena
+in questa stanza.
+
+---
+id: 2047
+attribute: 0x6400A00001030002
+---
+Fatti un taglio elegante
+per il tuo outfit.
+
+---
+id: 2048
+attribute: 0x6400A00001030002
+---
+Forse capirai i sentimenti
+del pesce congelato.
+
+---
+id: 2049
+attribute: 0x6400A00001030002
+---
+Per chi ama la scuola.
+Non addormentarti in classe!
+
+---
+id: 2050
+attribute: 0x6400A00001030002
+---
+Fai una pausa e gioca
+a questi videogiochi nostalgici.
+
+---
+id: 2051
+attribute: 0x6400A00001030002
+---
+Stanza irresistibile per chi
+ama i giochi di sopravvivenza.
+
+---
+id: 2052
+attribute: 0x6400A00001030002
+---
+Impara l'alfabeto inglese
+con la piccola fata!
+
+---
+id: 2053
+attribute: 0x6400A00001030002
+---
+Una stanza arredata con
+mobili in legno naturale.
+
+---
+id: 2054
+attribute: 0x6400A00001030002
+---
+Comportati come un prigioniero
+circondato da sbarre di ferro!
+
+---
+id: 2055
+attribute: 0x6400A00001030002
+---
+Guarda l'aurora all'orizzonte
+nel cielo invernale!
+
+---
+id: 2056
+attribute: 0x6400A00001030002
+---
+Una stanza rilassante dove
+il tempo scorre lentamente.
+
+---
+id: 2057
+attribute: 0x6400A00001030002
+---
+Il misterioso spazio
+del cielo.
+
+---
+id: 2058
+attribute: 0x6400A00001030002
+---
+L'atmosfera è ottima
+per una coppia.
+
+---
+id: 2059
+attribute: 0x6400A00001030002
+---
+Divertiti con le porte
+scorrevoli giapponesi.
+
+---
+id: 2060
+attribute: 0x6400A00001030002
+---
+Ammira i ciliegi
+in piena fioritura.
+
+---
+id: 2061
+attribute: 0x6400A00001030002
+---
+Senti l'aria fresca del terreno
+bem compattato a terra.
+
+---
+id: 2062
+attribute: 0x6400A00001030002
+---
+È ora di sdraiarsi
+sull'erba verde.
+
+---
+id: 2063
+attribute: 0x6400A00001030002
+---
+Immergiti nell'atmosfera
+da adulti di una suite.
+
+---
+id: 2064
+attribute: 0x6400A00001030002
+---
+Benvenuto nel mondo
+dei fantasmi!
+
+---
+id: 2065
+attribute: 0x6400A00001030002
+---
+Con tutte le
+decorazioni divertenti!
+
+---
+id: 2066
+attribute: 0x6400A00001030002
+---
+Come un angolo di strada
+sotto la pioggia battente.
+
+---
+id: 2067
+attribute: 0x6400A00001030002
+---
+Appositamente per chi
+ama i gatti e i gattini!
+
+---
+id: 2068
+attribute: 0x6400A00001030002
+---
+Fai un bagno caldo
+guardando il Fuji. Paradiso~
+
+---
+id: 2069
+attribute: 0x6400A00001030002
+---
+Una riproduzione delle
+affascinanti rovine antiche.
+
+---
+id: 2070
+attribute: 0x6400A00001030002
+---
+Concediti un premio
+e vola in luoghi diversi!
+
+---
+id: 2071
+attribute: 0x6400A00001030002
+---
+Rilassati tra le piante
+e goditi il sole.
+
+---
+id: 2072
+attribute: 0x6400A00001030002
+---
+Ricevi latte fresco
+dalle mucche presto.
+
+---
+id: 2073
+attribute: 0x6400A00001030002
+---
+Un cortile dove puoi
+rilassarti con una tazza di tè.
+
+---
+id: 2074
+attribute: 0x6400A00001030002
+---
+Uno stadio di calcio
+con tanti spettatori!
+
+---
+id: 2075
+attribute: 0x6400A00001030002
+---
+Stanza elegante di prima classe
+per una donna.
+
+---
+id: 2076
+attribute: 0x6400A00001030002
+---
+Una stanza piena di collezioni
+di oro e argento!
+
+---
+id: 2077
+attribute: 0x6400A00001030002
+---
+Riproduzione della vera sede
+di Nintendo!
+
+---
+id: 3000
+attribute: 0x6400A00001030002
+---
+レベル５以上の住人がいないと
+販売できません。
+
+---
+id: 3100
+attribute: 0x6400A00001030002
+---
+レベル１０以上の住人がいないと
+販売できません。
+
+---
+id: 3200
+attribute: 0x6400A00001030002
+---
+レベル１５以上の住人がいないと
+販売できません。
+
+---
+id: 3300
+attribute: 0x6400A00001030002
+---
+レベル２０以上の住人がいないと
+販売できません。
+
+---
+id: 3400
+attribute: 0x6400A00001030002
+---
+レベル２５以上の住人がいないと
+販売できません。
+
+---
+id: 3500
+attribute: 0x6400A00001030002
+---
+レベル３０以上の住人がいないと
+販売できません。
