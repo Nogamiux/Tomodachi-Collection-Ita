@@ -2,17 +2,16 @@
 
 <h3 align="center">Traduzione italiana di Tomodachi Collection</h3>
 <p align="center"> Questa è una traduzione basata sul leggendario Tomodachi Collection per Nintendo DS, titolo uscito esclusivamente in Giappone </p>
-<p align="center"> ⚠ è La prima volta che mi cimento in questo mondo, per tanto ci potrebbero essere molti errori. sono comunque molto felice in caso vogliate provare questa traduzione. </p>
-<p align="center"> Essendo una traduzione NON ufficiale, Bug, errori di traduzione, crash improvvisi ed errori di sintassi sono molto frequenti. per ogni cosa potete aprire una [Issue](https://github.com/Nogamiux/Tomodachi-Collection-Ita/issues) questo semplifica di molto la risoluzione dei bug. </p>
+<p align="center"> Essendo una traduzione NON ufficiale, Bug, errori di traduzione, crash improvvisi ed errori di sintassi sono molto frequenti. per ogni cosa potete aprire una [Issue](https://github.com/Nogamiux/Tomodachi-Collection-Ita/issues) questo semplifica di molto la risoluzione dei bug.
+Usala consapevole dei possibili difetti. faremo sempre il possibile per risolverli.</p>
 
 <br>
 <br>
 
 <p> Siamo partiti dalla versione di <a href="https://gbatemp.net/threads/unfinished-tomodachi-collection-english-translation-patch.357438/">jjjewel</a>, autore della patch inglese del gioco. </p>
 
- <s> ⚠️ Attualmente la Beta 2 NON funziona su TWiLight Menu++, sono dunque necessari una qualsiasi Flashcard o emulatore come <a href="http://desmume.org/">DeSmuMe</a> o <a href="https://melonds.kuribo64.net/">MelonDS</a> </s>
-
- <h4> Dalla versione v27.17.1 di TWiLight Menu++, Tomodachi Collection - Ita (beta 2) è completamente supportato e non richiede più l'ausilio di flashcarts o emulatori </h4> 
+ <h4> Dalla versione v27.17.1 di TWiLight Menu++/Nds-Bootstrap 2.8.1 hotfix #1, Tomodachi Collection ITA  è completamente supportato e non richiede più l'ausilio di flashcarts o emulatori.</h4> 
+ <h4>Su Pico-Loader e sulle flashcart generiche funziona senza problemi.</h4>
 
 <br>
 
@@ -74,7 +73,7 @@
 
 Editor Esadecimale [HxD](https://mh-nexus.de/en/hxd/) By Maël Hörz
 
-Rom Editor [Tinke](https://github.com/pleonex/tinke) By pleonex
+Rom Editor [Tinke](https://github.com/pleonex/tinke) By pleonex And [TinkeDSi](https://github.com/R-YaTian/TinkeDSi)
 
 Image Editor [NitroPaint](https://github.com/Garhoogin/NitroPaint/releases) By Garhoogin
 And [Crystal Tile 2](https://www.romhacking.net/utilities/818/) By Angel Team
