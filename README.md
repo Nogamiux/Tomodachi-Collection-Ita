@@ -11,7 +11,7 @@ Usala consapevole dei possibili difetti. faremo sempre il possibile per risolver
 <p> Siamo partiti dalla versione di <a href="https://gbatemp.net/threads/unfinished-tomodachi-collection-english-translation-patch.357438/">jjjewel</a>, autore della patch inglese del gioco. </p>
 
  <h4> Dalla versione v27.17.1 di TWiLight Menu++/Nds-Bootstrap 2.8.1 hotfix #1, Tomodachi Collection ITA  è completamente supportato e non richiede più l'ausilio di flashcarts o emulatori.</h4> 
- <h4>Su Pico-Loader e sulle flashcart generiche funziona senza problemi.</h4>
+ <h4>Su Pico-Loader e sulle flashcard generiche funziona senza problemi.</h4>
 
 <br>
 
@@ -34,7 +34,7 @@ Usala consapevole dei possibili difetti. faremo sempre il possibile per risolver
 1. Una volta ottenuto tutto il necessario bisognerà accedere al sito linkato sopra
 2. Nella voce "Source File" inserire la rom .nds di Tomodachi Collection 1.1
 3. Nella voce "Patch file" inserire il file .xdelta scaricato nella pagina delle releases
-4. Premere "Apply Patch", il download del gioco dovrebbe iniziare e sarete pronti per giocare
+4. Premere "Apply Patch" ed inizierà il download. Quando sarà terminato, la rom sarà pronta per essere giocata.
 
 <br>
 
