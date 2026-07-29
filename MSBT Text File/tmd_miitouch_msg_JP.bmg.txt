@@ -894,7 +894,7 @@ Oggetti
 id: 1304420
 attribute: 0x6400400001010101
 ---
-Arreda...
+Stanze
 
 ---
 id: 1304430

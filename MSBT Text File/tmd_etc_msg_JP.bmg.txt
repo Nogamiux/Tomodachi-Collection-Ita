@@ -781,7 +781,7 @@ Visita
 id: 110300
 attribute: 0x6400280001010001
 ---
-Cancella
+Elimina
 
 ---
 id: 110400
@@ -1343,7 +1343,7 @@ Ha
 id: 400500
 attribute: 0x6400B40001030001
 ---
-Quanti Ne Vuoi Vendere?
+Quantità?
 
 ---
 id: 400600

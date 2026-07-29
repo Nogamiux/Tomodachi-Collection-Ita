@@ -1004,7 +1004,7 @@ Pietra lunare
 id: 165
 attribute: 0x6400780001030101
 ---
-Tessuto
+Fazzoletti
 
 ---
 id: 166
@@ -1238,13 +1238,13 @@ Palla di muschio
 id: 204
 attribute: 0x6400780001030101
 ---
-Sciroppo gastrico
+Sciroppo
 
 ---
 id: 205
 attribute: 0x6400780001030101
 ---
-Antinfluenzale
+Pillole
 
 ---
 id: 206
@@ -1286,19 +1286,19 @@ Virtual Boy
 id: 212
 attribute: 0x6400780001030101
 ---
-Set da bagno
+Set-da-bagno
 
 ---
 id: 213
 attribute: 0x6400780001030101
 ---
-Ventilatore elettrico
+Ventilatore
 
 ---
 id: 214
 attribute: 0x6400780001030101
 ---
-Set per l'ipnosi
+Set-Ipnosi
 
 ---
 id: 215

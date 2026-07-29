@@ -870,8 +870,8 @@ Prego, scegli un Mii da analizzare.
 id: 200205
 attribute: 0x6400B40001010007
 ---
-Select a partner you want to
-diagnose together with
+Selezione un partner che
+vuoi analizzare con
 {{255:0 arg="0x0700"}}{{1:1 arg="0x0000"}}{{255:0 arg="0x0800"}}.
 
 ---

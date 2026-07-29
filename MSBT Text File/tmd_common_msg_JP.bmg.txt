@@ -98,7 +98,7 @@ Compra
 id: 1300
 attribute: 0x6400580001010101
 ---
-Vendere
+Vendi
 
 ---
 id: 1400
