@@ -944,7 +944,7 @@ attribute: 0x6400F00001000101
 id: 155
 attribute: 0x6400F00001000101
 ---
-        {{255:65533 arg="0x0700"}}ITALIAN PATCH�
+        {{255:0 arg="0x0700"}}ITALIAN PATCH
 
 ---
 id: 156
@@ -992,7 +992,7 @@ attribute: 0x6400F00001000101
 id: 163
 attribute: 0x6400F00001000101
 ---
-           {{255:0 arg="0x0900"}}　Ricky676k
+           {{255:0 arg="0x0900"}}Ricky676k
 
 ---
 id: 164
@@ -1004,7 +1004,7 @@ attribute: 0x6400F00001000101
 id: 165
 attribute: 0x6400F00001000101
 ---
-           {{255:65533 arg="0x2000"}} PakoJSTL�
+           {{255:0 arg="0x0900"}}PakoJSTL
 
 ---
 id: 166
